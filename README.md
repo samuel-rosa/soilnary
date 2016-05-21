@@ -1,4 +1,9 @@
-# Rerefence Base for Soil Database Internationalization and Localization  
+---
+title: "Reference Base for Soil Database Internationalization and Localization"
+author: "Alessandro Samuel-Rosa"
+date: "21 May 2016"
+output: html_document
+---
 
 Production of up-to-date, high resolution global soil information seems to be gaining momentum. The Food and 
 Agriculture Organization (FAO) of the United Nations (UN), through the Global Soil Partnership (GSP) project, 
@@ -14,7 +19,7 @@ Multiple organizations have been working on the development of soil databases. M
 national level, which is operationally easier than working at the regional or global levels due to the use
 of standard procedures for soil description and analysis. Developing fully functional regional or global soil 
 databases requires not only rescuing and collating legacy soil data -- that already is a very difficult task 
---, but also the difficult and tedious work of *standardisation* and *harmonization*. Soil data standardisation
+--, but also the difficult and tedious work of *standardization* and *harmonization*. Soil data standardization
 and harmonization guarantee that a soil database can accommodate any soil data irrespective of its source, that
 is, the method of sampling, description, analysis, classification, mapping, measurement units, and so on.
 
@@ -31,16 +36,16 @@ The next step consists of developing a new data centre that will feature improve
 soil profile data contained in WoSIS.
 
 ## Contributors
+
 * [Alessandro Samuel-Rosa](http://samuel-rosa.github.io/)
-    + 2012--2013: Universidade Federal Rural do Rio de Janeiro, Brazil
-    + 2014--2014: ISRIC -- World Soil Information, the Netherlands
-    + 2015--present: Universidade Federal Rural do Rio de Janeiro, Brazil
+     + repository setup and management
+     + translation into Brazilian Portuguese
 * [Hannes Isaak Reuter](https://www.researchgate.net/profile/Hannes_Reuter)
-    + 2012--2013: ISRIC -- World Soil Information, the Netherlands
-    + 2013--present: GISCO Team of Eurostat, Luxembourg
+     + genesis of the concept of a soil dictionary
+     + setup of original English data tables
 * [Jorge Mendes de Jesus](http://www.isric.org/staff/Dr%20JS%20%28Jorge%29%20Mendes%20de%20Jesus)
-    + 2013--present: ISRIC -- World Soil Information, the Netherlands
+     + setup of original English data tables
 * [Eloi Ribeiro](http://www.isric.org/staff/E.%20%28Eloi%29%20Ribeiro)
-    + 2013--present: ISRIC -- World Soil Information, the Netherlands
+     + setup of original English data tables
 * [Lúcia Helena Cunha dos Anjos](https://www.researchgate.net/profile/Lucia_Anjos)
-    + 2012--present: Universidade Federal Rural do Rio de Janeiro, Brazil
+     + translation into Brazilian Portuguese
