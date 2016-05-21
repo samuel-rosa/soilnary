@@ -1,0 +1,282 @@
+AttributeId;Name
+2;Status da descrição do perfil de solo
+10;Temperatura média mensal
+20;Comprimento da vertente
+51;Tamanho dos artefatos
+217;Silte
+30;Cobertura superficial de fragmentos grosseiros
+43;Cobertura de areia esbranquiçada da superfície
+1;Número do perfil/código de identificação
+69;Forma de gesso secundário
+89;Forma dos revestimentos (coatings)
+122;Unidade de solo
+139;Frequência de inundação
+175;Superfície de água permanente
+191;Número de perfis de referência
+192;Posição no componente de terreno
+193;Tipo de erosão/deposição
+265;Conteúdo de silte (genérico)
+266;Conteúdo de argila (genérico)
+268;Status da localização do perfil
+269;Material parental/Rocha parental
+270;Modo de acumulação ou deposição
+271;Textura do material parental
+272;Status do intemperismo
+273;Resistência ao intemperismo
+274;Escoamento superficial
+21;Orientação da vertente
+22;Uso da terra
+23;Cultura
+24;Influência humana
+25;Vegetação
+29;Distância entre afloramentos de rocha
+33;Área afetada por erosão
+4;Autor
+6;Elevação
+178;Declividade dominante
+32;Categoria principal de erosão
+194;Sensibilidade ao selamento superficial
+67;Forma de carbonatos secundários
+275;Natureza da água de inundação
+26;Material parental
+27;Idade da superfície da terra
+31;Classe de tamanho dos fragmentos grosseiros na superfície
+205;Classificação taxonômica do solo pela FAO-Unesco
+5;Localização
+7;Número da folha/carta topográfica
+8;Geoforma principal
+11;Precipitação média mensal
+48;Classe textural do solo
+12;Comprimento do período de crescimento
+13;Condições meteorológicas atuais
+14;Condições meteorológicas pretéritas
+15;Temperatura do ar
+16;Regime de temperatura do solo
+17;Regime de umidade do solo
+18;Forma da vertente
+42;Espessura da cobertura de sal na superfície
+19;Gradiente do declive
+109;Intemperismo dos artefatos
+166;Elevação mínima
+34;Grau de erosão
+35;Período de atividade da erosão
+36;Espessura da crosta superficial
+37;Consistência da crosta superficial
+38;Largura das fendas superficiais
+39;Profundidade das fendas superficiais
+40;Distância entre as fendas superficiais
+41;Cobertura de sal na superfície
+206;Número do horizonte
+44;Limite superior do horizonte
+45;Limite inferior do horizonte
+46;Nitidez do limite do horizonte
+47;Topografia do limite do horizonte
+49;Abundância de fragmentos de rocha, por volume
+52;Forma dos fragmentos de rocha
+53;Estado de intemperismo dos fragmentos grosseiros
+54;Natureza dos fragmentos de rocha
+55;Grau de decomposição e humificação da turfa
+56;Camada orgânica aeromórfica no assoalho da floresta
+57;Cor seca da matriz do solo
+58;Cor úmida da matriz do solo
+59;Cor dos mosqueados
+60;Abundância de mosqueados
+61;Tamanho dos mosqueados
+62;Contraste dos mosqueados
+63;Limite dos mosqueados
+64;Características redoximórficas
+195;Profundidade potencial de enraizamento
+65;Condições de redução
+50;Tamanho dos fragmentos de rocha
+66;Reação dos carbonatos na matriz do solo
+83;Classificação da porosidade
+68;Conteúdo de gesso
+70;Designação do horizonte do solo
+71;Grau da estrutura dos materiais pédicos do solo
+73;Classe de tamanho para os tipos de estrutura do solo
+74;Relação estrutural composta
+75;Consistência quando seco
+76;Consistência quando úmido
+77;Consistência quando molhado: pegajosidade máxima
+78;Consistência quando molhado: plasticidade máxima
+79;Estado de água do solo
+196;Relação com outros componentes do solo
+80;Densidade do solo
+81;Subdivisão da fração areia
+82;Classe textural estimada no campo
+85;Diâmetro dos vazios
+86;Abundância de poros
+87;Abundância de revestimentos (coatings)
+90;Localização dos revestimentos (coatings)
+92;Estrutura da camada cimentada ou compactada
+93;Natureza da cimentação ou compactação
+94;Grau de cimentação ou compactação
+95;Abundância de concentrações minerais
+96;Tipo de concentração mineral
+97;Tamanho das concentração minerais
+98;Forma das concentrações minerais
+99;Dureza das concentrações minerais
+100;Natureza das concentrações minerais
+101;Cor das concentrações minerais
+102;Tamanho das raízes
+103;Abundância de raízes
+104;Abundância de atividade biológica
+105;Tipo de feições biológicas
+106;Abundância de artefatos, por volume
+107;Tipo de artefatos
+108;Dureza dos artefatos
+110;Cor dos artefatos
+111;Geoforma complexa
+112;Referência do grid
+113;Tipo de sal na superfície
+114;Odor do solo
+84;Classificação dos vazios (poros)
+115;Características ândicas
+116;Vidros vulcânicos
+165;Identificação (ID) do mapa
+117;Conteúdo de matéria orgânica estimado
+202;Identificação (ID) do perfil
+212;Areia grossa
+118;Sais prontamente solúveis
+119;Geoforma
+120;Classe de declividade
+121;Material parental não-consolidado
+123;Latitude
+124;Longitude
+128;Fase (1988)
+129;Topografia
+130;Elemento de terra
+131;Micro-topografia
+132;Relações solo-paisagem sequenciais
+133;Cobertura vegetal
+134;Profundidade efetiva do solo
+188;Profundidade da água subterrânea
+247;Mineralogia da argila
+135;Classe de drenagem
+136;Saturação
+203;Identificação (ID) do banco de dados do perfil
+204;Identificação (ID) do laboratório
+137;Condutividade hidráulica
+138;Drenagem externa
+140;Duração da inundação
+141;Profundidade da inundação
+142;Profundidade atual até o nível da água subterrânea
+143;Profundidade mínima até o nível da água subterrânea
+144;Profundidade máxima até o nível da água subterrânea
+145;Água freática
+146;Qualidade da água subterrânea
+147;Condições de umidade
+148;Argila
+149;Silte fino
+150;Silte grosso
+151;Silte
+152;Areia muito fina
+153;Areia fina
+154;Areia média
+155;Areia grossa
+156;Areia muito grossa
+157;Areia total
+158;Estimativa de campo do percentual de argila
+159;Natureza dos revestimentos (coatings)
+160;Estimativa de campo do pH
+161;Categoria principal de erosão
+162;Tipo de erosão
+163;Identificação (ID) da unidade SOTER
+167;Elevação máxima
+168;Declividade
+169;Intensidade do relevo
+224;Mg++ solúvel
+190;Número do componente de solo
+170;Geoforma principal
+171;Relevo regional
+172;Hipsometria
+210;Tamanho dos fragmentos grosseiros
+258;pH (H2O)
+282;Argila
+218;Taxa de infiltração
+221;Condutividade elétrica (CE)
+173;Dissecação
+174;Litologia geral
+176;Número do componente de terreno
+177;Proporção da unidade SOTER
+179;Comprimento da vertente
+180;Forma da vertente
+181;Forma da superfície local
+182;Elevação média
+183;Cobertura
+184;Litologia do material superficial
+185;Textura do material parental não-consolidado
+186;Profundidade até a rocha
+187;Drenagem superficial
+189;Início da inundação
+197;Mês de amostragem
+198;Ano de amostragem
+199;Material orgânico superficial
+200;Versão da classificação
+201;Classificação nacional ou local
+207;Horizonte diagnóstico
+208;Propriedade diagnóstica
+209;Tamanho dos elementos estruturais
+222;Na+ solúvel
+280;Silte
+223;Ca++ solúvel
+225;K+ solúvel
+226;Cl- solúvel
+227;SO4-- solúvel
+228;HCO3- solúvel
+229;CO3-- solúvel
+230;Ca++ trocável
+231;Mg++ trocável
+232;Na+ trocável
+233;K+ trocável
+234;Al+++ trocável
+235;Acidez trocável
+236;CTC do solo
+237;Carbonato total equivalente
+238;Gesso
+239;Carbono total
+240;Nitrogênio total
+241;Conteúdo de P2O5
+242;Retenção de fosfato
+243;Fe, extraível com ditionito
+244;Fe, extraível com pirofosfato
+245;Al, extraível com ditionito
+246;Al, extraível com pirofosfato
+248;Código de identificação (data_ID) dos dados do componente de terreno.
+249;Profundidade do solo
+250;Fase (1974)
+251;Grupo de solo de referência (WRB, 2006).
+252;Edição (ano) do Soil Taxonomy do USDA
+220;pH (KCl)
+211;Areia muito grossa
+216;Areia total
+278;Areia total
+253;Clima
+254;Material parental
+255;Designação do horizonte
+256;Carbono orgânico (genérico)
+257;Condutividade elétrica (genérico)
+259;pH (Kcl)
+260;pH (CaCl2)
+261;Acidez trocável (H+ e Al+++)
+262;Capacidade de Troca de Cátions (CTC)
+263;Saturação por bases (como percentual da CTC)
+264;Conteúdo de areia (genérico)
+28;Cobertura superficial de afloramentos de rocha
+72;Tipo de estrutura
+276;Quantidade de poros
+267;Conteúdo de fragmentos grosseiros
+277;Continuidade dos poros
+219;pH (H2O)
+164;Ano da coleta dos dados
+279;Areia total
+281;Silte
+283;Argila
+9;Posição 
+88;Contraste de revestimentos (coatings)
+91;Continuidade da cimentação ou compactação
+3;Data da descrição
+215;Areia muito fina
+214;Areia fina
+213;Areia média
+284;Multispec
