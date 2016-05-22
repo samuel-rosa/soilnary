@@ -5,10 +5,14 @@ date: "21 May 2016"
 output: html_document
 ---
 
-Internationalization and localization are concepts developed in the field of computing refering to the 
-adaptation of computer software to different languages and regional differences (read more about it in 
-[Wikipedia][wiki]). For computer software developers, the goal is to make their software usable and accessible
-to people that speak languages other than that with which the computer software has been documented. 
+**Internationalization** and **localization** are concepts developed in the field of computing refering to the 
+adaptation of computer software to different languages and regional differences. Like for computer software 
+developers, soil database developers aim at making their product usable and accessible to people that speak 
+languages other than that with which the computer software or the soil database has been written and 
+documented.
+
+The material organised in this repository is the result of a collaborative effort to help soil scientists and 
+soil database developers internationalizing and localizing their databases.
 
 ## Contributors
 
@@ -24,5 +28,3 @@ to people that speak languages other than that with which the computer software 
      + setup of original English data tables
 * [Lúcia Helena Cunha dos Anjos](https://www.researchgate.net/profile/Lucia_Anjos)
      + translation into Brazilian Portuguese
-
-[wiki]: https://en.wikipedia.org/wiki/Internationalization_and_localization
