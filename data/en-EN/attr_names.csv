@@ -1,334 +1,334 @@
-AttributeId;Description
-2;The status of the soil profile description refers to the quality of the soil description and the analytical data. The status is allocated after completion of the analyses and is indicative of the reliability of soil profile information entered into a database.
-10;The monthly mean temperature taken from the nearest meteorological station.
-20;The length of the slope of the land immediately surrounding the site (particularly above the site).
-51;Classification of artefacts, by size.
-217;Weight percentage of particles 0.002-0.05 mm in fine earth fraction.
-30;Surface cover of coarse fragment (including those partially exposed).
-43;Percentage of surface covered with bleached sand. The presence of bleached, loose sand grains on the surface is typical for certain soils and influences the reflection characteristics of the area and, hence, the image obtained through remote sensing.
-1;The profile number or profile identification code should be constructed in such a way that it meets local needs and also allows easy and simple retrieval of profile descriptions from computerized data storage systems. The profile identification code should be constructed from a combination of a location letter code and a profile number code. The letter code should consist of a practical selection of codes referring to a country, preferably the internationally accepted International Organization for Standardization (ISO) code, a topographic map reference or any other defined area or town. Example: DE/ST/HAL -0381 = Halle in Saxony-Anhalt in Germany, profile 381.
-69;The forms of secondary gypsum in soils are diverse and are considered to be informative for diagnostics of soil genesis.
-89;For some coatings, the form may be informative for their genesis. For example, manganese and iron–manganese coatings of dendroidal form indicate their formation owing to poor infiltration and periodically reductive conditions because of percolating water.
-122;The soil unit refers to a local classification system or legend unit of which the profile is representative.
-139;Frequency of flooding or temporary inundation
-175;The percentage of the SOTER unit that is largely (i.e. > 90%, thus excluding small islands etc.) permanently (i.e. more than 10 month/year) covered by water. Bodies of water large enough to be delineated on the map are not considered part of a SOTER unit.
-191;The number of reference profiles that were considered for the selection of the representative profile is indicated. These profiles have also contributed to the determination of maximum and minimum values for a number of chemical and physical parameters of the soil. A SOTER soil component attribute.
-192;The relative position of the soil component within the terrain component.
-193;Characterization of the erosion or deposition type according to FAO (1990).
-265;Weight percentage of silt. The particle size distribution refers to the fine earth fraction only (< 2 mm). The analytical proccedure and equivalent spherical diameter is defined in the laboratory analytical method.
-266;Weight percentage of clay. The particle size distribution refers to the fine earth fraction only (< 2 mm). The analytical proccedure and equivalent spherical diameter is defined in the laboratory analytical method.
-268;"The conditions from which the profile locations were derived; it is indicative for the accuracy of the profile location"
-269;"Parent material is defined as the unconsolidated mineral or organic material from which the true soil develops.
-Parent rock is defined as the rock mass from which parent material is derived."
-270;Mode of accumulation or deposition of parent material.
-271;Texture of parent material.
-272;General characterization of the weathering status of solid rock.
-273;Resistance to weathering (solid rock only).
-274;Estimated run off
-21;"The aspect (orientation) of the slope of the land immediately surrounding the site. The orientation influences, for example, the precipitation input, the temperature regime, the risk for wind impact and the character of humus formed in higher latitudes.
-The orientation that a slope is facing is coded N for north, E for east, S for south and W for west; for example, SSW means south-southwest."
-22;"Land use applies to the current use of the land, whether agricultural or nonagricultural, in which the soil is located. Land use has a major influence on the direction and rate of soil formation; its recording enhances the interpretative value of the soil data considerably."
-23;A crop is a plant that is cultivated for its economic value. Information on crops is important because it gives an idea of the nature of soil disturbance as a result of crop management practices as well as the nutrient and soil management requirements of the crop.
-24;Any evidence of human activity that is likely to have affected the landscape or the physical and chemical properties of the soil. Erosion is dealt with separately.
-25;"Vegetation is a dominant factor in soil formation as it is the primary source of organic matter and because of its major role in the nutrient cycling and hydrology of a site. There is no uniform acceptance of a system for the description of the natural or semi-natural vegetation. The kind of vegetation can be described using a local, regional or international system. A common example is the vegetation classification according to UNESCO (1973, see updated SOTER; ISRIC, 2005)."
-29;Distance between rock outcrops (single or clusters).
-33;An estimate of the total area affected by erosion and deposition.
-4;The persons who perform the description need to be acknowledged properly in future uses of the soil data. In addition, they hold responsibility for the quality of the data. The names or initials of the authors are given.
-6;"The elevation of the site relative to sea level, obtained as accurately as possible, preferably from detailed contour or topographic maps. Where such
+AttributeId	Description
+1	The profile number or profile identification code should be constructed in such a way that it meets local needs and also allows easy and simple retrieval of profile descriptions from computerized data storage systems. The profile identification code should be constructed from a combination of a location letter code and a profile number code. The letter code should consist of a practical selection of codes referring to a country, preferably the internationally accepted International Organization for Standardization (ISO) code, a topographic map reference or any other defined area or town. Example: DE/ST/HAL -0381 = Halle in Saxony-Anhalt in Germany, profile 381.
+2	The status of the soil profile description refers to the quality of the soil description and the analytical data. The status is allocated after completion of the analyses and is indicative of the reliability of soil profile information entered into a database.
+3	Indication of the date of description, in order to inform future users of the soil data as to how old the data are.
+4	The persons who perform the description need to be acknowledged properly in future uses of the soil data. In addition, they hold responsibility for the quality of the data. The names or initials of the authors are given.
+5	A description of the site location. It should be as precise as possible in terms of the distance (in metres or kilometres) and direction to the site from permanent features that are recognizable in the field and on the topographic map. Distances along roads or traverses relate to a marked reference point (0.0 km). The description of the location should be such that users who are unfamiliar with the area are able to locate the approximate position of the site. The administrative units, such as region, province, district, country or locality, are given in the profile number section (above). Example: Agricultural research station Bad Lauchstädt, Sachsen-Anhalt.
+6	"The elevation of the site relative to sea level, obtained as accurately as possible, preferably from detailed contour or topographic maps. Where such
 information is not available, the best possible estimate is made from general maps or by altimeter readings. At present, determination of elevation by the Global Positioning System (GPS) unit is inaccurate and unacceptable. Elevation is given in metres (1 foot = 0.3048 m)."
-178;Dominant slope gradient of the terrain component (percentage).
-32;"Erosion can be classified as water or wind erosion, and include off-site effects such as deposition; a third major category is mass movements (landslides and related phenomena)."
-194;The degree in which the soil surface has a tendency to capping and sealing (FAO, 1990).
-67;The forms of secondary carbonates in soils are diverse and are considered to be informative for diagnostics of soil genesis. Soft carbonate concentrations are considered to be illuvial, and hard concretions are generally believed to be of hydrogenic nature.
-275;Nature of flood water
-26;"Origin and nature of the material from which the soil has presumably been derived. There are basically two groups of parent material on which the soil has formed: unconsolidated materials (mostly sediments); and weathering materials overlying the hard rock from which they originate. There are transitional cases, such as partly consolidated materials and weathering materials that have been transported, either by water, called alluvium (fluvial if transported by stream), or by gravity, called colluvium. There are also restored natural soil materials or sediments as well as technogenic materials. The reliability of the geological information and the knowledge of the local lithology will determine whether a general or a specific definition of the parent material can be given.
+7	The number of the topographic map sheet, preferably at 1:25 000 or 1:50 000 scale, on which the soil observation occurs is given. Example: TK50 L4536 Halle (Saale) = Topographic map 1:50 000 Number L4536 of Halle.
+8	"Landforms are described foremost by their morphology and not by their genetic origin or processes responsible for their shape. The dominant slope is the most important differentiating criterion, followed by the relief intensity. The relief intensity is the median difference between the highest and lowest point within the terrain per specified distance. The specified distance can be variable. The relief intensity is normally given in metres per kilometre.
+Source: Updated SOTER, ISRIC, 2005. 
+Changes proposed at the SOTER meeting at Ispra, October 2004."
+9	"An indication of the relative position of the site within the land. The position affects the hydrological conditions of the site (external and internal drainage, e.g. subsurface runoff), which may be interpreted as being predominantly
+water receiving, water shedding or neither of these."
+10	The monthly mean temperature taken from the nearest meteorological station.
+11	The monthly mean precipitation taken from the nearest meteorological station.
+12	The length of the growing period is defined as the period with humid conditions (excess of precipitation over potential evapotranspiration) during the time with temperature ≥ 5 °C (FAO, 1978).
+13	Prevailing general weather conditions at the time of observation.
+14	Prevailing general weather conditions prior to the time of observation.
+15	Air temperature at the time of observation.
+16	The soil temperature regime according to Keys to Soil Taxonomy (USDA Soil Survey Staff, 2003).
+17	"The soil temperature regime according to Keys to Soil Taxonomy (USDA Soil Survey Staff, 2003). The term “soil moisture regime” refers to the presence or absence either of ground water or of water held at a tension of less than 1500 kPa in the soil or in specific horizons during periods of the year. Water held at a tension of 1500 kPa or more is not available to keep most mesophytic plants alive. The availability of water is also affected by dissolved salts. If a soil is saturated with water that is too salty to be available to most plants, it is considered salty rather than dry. Consequently, a horizon is considered dry when the moisture tension is 1500 kPa or more and is considered moist if water is held at a tension of less than 1500 kPa but more than zero. A soil may be continuously moist in some or all horizons either throughout the year or for some part of the year. It may be either moist in winter and dry in summer or the reverse. In the Northern Hemisphere, summer refers to June, July, and August and winter refers to December, January, and February.
+
+The soil moisture regimes are defined in terms of the level of ground water and in terms of the seasonal presence or absence of water held at a tension of less than 1500 kPa in the moisture control section. It is assumed in the definitions that the soil supports whatever vegetation it is capable of supporting, i.e., crops, grass, or native vegetation, and that the amount of stored moisture is not being increased by irrigation or fallowing. These cultural practices affect the soil moisture conditions as long as they are continued."
+18	The slope form refers to the general shape of the slope in both the vertical and horizontal directions.
+19	"The slope gradient refers to the slope of the land immediately surrounding the site. It is measured using a clinometer aimed in the direction of the steepest slope. Where clinometer readings are not possible, field estimates of slope gradient should be matched against calculated gradients from contour maps.
+Slope gradients in almost flat terrain are often overestimated. In open plains, slope gradients of 0.2 percent are usually clearly visible. The proper recording of minor slope-gradient variations is important, especially for erosion,
+irrigation and drainage.
+The slope gradient is recorded by means of the actual, measured value."
+20	The length of the slope of the land immediately surrounding the site (particularly above the site).
+21	"The aspect (orientation) of the slope of the land immediately surrounding the site. The orientation influences, for example, the precipitation input, the temperature regime, the risk for wind impact and the character of humus formed in higher latitudes.
+The orientation that a slope is facing is coded N for north, E for east, S for south and W for west; for example, SSW means south-southwest."
+22	Land use applies to the current use of the land, whether agricultural or nonagricultural, in which the soil is located. Land use has a major influence on the direction and rate of soil formation; its recording enhances the interpretative value of the soil data considerably.
+23	A crop is a plant that is cultivated for its economic value. Information on crops is important because it gives an idea of the nature of soil disturbance as a result of crop management practices as well as the nutrient and soil management requirements of the crop.
+24	Any evidence of human activity that is likely to have affected the landscape or the physical and chemical properties of the soil. Erosion is dealt with separately.
+25	Vegetation is a dominant factor in soil formation as it is the primary source of organic matter and because of its major role in the nutrient cycling and hydrology of a site. There is no uniform acceptance of a system for the description of the natural or semi-natural vegetation. The kind of vegetation can be described using a local, regional or international system. A common example is the vegetation classification according to UNESCO (1973, see updated SOTER; ISRIC, 2005).
+26	"Origin and nature of the material from which the soil has presumably been derived. There are basically two groups of parent material on which the soil has formed: unconsolidated materials (mostly sediments); and weathering materials overlying the hard rock from which they originate. There are transitional cases, such as partly consolidated materials and weathering materials that have been transported, either by water, called alluvium (fluvial if transported by stream), or by gravity, called colluvium. There are also restored natural soil materials or sediments as well as technogenic materials. The reliability of the geological information and the knowledge of the local lithology will determine whether a general or a specific definition of the parent material can be given.
 
 For weathered rock, the code WE is first entered, followed by the rock-type code. The code SA for saprolite is recommended where the in situ weathered material is thoroughly decomposed, clay-rich but still showing rock structure. Alluvial deposits and colluvium derived from a single rock type may be further specified by that rock type. Where one parent material overlies another, both are indicated. 
 
 The parent material is coded according to updated SOTER (ISRIC, 2005) at the lowest level of hierarchy as possible. As SOTER was developed to work with maps on a scale of 1:1 000 000, it was a requirement to have not too many rock types. In order to be able to work in smaller scales, some additional natural and anthropogenic parent materials are included. For identification in the field, a key to the most important rock types is provided below the extended hierarchical SOTER list."
-27;The age of the landscape is important information from which the possible duration of the occurrence of soil formation processes can be derived. Because many soils are formed from preweathered or moved materials, or may have been derived from an assemblage of autochthonous, fluvial and eolian materials, it is often difficult to obtain precise information. However, an estimate will help to interpret soil data and interaction between different soil forming processes. It may also indicate possible climate changes during soil formation.
-31;Size class of coarse surface fragments, indicating the greatest dimension
-205;Soil taxonomic classification according to the Legend of the Soil Map of the World (FAO-Unesco, Rome)
-5;A description of the site location. It should be as precise as possible in terms of the distance (in metres or kilometres) and direction to the site from permanent features that are recognizable in the field and on the topographic map. Distances along roads or traverses relate to a marked reference point (0.0 km). The description of the location should be such that users who are unfamiliar with the area are able to locate the approximate position of the site. The administrative units, such as region, province, district, country or locality, are given in the profile number section (above). Example: Agricultural research station Bad Lauchstädt, Sachsen-Anhalt.
-7;The number of the topographic map sheet, preferably at 1:25 000 or 1:50 000 scale, on which the soil observation occurs is given. Example: TK50 L4536 Halle (Saale) = Topographic map 1:50 000 Number L4536 of Halle.
-8;"Landforms are described foremost by their morphology and not by their genetic origin or processes responsible for their shape. The dominant slope is the most important differentiating criterion, followed by the relief intensity. The relief intensity is the median difference between the highest and lowest point within the terrain per specified distance. The specified distance can be variable. The relief intensity is normally given in metres per kilometre.
-Source: Updated SOTER, ISRIC, 2005. 
-Changes proposed at the SOTER meeting at Ispra, October 2004."
-11;The monthly mean precipitation taken from the nearest meteorological station.
-48;A textural class describes combined particle-size classes for the described soil material.
-12;The length of the growing period is defined as the period with humid conditions (excess of precipitation over potential evapotranspiration) during the time with temperature ≥ 5 °C (FAO, 1978).
-13;Prevailing general weather conditions at the time of observation.
-14;Prevailing general weather conditions prior to the time of observation.
-15;Air temperature at the time of observation.
-16;The soil temperature regime according to Keys to Soil Taxonomy (USDA Soil Survey Staff, 2003).
-17;"The soil temperature regime according to Keys to Soil Taxonomy (USDA Soil Survey Staff, 2003). The term “soil moisture regime” refers to the presence or absence either of ground water or of water held at a tension of less than 1500 kPa in the soil or in specific horizons during periods of the year. Water held at a tension of 1500 kPa or more is not available to keep most mesophytic plants alive. The availability of water is also affected by dissolved salts. If a soil is saturated with water that is too salty to be available to most plants, it is considered salty rather than dry. Consequently, a horizon is considered dry when the moisture tension is 1500 kPa or more and is considered moist if water is held at a tension of less than 1500 kPa but more than zero. A soil may be continuously moist in some or all horizons either throughout the year or for some part of the year. It may be either moist in winter and dry in summer or the reverse. In the Northern Hemisphere, summer refers to June, July, and August and winter refers to December, January, and February.
-
-The soil moisture regimes are defined in terms of the level of ground water and in terms of the seasonal presence or absence of water held at a tension of less than 1500 kPa in the moisture control section. It is assumed in the definitions that the soil supports whatever vegetation it is capable of supporting, i.e., crops, grass, or native vegetation, and that the amount of stored moisture is not being increased by irrigation or fallowing. These cultural practices affect the soil moisture conditions as long as they are continued."
-18;The slope form refers to the general shape of the slope in both the vertical and horizontal directions.
-42;Thickness of salt cover at the surface.
-19;"The slope gradient refers to the slope of the land immediately surrounding the site. It is measured using a clinometer aimed in the direction of the steepest slope. Where clinometer readings are not possible, field estimates of slope gradient should be matched against calculated gradients from contour maps.
-Slope gradients in almost flat terrain are often overestimated. In open plains, slope gradients of 0.2 percent are usually clearly visible. The proper recording of minor slope-gradient variations is important, especially for erosion,
-irrigation and drainage.
-The slope gradient is recorded by means of the actual, measured value."
-109;The state of weathering of artefacts
-166;Absolute minimum elevation of the SOTER unit, in metres above sea level. The minimum elevation can be read from a contoured topographic map.
-34;It is difficult to define classes of the degree of erosion that would be equally appropriate for all soils and environments and that would also fit the various types of water and wind erosion. Four classes are recommended, which may have to be further defined for each type or combination of erosion and deposition and specific environment.
-35;The period of activity of accelerated erosion or deposition.
-36;Thickness of the surface crust.
-37;Consistency of the surface crust.
-38;The width (average, or average width and maximum width) of the cracks at the surface.
-39;Depth of surface cracks.
-40;The average distance between surface cracks.
-41;The occurrence of salt at the surface described in terms of cover.
-206;A consecutive number, starting with the surface horizon, allocated to each horizon.
-44;"The depth of the upper boundary of each horizon in centimetres, measured from the surface (including organic and mineral covers) of the soil downwards.
+27	The age of the landscape is important information from which the possible duration of the occurrence of soil formation processes can be derived. Because many soils are formed from preweathered or moved materials, or may have been derived from an assemblage of autochthonous, fluvial and eolian materials, it is often difficult to obtain precise information. However, an estimate will help to interpret soil data and interaction between different soil forming processes. It may also indicate possible climate changes during soil formation.
+28	Surface cover of rock outcrops. 
+29	Distance between rock outcrops (single or clusters).
+30	Surface cover of coarse fragment (including those partially exposed).
+31	Size class of coarse surface fragments, indicating the greatest dimension
+32	Erosion can be classified as water or wind erosion, and include off-site effects such as deposition; a third major category is mass movements (landslides and related phenomena).
+33	An estimate of the total area affected by erosion and deposition.
+34	It is difficult to define classes of the degree of erosion that would be equally appropriate for all soils and environments and that would also fit the various types of water and wind erosion. Four classes are recommended, which may have to be further defined for each type or combination of erosion and deposition and specific environment.
+35	The period of activity of accelerated erosion or deposition.
+36	Thickness of the surface crust.
+37	Consistency of the surface crust.
+38	The width (average, or average width and maximum width) of the cracks at the surface.
+39	Depth of surface cracks.
+40	The average distance between surface cracks.
+41	The occurrence of salt at the surface described in terms of cover.
+42	Thickness of salt cover at the surface.
+43	Percentage of surface covered with bleached sand. The presence of bleached, loose sand grains on the surface is typical for certain soils and influences the reflection characteristics of the area and, hence, the image obtained through remote sensing.
+44	"The depth of the upper boundary of each horizon in centimetres, measured from the surface (including organic and mineral covers) of the soil downwards.
 Precise notations in centimetres are used where boundaries are abrupt or clear. Rounded-off figures (to the nearest 5 cm) are entered where the boundaries are gradual or diffuse, avoiding the suggestion of spurious levels of accuracy. For boundaries near diagnostic limits, the depth is indicated as a medium value for the transitional zone (if it starts at 16 cm and terminates at 23 cm, the depth should be 19.5 cm)."
-45;"The depth of the lower boundary of each horizon in centimetres, measured from the surface (including organic and mineral covers) of the soil downwards.
+45	"The depth of the lower boundary of each horizon in centimetres, measured from the surface (including organic and mineral covers) of the soil downwards.
 Precise notations in centimetres are used where boundaries are abrupt or clear. Rounded-off figures (to the nearest 5 cm) are entered where the boundaries are gradual or diffuse, avoiding the suggestion of spurious levels of accuracy. For boundaries near diagnostic limits, the depth is indicated as a medium value for the transitional zone (if it starts at 16 cm and terminates at 23 cm, the depth should be 19.5 cm)."
-46;The distinctness of the boundary refers to the thickness of the zone in which the horizon boundary can be located without being in one of the adjacent horizons
-47;The topography of the boundary indicates the smoothness of depth variation of the boundary.
-49;The abundance class limits for large rock and mineral fragments (> 2 mm) correspond with the ones for surface coarse fragments and mineral nodules, and the 40-percent boundary coincides with the requirement for the skeletic phase. Rock fragments may form a “stone line” within a horizon instead of being distributed regularly.
-52;The general shape or roundness of rock fragments.
-53;The state of weathering of rock fragments.
-54;The nature of rock fragments is described by using the same terminology as for the rock-type, or parent material, description. For primary mineral fragments, other codes are used.
-55;In most organic layers, the determination of the texture class is not possible. More valuable is an estimate of the degree of decomposition and humification of the organic material. Colour and percentage of recognizable plant tissue of dry as well as of wet organic material can be used to estimate the degree of decomposition.
-56;On forest floors, especially under temperate and cool climates, organic matter is commonly accumulated in more or less decomposed organic layers under terrestrial conditions. In acidic and nutrient poor mineral soils, the nutrient stock of the organic layers is of vital interest for the vegetation cover. The three major forms are, raw humus, moder and mull.
-57;The colour of the soil matrix of each horizon is recorded in the dry condition using the notations for hue, value and chroma as given in the Munsell Soil Color Charts (Munsell, 1975).
-58;The colour of the soil matrix of each horizon is recorded in the moist condition using the notations for hue, value and chroma as given in the Munsell Soil Color Charts (Munsell, 1975).
-59;The colour of the mottles are decribed in general terms, corresponding to the Munsell Soil Color Charts.
-60;The abundance of mottles in terms of classes indicating the percentage of the exposed surface that the mottles occupy.
-61;Size class used to indicate the approximate diameters of individual mottles.
-62;Colour contrast between mottles and soil matrix.
-63;The boundary between mottle and matrix is described as the thickness of the zone within which the colour transition can be located without being in either the mottle or matrix.
-64;Soil redox potential is an important physico-chemical parameter used to characterize soil aeration status and availability of some nutrients. The redox potential is also used in the WRB classification to classify redoximorphic soils.
-195;Estimated depth in cm to which root growth is unrestricted by any physical or chemical impediment, such as an impenetrable or toxic layer. Strongly fractured rocks, such as shales, may be considered as rootable. Classes after FAO (1990).
-65;Reductimorphic properties of the soil matrix reflect permanently wet or at least reduced conditions. They are expressed by neutral (white to black: Munsell N1 to N) or bluish to greenish colours (Munsell 2.5 Y, 5 Y, 5 G, 5 B). The colour pattern will often change by aeration in minutes to days owing to oxidation processes.
-50;Size of rock fragments.
-66;Carbonates in soils are either residues of the parent material or the result of neo-formation (secondary carbonates). The latter are concentrated mainly in the form of soft powdery lime, coatings on peds, concretions, surface or subsoil crusts, or hard banks. The presence of calcium carbonate (CaCO3) is established by adding some drops of 10-percent HCl to the soil. The degree of effervescence of carbon dioxide gas is indicative for the amount of calcium carbonate present.
-83;The porosity is an indication of the total volume of voids discernible with a ×10 hand-lens measured by area and recorded as the percentage of the surface occupied by pores.
-68;Gypsum (CaSO4·2H2O) may be found in the form of residues of gypsiric parent material or new formed features. The latter are pseudomycelia, coarse-sized crystals (individualized, as nests, beards or coatings, or as elongated groupings of fibrous crystals) or loose to compact powdery accumulations. The latter form gives the gypsic horizon a massive structure and a sandy texture.
-70;"The soil horizon designation summarizes many observations of the soil description and gives an impression about the genetic processes that have formed the soil under observation. Horizon symbols consist of one or two capital letters for the master horizon and lower case letter suffixes for subordinate distinctions, with or without a figure suffix.
+46	The distinctness of the boundary refers to the thickness of the zone in which the horizon boundary can be located without being in one of the adjacent horizons
+47	The topography of the boundary indicates the smoothness of depth variation of the boundary.
+48	A textural class describes combined particle-size classes for the described soil material.
+49	The abundance class limits for large rock and mineral fragments (> 2 mm) correspond with the ones for surface coarse fragments and mineral nodules, and the 40-percent boundary coincides with the requirement for the skeletic phase. Rock fragments may form a “stone line” within a horizon instead of being distributed regularly.
+50	Size of rock fragments.
+51	Classification of artefacts, by size.
+52	The general shape or roundness of rock fragments.
+53	The state of weathering of rock fragments.
+54	The nature of rock fragments is described by using the same terminology as for the rock-type, or parent material, description. For primary mineral fragments, other codes are used.
+55	In most organic layers, the determination of the texture class is not possible. More valuable is an estimate of the degree of decomposition and humification of the organic material. Colour and percentage of recognizable plant tissue of dry as well as of wet organic material can be used to estimate the degree of decomposition.
+56	On forest floors, especially under temperate and cool climates, organic matter is commonly accumulated in more or less decomposed organic layers under terrestrial conditions. In acidic and nutrient poor mineral soils, the nutrient stock of the organic layers is of vital interest for the vegetation cover. The three major forms are, raw humus, moder and mull.
+57	The colour of the soil matrix of each horizon is recorded in the dry condition using the notations for hue, value and chroma as given in the Munsell Soil Color Charts (Munsell, 1975).
+58	The colour of the soil matrix of each horizon is recorded in the moist condition using the notations for hue, value and chroma as given in the Munsell Soil Color Charts (Munsell, 1975).
+59	The colour of the mottles are decribed in general terms, corresponding to the Munsell Soil Color Charts.
+60	The abundance of mottles in terms of classes indicating the percentage of the exposed surface that the mottles occupy.
+61	Size class used to indicate the approximate diameters of individual mottles.
+62	Colour contrast between mottles and soil matrix.
+63	The boundary between mottle and matrix is described as the thickness of the zone within which the colour transition can be located without being in either the mottle or matrix.
+64	Soil redox potential is an important physico-chemical parameter used to characterize soil aeration status and availability of some nutrients. The redox potential is also used in the WRB classification to classify redoximorphic soils.
+65	Reductimorphic properties of the soil matrix reflect permanently wet or at least reduced conditions. They are expressed by neutral (white to black: Munsell N1 to N) or bluish to greenish colours (Munsell 2.5 Y, 5 Y, 5 G, 5 B). The colour pattern will often change by aeration in minutes to days owing to oxidation processes.
+66	Carbonates in soils are either residues of the parent material or the result of neo-formation (secondary carbonates). The latter are concentrated mainly in the form of soft powdery lime, coatings on peds, concretions, surface or subsoil crusts, or hard banks. The presence of calcium carbonate (CaCO3) is established by adding some drops of 10-percent HCl to the soil. The degree of effervescence of carbon dioxide gas is indicative for the amount of calcium carbonate present.
+67	The forms of secondary carbonates in soils are diverse and are considered to be informative for diagnostics of soil genesis. Soft carbonate concentrations are considered to be illuvial, and hard concretions are generally believed to be of hydrogenic nature.
+68	Gypsum (CaSO4·2H2O) may be found in the form of residues of gypsiric parent material or new formed features. The latter are pseudomycelia, coarse-sized crystals (individualized, as nests, beards or coatings, or as elongated groupings of fibrous crystals) or loose to compact powdery accumulations. The latter form gives the gypsic horizon a massive structure and a sandy texture.
+69	The forms of secondary gypsum in soils are diverse and are considered to be informative for diagnostics of soil genesis.
+70	"The soil horizon designation summarizes many observations of the soil description and gives an impression about the genetic processes that have formed the soil under observation. Horizon symbols consist of one or two capital letters for the master horizon and lower case letter suffixes for subordinate distinctions, with or without a figure suffix.
 
 The master horizons and their subdivisions represent layers that show evidence of change and some layers that have not been changed. Most are genetic soil horizons, reflecting a qualitative judgement about the kind of changes that have taken place.
 Designations of subordinate distinctions and features within the master horizons and layers are based on profile characteristics observable in the field and are applied during the description of the soil at the site. Lower case letters are used as suffixes to designate specific kinds of master horizons and layers, and other features.
 Horizons or layer designated by a single combination of letter symbols can be subdivided using Arabic numerals, which follow all the letters. A horizon identified by a single set of letter symbol may be subdivided on the basis of evident morphological features, such as structure, colour or texture.
 In mineral soils, Arabic numerals are used as prefixes to indicate discontinuities. A discontinuity is a significant change in particle-size distribution or mineralogy that indicates a difference in the material from which the horizons formed or a significant difference in age or both, unless that difference in age is indicated by the suffix b."
-71;In describing the grade or development of the structure, the first division is into apedal soils (lacking soil structure) and pedal soils (showing soil structure). In apedal or structureless soil, no aggregates are observable in place and there is no definite arrangement of natural surfaces of weakness. Structureless soils are subdivided into single grain and massive. Single-grain soil material has a loose, soft or very friable consistence and consists on rupture of more than 50 percent discrete mineral particles. Massive soil material normally has a stronger consistence and is more coherent on rupture. Massive soil material may be further defined by consistence and porosity.
-73;Size classes vary with the structure type. For prismatic, columnar and platy structures, the size classes refer to the measurements of the smallest dimension of the aggregate.
-74;Where a second structure is present, its relation to the first structure is described. The first and second structures may both be present (e.g. columnar and prismatic structures). The primary structure may break down into a secondary structure (e.g. prismatic breaking into angular blocky). The first structure may merge into the second structure (e.g. platy merging into prismatic).
-75;The consistence when dry is determined by breaking an air-dried mass of soil between thumb and forefinger or in the hand.
-76;Consistence when moist is determined by attempting to crush a mass of moist or slightly moist soil material.
-77;"Stickiness is the quality of adhesion of the soil material to other objects determined by noting the adherence of soil material when it is pressed between thumb and finger.
+71	In describing the grade or development of the structure, the first division is into apedal soils (lacking soil structure) and pedal soils (showing soil structure). In apedal or structureless soil, no aggregates are observable in place and there is no definite arrangement of natural surfaces of weakness. Structureless soils are subdivided into single grain and massive. Single-grain soil material has a loose, soft or very friable consistence and consists on rupture of more than 50 percent discrete mineral particles. Massive soil material normally has a stronger consistence and is more coherent on rupture. Massive soil material may be further defined by consistence and porosity.
+72	"Soil structure refers to the natural organization of soil particles into discrete soil units (aggregates or peds) that result from pedogenetic processes. The aggregates are separated from each other by pores or voids.
+Type of structure refers to the  basic natural types of structure. Special cases or combinations of structures may be distinguished, which are subdivisions of the basic structures."
+73	Size classes vary with the structure type. For prismatic, columnar and platy structures, the size classes refer to the measurements of the smallest dimension of the aggregate.
+74	Where a second structure is present, its relation to the first structure is described. The first and second structures may both be present (e.g. columnar and prismatic structures). The primary structure may break down into a secondary structure (e.g. prismatic breaking into angular blocky). The first structure may merge into the second structure (e.g. platy merging into prismatic).
+75	The consistence when dry is determined by breaking an air-dried mass of soil between thumb and forefinger or in the hand.
+76	Consistence when moist is determined by attempting to crush a mass of moist or slightly moist soil material.
+77	"Stickiness is the quality of adhesion of the soil material to other objects determined by noting the adherence of soil material when it is pressed between thumb and finger.
 Soil stickiness depends on the extent to which soil structure is destroyed and on the amount of water present. The determination of stickiness should be performed under standard conditions on a soil sample in which structure is completely destroyed and which contains enough water to express its maximum stickiness."
-78;Plasticity is the ability of soil material to change shape continuously under the influence of an applied stress and to retain the compressed shape on removal of stress. Determined by rolling the soil in the hands until a wire about 3 mm in diameter has been formed.Soil plasticity depends on the extent to which soil structure is destroyed and on the amount of water present. The determination of plasticity should be performed under standard conditions on a soil sample in which structure is completely destroyed and which contains enough water to express its maximum plasticity.
-79;Soil-water status is the term used for the moisture condition of a horizon at the time the profile is described. The moisture status can be estimated in the field.
-196;"Succinct indication of the relationship between this soil component and adjoining soil components (e.g.: ""Soil component A has formed in colluviated material derived from soil component B"")."
-80;Bulk density is defined as the mass of a unit volume of dry soil (105 °C). This volume includes both solids and pores and, thus, bulk density reflects the total soil porosity. Low bulk density values (generally below 1.3 kg/dm³) generally indicate a porous soil condition. Bulk density is an important parameter for the description of soil quality and ecosystem function. High bulk density values indicate a poorer environment for root growth, reduced aeration, and undesirable changes in hydrologic function, such as reduced water infiltration.
-81;Sands, loamy sands and sandy loams are subdivided according to the proportions of very coarse to coarse, medium, fine and very fine sands in the sand fraction. The proportions are calculated from the particle-size distribution, taking the total of the sand fraction as being 100 percent.
-82;The textural class is estimated in the field by simple field tests and feeling the constituents of the soil (Table 25). For this, the soil sample must be in a moist to weak wet state. Gravel and other constituents > 2 mm must be removed.
-85;The diameter of the elongated or tubular voids.
-86;The abundance of very fine and fine elongated pores as one group, and of medium and coarse pores as another group is recorded as the number per unit area in a square decimetre.
-87;An estimate of how much of the ped or aggregate faces is covered. Corresponding criteria should be applied when the cutanic feature is related to other surfaces (voids, and coarse fragments) or occurs as lamellae.
-90;The location of the coatings or clay accumulation. For pressure faces and slickensides, no location is given because they are by definition located on pedfaces.
-92;Classification of the fabric or structure of the cemented or compacted layer.
-93;The nature of cementation or compaction is described according to the cementing agent or compacting activity.
-94;Classification of the degree of cementation or compaction.
-95;Classification of the abundance of mineral concentrations, by volume.
-96;Classification of the kinds of mineral concentrations.
-97;Classification of the size of mineral concentrations.
-98;Classification of the shape of mineral concentrations.
-99;Classification of the hardness of mineral concentrations.
-100;Mineral concentrations are described according to the composition or impregnating substance.
-101;The colour of the nodules (similar to mottles).
-102;Classification of the size (diameter) of roots.
-103;Classification of the abundance of roots.
-104;Abundance of biological activity is recorded in general descriptive terms.
-105;Kind of biological features.
-106;The abundance class limits for artefacts correspond with the ones for surface coarse fragments and mineral nodules, and the 40-percent boundary coincides with the requirement for the skeletic phase.
-107;Classification of kinds of artefacts.
-108;Classification of the hardness of artefacts.
-110;The colour of the artefacts (similar to mottles).
-111;"Subdivisions for complex landforms are mainly applicable to level landforms, to some extent to sloping landforms and, in the case of mountains, to intermontane plains.
+78	Plasticity is the ability of soil material to change shape continuously under the influence of an applied stress and to retain the compressed shape on removal of stress. Determined by rolling the soil in the hands until a wire about 3 mm in diameter has been formed.Soil plasticity depends on the extent to which soil structure is destroyed and on the amount of water present. The determination of plasticity should be performed under standard conditions on a soil sample in which structure is completely destroyed and which contains enough water to express its maximum plasticity.
+79	Soil-water status is the term used for the moisture condition of a horizon at the time the profile is described. The moisture status can be estimated in the field.
+80	Bulk density is defined as the mass of a unit volume of dry soil (105 °C). This volume includes both solids and pores and, thus, bulk density reflects the total soil porosity. Low bulk density values (generally below 1.3 kg/dm³) generally indicate a porous soil condition. Bulk density is an important parameter for the description of soil quality and ecosystem function. High bulk density values indicate a poorer environment for root growth, reduced aeration, and undesirable changes in hydrologic function, such as reduced water infiltration.
+81	Sands, loamy sands and sandy loams are subdivided according to the proportions of very coarse to coarse, medium, fine and very fine sands in the sand fraction. The proportions are calculated from the particle-size distribution, taking the total of the sand fraction as being 100 percent.
+82	The textural class is estimated in the field by simple field tests and feeling the constituents of the soil (Table 25). For this, the soil sample must be in a moist to weak wet state. Gravel and other constituents > 2 mm must be removed.
+83	The porosity is an indication of the total volume of voids discernible with a ×10 hand-lens measured by area and recorded as the percentage of the surface occupied by pores.
+84	There is a large variety in the shape and origin of voids. Therefore, emphasis is given to estimating the continuous and elongated voids.
+85	The diameter of the elongated or tubular voids.
+86	The abundance of very fine and fine elongated pores as one group, and of medium and coarse pores as another group is recorded as the number per unit area in a square decimetre.
+87	An estimate of how much of the ped or aggregate faces is covered. Corresponding criteria should be applied when the cutanic feature is related to other surfaces (voids, and coarse fragments) or occurs as lamellae.
+88	Classification of the contrast of coatings
+89	For some coatings, the form may be informative for their genesis. For example, manganese and iron–manganese coatings of dendroidal form indicate their formation owing to poor infiltration and periodically reductive conditions because of percolating water.
+90	The location of the coatings or clay accumulation. For pressure faces and slickensides, no location is given because they are by definition located on pedfaces.
+91	Classification of the continuity of cementation/compaction
+92	Classification of the fabric or structure of the cemented or compacted layer.
+93	The nature of cementation or compaction is described according to the cementing agent or compacting activity.
+94	Classification of the degree of cementation or compaction.
+95	Classification of the abundance of mineral concentrations, by volume.
+96	Classification of the kinds of mineral concentrations.
+97	Classification of the size of mineral concentrations.
+98	Classification of the shape of mineral concentrations.
+99	Classification of the hardness of mineral concentrations.
+100	Mineral concentrations are described according to the composition or impregnating substance.
+101	The colour of the nodules (similar to mottles).
+102	Classification of the size (diameter) of roots.
+103	Classification of the abundance of roots.
+104	Abundance of biological activity is recorded in general descriptive terms.
+105	Kind of biological features.
+106	The abundance class limits for artefacts correspond with the ones for surface coarse fragments and mineral nodules, and the 40-percent boundary coincides with the requirement for the skeletic phase.
+107	Classification of kinds of artefacts.
+108	Classification of the hardness of artefacts.
+109	The state of weathering of artefacts
+110	The colour of the artefacts (similar to mottles).
+111	"Subdivisions for complex landforms are mainly applicable to level landforms, to some extent to sloping landforms and, in the case of mountains, to intermontane plains.
 With complex landforms, the protruding landform should be at least 25 m high (if not it is to be considered mesorelief) except for terraced land, where
 the main terraces should have elevation differences of at least 10 m. In areas, the major terraces may be very close to each other – particularly towards the lower part of the plain. Finally, the older levels may become buried by down wash. 
 Source: Updated SOTER, ISRIC, 2005."
-112;The grid reference number, Universal Transverse Mercator (UTM) or the established local system, can be read directly from the topographic map.
-113;The type of salt at the surface
-114;The presence of any strong smell, by horizon. No entry implies no odour.
-84;There is a large variety in the shape and origin of voids. Therefore, emphasis is given to estimating the continuous and elongated voids.
-115;"Soils formed from young volcanic materials often have andic properties: a bulk density of 0.9 kg dm-3 or less, and a smeary consistence (owing to higher contents of allophane and/or ferrihydrite). Surface horizons with andic characteristics are normally black because of high humus contents. In addition, soil material with andic characteristics may exhibit thixotropy; the soil material changes under pressure or by rubbing from a plastic solid into a liquefied stage and back into the solid condition.
+112	The grid reference number, Universal Transverse Mercator (UTM) or the established local system, can be read directly from the topographic map.
+113	The type of salt at the surface
+114	The presence of any strong smell, by horizon. No entry implies no odour.
+115	"Soils formed from young volcanic materials often have andic properties: a bulk density of 0.9 kg dm-3 or less, and a smeary consistence (owing to higher contents of allophane and/or ferrihydrite). Surface horizons with andic characteristics are normally black because of high humus contents. In addition, soil material with andic characteristics may exhibit thixotropy; the soil material changes under pressure or by rubbing from a plastic solid into a liquefied stage and back into the solid condition.
 Andic characteristics may be identified in the field using the pHNaF field test developed by Fieldes and Perrott (1966)."
-116;"In many young volcanic materials, volcanic glasses, glassy aggregates and other glass-coated primary minerals occur. Coarser fractions may be checked by a ×10 hand-lens; finer fractions may be checked by microscope. Subsequently, the percentage by grain count of volcanic glass, glass-coated primary minerals, glassy materials, and glassy aggregates in the 0.02–2 mm particle-size fraction is recorded."
-165;The source map identification code from which the data were derived for the compilation of the SOTER units.
-117;Organic matter refers to all decomposed, partly decomposed and undecomposed organic materials of plant and animal origin. It is generally synonymous with humus although the latter is more commonly used when referring to the welldecomposed organic matter called humic substances. The content of organic matter of mineral horizons can be estimated from the Munsell colour of a dry and/or moist soil, taking the textural class into account. This estimation is based on the assumption that the soil colour (value) is due to a mixture of dark coloured organic substances and light coloured minerals. This value only provides a rough estimate.
-202;Code for the (representative) profile. Any national code is permitted provided it is unique at a national level. An ISO country code should precede the national code.
-212;Weight percentage of particles 0.5-1.0 mm in fine earth fraction.
-118;"Coastal or desert soils can be especially enriched with water-soluble salts or salts more soluble than gypsum (CaSO4·2H2O; log Ks = -4.85 at 25 °C). The salt content of the soil can be estimated roughly from an EC (in dS m-1 = mS cm-1) measured in a saturated soil paste or a more diluted suspension of soil in water (Richards, 1954). Conventionally, EC is measured in the laboratory in the saturation extract (ECse). Most classification values and data about salt sensitivity of crops refer to ECse."
-119;The landform refers to the shape of the land surface in the area in which the soil observation is made. It is described in geomorphological terms, distinguishing on of two levels. The higher level corresponds with the SOTER (1990) approach, using only seven major landforms indicating the general physiography of the area. If a more detailed nomenclature is required, other landform names may be applied. Landforms may be further subdivided into constituent land elements.
-120;"The slope gradient refers to the slope of the land immediately surrounding the site. It is measured using a clinometer aimed in the direction of the steepest slope. Where clinometer readings are not possible, field estimates of slope gradient should be matched against calculated gradients from contour maps.
+116	In many young volcanic materials, volcanic glasses, glassy aggregates and other glass-coated primary minerals occur. Coarser fractions may be checked by a ×10 hand-lens; finer fractions may be checked by microscope. Subsequently, the percentage by grain count of volcanic glass, glass-coated primary minerals, glassy materials, and glassy aggregates in the 0.02–2 mm particle-size fraction is recorded.
+117	Organic matter refers to all decomposed, partly decomposed and undecomposed organic materials of plant and animal origin. It is generally synonymous with humus although the latter is more commonly used when referring to the welldecomposed organic matter called humic substances. The content of organic matter of mineral horizons can be estimated from the Munsell colour of a dry and/or moist soil, taking the textural class into account. This estimation is based on the assumption that the soil colour (value) is due to a mixture of dark coloured organic substances and light coloured minerals. This value only provides a rough estimate.
+118	Coastal or desert soils can be especially enriched with water-soluble salts or salts more soluble than gypsum (CaSO4·2H2O; log Ks = -4.85 at 25 °C). The salt content of the soil can be estimated roughly from an EC (in dS m-1 = mS cm-1) measured in a saturated soil paste or a more diluted suspension of soil in water (Richards, 1954). Conventionally, EC is measured in the laboratory in the saturation extract (ECse). Most classification values and data about salt sensitivity of crops refer to ECse.
+119	The landform refers to the shape of the land surface in the area in which the soil observation is made. It is described in geomorphological terms, distinguishing on of two levels. The higher level corresponds with the SOTER (1990) approach, using only seven major landforms indicating the general physiography of the area. If a more detailed nomenclature is required, other landform names may be applied. Landforms may be further subdivided into constituent land elements.
+120	"The slope gradient refers to the slope of the land immediately surrounding the site. It is measured using a clinometer aimed in the direction of the steepest slope. Where clinometer readings are not possible, field estimates of slope gradient should be matched against calculated gradients from contour maps.
 Slope gradients in almost flat terrain are often overestimated. In open plains, slope gradients of 0.2 percent are usually clearly visible. The proper recording of minor slope-gradient variations is important, especially for erosion,
 irrigation and drainage.
 The slope gradient is recorded  by entering in one of the slope classes (they may need to be modified to fit the local topography)."
-121;"Unconsolidated materials (mostly sediments), from which the soil has presumably been derived. There are also transitional cases with rock type parent material, such as partly consolidated materials and weathering materials that have been transported or colluviated. 
+121	"Unconsolidated materials (mostly sediments), from which the soil has presumably been derived. There are also transitional cases with rock type parent material, such as partly consolidated materials and weathering materials that have been transported or colluviated. 
 
 The reliability of the geological information and the knowledge of the local lithology will determine whether a general or a specific definition of the parent material can be given. The code SA for saprolite is recommended where the in situ weathered material is thoroughly decomposed, clay-rich but still showing rock structure. Alluvial deposits and colluvium derived from a single rock type may be further specified by that rock type. Where one parent material overlies another, both are indicated."
-123;The latitude of the site as acurately as possible
-124;The longitude of the site as acurately as possible
-128;"A phase is a limiting factor related to surface or subsurface features of the land. They are not necessarily related to soil formation and generally cut across the boundaries of different soil units. These features may form a constraint to the use of the land.
+122	The soil unit refers to a local classification system or legend unit of which the profile is representative.
+123	The latitude of the site as acurately as possible
+124	The longitude of the site as acurately as possible
+128	"A phase is a limiting factor related to surface or subsurface features of the land. They are not necessarily related to soil formation and generally cut across the boundaries of different soil units. These features may form a constraint to the use of the land.
 Phases as defined in the 1988 Revised Legend of the FAO-Unesco Soil Map of the World."
-129;The topography refers to the differences in elevation of the land surface on a broad scale. It is derived from the most representative or characteristic slope gradient of the area around the site.
-130;"The land element describes the geomorphology of the immediate surroundings of the site. In most cases the land elements are subdivisions of landforms. However, depending on the magnitude, the same geomorphological feature may be described as a landform or as a land element, e.g. valley, depression.
+129	The topography refers to the differences in elevation of the land surface on a broad scale. It is derived from the most representative or characteristic slope gradient of the area around the site.
+130	"The land element describes the geomorphology of the immediate surroundings of the site. In most cases the land elements are subdivisions of landforms. However, depending on the magnitude, the same geomorphological feature may be described as a landform or as a land element, e.g. valley, depression.
 
 The dimensions of a land element are in general comparable with mapping units for semi-detailed map scales (1:50 000 or larger). At reconnaissance map scales (1:250 000 or smaller) the mapping unit usually includes more than one land element. In soil associations, the occurrence of each associated soil is generally related to a single land element."
-131;Micro-topography refers to natural or artificial differences in height over short distances. Some of the micro-topographical features show gradual transitions to surface characteristics (rock outcrops, surface coarse fragmenst, erosion, etc.)
-132;Soil-landscape sequential relationships call attention to the three-dimensional aspects of the soil unit. Information on spatial relationships or sequential soil transitions may be given. Lateral water movements and lateral variations and transitions in soil horizons may be described.
-133;Estimate of grass cover.
-134;"The effective soil depth is defined as the depth of the soil at which root growth of grasses or crops is strongly inhibited. The effective depth of the soil is governed by such factors as  the presence of cemented, toxic or compacted layers; hard rock; or inundated gravel layers. A high permanent water table may also control the effective soil depth, but may change after drainage."
-188;The depth of the mean ground water level over a number of years as experienced in the terrain component.
-247;The dominant type of mineral in the clay fraction.
-135;The concept of soil drainage used in the FAO Guidelines for Soil Description (1977) based on the USDA Soil Survey Manual relates to the frequency and duration of periods when the soil is free of saturation or partial saturation. The soil drainage classes defined therefore reflect the combined effects of climate, landscape and soil. Rainfall, seepage, soil permeability, surface infiltration rate, internal vertical and lateral movement of water, and external surface run-off and run-on, may all affect the drainage class.
-136;Indication of the period during which the soil near the surface is saturated by groundwater or a perched water table, based on local information or judgment supplemented by gleying features in the profile.
-203;The identification code for the owner, institute or organisation that holds (part of) the national soil profile database. The code consists of an ISO code for the country and a sequence number.
-204;The code for the soil laboratory that analyzed the samples: ISO country code followed by a sequence number.
-137;Hydraulic conductivity is a measure of the ability of the soil to transmit water, defined as a volume of water flowing through a unit cross section per unit time at unit hydraulic gradient. Permeability is a general term for the same ability to transmit water. The hydraulic conductivity, when measured by the pumped-out auger hole method, indicates the ability of the whole soil below the water table to transmit water to a drain. It can also be measured for individual horizons or can be estimated from other soil physical features. It should not be confused with the infiltration rate vertically into the soil surface.
-138;The external drainage of a site refers to its relative position in the landscape and consequent movement of surface water, in which the site is in a receiving or shedding position.
-140;Duration of flooding or temporary inundation
-141;Depth of flooding or temporary inundation
-142;Depth to the present groundwater table
-143;Depth to the minimum groundwater table
-144;Depth to the maximum groundwater table
-145;The presence of phreatic water, i.e. deeper groundwater tables
-146;Groundwater quality
-147;The moisture conditions prevailing in the soil at the time of the description, together with the depth (for example: moist throughout, or: dry to 50 cm moist below)
-148;Weight percentage of particles < 2 μm in the fine earth fraction (particles < 2000 μm)
-149;Weight percentage of particles 2-20 μm in the fine earth fraction (particles < 2000 μm)
-150;Weight percentage of particles 20-63 μm in the fine earth fraction (particles < 2000 μm)
-151;Weight percentage of particles 2-63 μm in the fine earth fraction (particles < 2000 μm)
-152;Weight percentage of particles 63-125 μm in the fine earth fraction (particles < 2000 μm)
-153;Weight percentage of particles 125-200 μm in the fine earth fraction (particles < 2000 μm)
-154;Weight percentage of particles 200-630 μm in the fine earth fraction (particles < 2000 μm)
-155;Weight percentage of particles 630-1250 μm in the fine earth fraction (particles < 2000 μm)
-156;Weight percentage of particles 1250-2000 μm in the fine earth fraction (particles < 2000 μm)
-157;Weight percentage of particles 63-2000 μm in the fine earth fraction (particles < 2000 μm)
-158;Field estimate of the percentage of particles < 2 μm (clay) in the fine earth fraction (particles < 2000 μm)
-159;Classification of the nature of coatings.
-160;pH as measured in the field.
-161;"Most of the erosion can be classified as either water or wind erosion, and also deposition; a third major category is mass movements (landslides and related phenomena)."
-162;Subdivision of types of erosion and deposition.
-163;"The SOTER unit_ID is the identification code of a SOTER unit on the map and in the database. It links the mapped area to the attributes in the database and in particular, it identifies which terrain belongs to a SOTER unit. SOTER units which have identical attributes carry the same SOTER unit_ID. In other words the SOTER unit_ID is similar to a code for a mapping unit on a conventional soil map.
+131	Micro-topography refers to natural or artificial differences in height over short distances. Some of the micro-topographical features show gradual transitions to surface characteristics (rock outcrops, surface coarse fragmenst, erosion, etc.)
+132	Soil-landscape sequential relationships call attention to the three-dimensional aspects of the soil unit. Information on spatial relationships or sequential soil transitions may be given. Lateral water movements and lateral variations and transitions in soil horizons may be described.
+133	Estimate of grass cover.
+134	The effective soil depth is defined as the depth of the soil at which root growth of grasses or crops is strongly inhibited. The effective depth of the soil is governed by such factors as  the presence of cemented, toxic or compacted layers; hard rock; or inundated gravel layers. A high permanent water table may also control the effective soil depth, but may change after drainage.
+135	The concept of soil drainage used in the FAO Guidelines for Soil Description (1977) based on the USDA Soil Survey Manual relates to the frequency and duration of periods when the soil is free of saturation or partial saturation. The soil drainage classes defined therefore reflect the combined effects of climate, landscape and soil. Rainfall, seepage, soil permeability, surface infiltration rate, internal vertical and lateral movement of water, and external surface run-off and run-on, may all affect the drainage class.
+136	Indication of the period during which the soil near the surface is saturated by groundwater or a perched water table, based on local information or judgment supplemented by gleying features in the profile.
+137	Hydraulic conductivity is a measure of the ability of the soil to transmit water, defined as a volume of water flowing through a unit cross section per unit time at unit hydraulic gradient. Permeability is a general term for the same ability to transmit water. The hydraulic conductivity, when measured by the pumped-out auger hole method, indicates the ability of the whole soil below the water table to transmit water to a drain. It can also be measured for individual horizons or can be estimated from other soil physical features. It should not be confused with the infiltration rate vertically into the soil surface.
+138	The external drainage of a site refers to its relative position in the landscape and consequent movement of surface water, in which the site is in a receiving or shedding position.
+139	Frequency of flooding or temporary inundation
+140	Duration of flooding or temporary inundation
+141	Depth of flooding or temporary inundation
+142	Depth to the present groundwater table
+143	Depth to the minimum groundwater table
+144	Depth to the maximum groundwater table
+145	The presence of phreatic water, i.e. deeper groundwater tables
+146	Groundwater quality
+147	The moisture conditions prevailing in the soil at the time of the description, together with the depth (for example: moist throughout, or: dry to 50 cm moist below)
+148	Weight percentage of particles < 2 μm in the fine earth fraction (particles < 2000 μm)
+149	Weight percentage of particles 2-20 μm in the fine earth fraction (particles < 2000 μm)
+150	Weight percentage of particles 20-63 μm in the fine earth fraction (particles < 2000 μm)
+151	Weight percentage of particles 2-63 μm in the fine earth fraction (particles < 2000 μm)
+152	Weight percentage of particles 63-125 μm in the fine earth fraction (particles < 2000 μm)
+153	Weight percentage of particles 125-200 μm in the fine earth fraction (particles < 2000 μm)
+154	Weight percentage of particles 200-630 μm in the fine earth fraction (particles < 2000 μm)
+155	Weight percentage of particles 630-1250 μm in the fine earth fraction (particles < 2000 μm)
+156	Weight percentage of particles 1250-2000 μm in the fine earth fraction (particles < 2000 μm)
+157	Weight percentage of particles 63-2000 μm in the fine earth fraction (particles < 2000 μm)
+158	Field estimate of the percentage of particles < 2 μm (clay) in the fine earth fraction (particles < 2000 μm)
+159	Classification of the nature of coatings.
+160	pH as measured in the field.
+161	Most of the erosion can be classified as either water or wind erosion, and also deposition; a third major category is mass movements (landslides and related phenomena).
+162	Subdivision of types of erosion and deposition.
+163	"The SOTER unit_ID is the identification code of a SOTER unit on the map and in the database. It links the mapped area to the attributes in the database and in particular, it identifies which terrain belongs to a SOTER unit. SOTER units which have identical attributes carry the same SOTER unit_ID. In other words the SOTER unit_ID is similar to a code for a mapping unit on a conventional soil map.
 
 For each SOTER map, a unique code (up to 4 digits) is assigned to every SOTER unit that has been distinguished. On most SOTER maps 2 or 3 digits will suffice."
-167;Absolute maximum elevation of the SOTER unit, in metres above sea level. The maximum elevation can be read from a contoured topographic map.
-168;The dominant slope angle, expressed as  a percentage, prevailing in the terrain. A SOTER terrain unit property.
-169;The relief intensity is the median difference between the highest and lowest point within the terrain per specified distance. This specified distance can be variable, but is expressed in m/km.
-224;The soluble Mg++ content of the saturated paste.
-190;The sequence number of the soil within the terrain component according to the ranking of the soil component within the terrain component (the largest soil component is given number 1, the second largest number 2, etc.). Soil components are the lowest level of differentiation of the SOTER units.
-170;"Landforms are described foremost by their morphology and not by their genetic origin, or processes responsible for their shape. The dominant slope is the most important differentiating criterion, followed by the relief intensity. The relief intensity is normally given in meters per kilometre, but for distinction between hills and mountains it s practical to use two kilometre intervals.
+164	The year in which the original terrain data were collected serves as the time stamp for each SOTER unit. Where the SOTER unit has been composed on the basis of several sources of information, it is advised to use the major source for dating it. In this manner a link between the SOTER unit and the major source of information - a source map - can easily be made. The year of compiling the data according to the SOTER procedures is thus not recorded, unless the compilation itself has resulted in some major reinterpretation based on additional sources of information, like fresh satellite imagery. In general the year of compilation can be deducted from the year in which the data was entered into the database, as both years are likely to be the same or very close to each other. It is assumed that the year in which the terrain date were collected also applies to the terrain component data, and no separate date entry is required for this.
+165	The source map identification code from which the data were derived for the compilation of the SOTER units.
+166	Absolute minimum elevation of the SOTER unit, in metres above sea level. The minimum elevation can be read from a contoured topographic map.
+167	Absolute maximum elevation of the SOTER unit, in metres above sea level. The maximum elevation can be read from a contoured topographic map.
+168	The dominant slope angle, expressed as  a percentage, prevailing in the terrain. A SOTER terrain unit property.
+169	The relief intensity is the median difference between the highest and lowest point within the terrain per specified distance. This specified distance can be variable, but is expressed in m/km.
+170	"Landforms are described foremost by their morphology and not by their genetic origin, or processes responsible for their shape. The dominant slope is the most important differentiating criterion, followed by the relief intensity. The relief intensity is normally given in meters per kilometre, but for distinction between hills and mountains it s practical to use two kilometre intervals.
 
 At the highest level of landform separation, suitable for scales equal to or smaller than 1:10 million, four groups are being distinguished (adapted from Remmelzwaal, 1991). They can be subdivided when the position of the landform vis-a-vis the surrounding land is taken into consideration.
 
 Where not clear from the gradient or relief intensity, the distinction between the various second level landforms follows from their generic description."
-171;"A refining of slope classes compared to those used for major landforms. Regional slope subdivisions are mainly applicable to level landforms, and to some extent to sloping landforms. They are not to be used for steep lands, except in the case of mountains with intermontane plains, but may be used for lands with complex landforms, where the subdivision can be related to the constituent landform with the lesser slope.
+171	"A refining of slope classes compared to those used for major landforms. Regional slope subdivisions are mainly applicable to level landforms, and to some extent to sloping landforms. They are not to be used for steep lands, except in the case of mountains with intermontane plains, but may be used for lands with complex landforms, where the subdivision can be related to the constituent landform with the lesser slope.
 
 In the case of complex landforms, the protruding landform should be at least 25 m high (if not it is to be considered mesorelief) except for terraced land, where the main terraces should have elevation differences of at least 10 m."
-172;The hypsometric level is, for level and slightly sloping land (relief intensity of less than 50 m) an indication of the height above sea level of the local base level. For lands with a relief intensity of more than 50 m the hypsometric is used to indicate the height above the local base (i.e. local relief).
-210;Size of dominant rock or mineral fragments in classes (FAO, 1990)
-258;Soil reaction measured in water at the specified soil:water ratio.
-282;Weight percentage of particles < 1 μm in the fine earth fraction (particles < 2000 μm)
-218;The basic infiltration rate.
-221;The electrical conductivity of the saturation extract.
-173;"The degree of dissection is difficult to quantify in a practical manner. Factors like coverage, slope and depth of dissected features all contribute to the intensity of landscape dissection. SOTER uses the drainage density as a qualitative measure of the degree of dissection. The higher the drainage density, the more dissected a tract of land is, and in general also the steeper the slopes of the dissected parts will be. The depth of dissection can be assumed to increase with an increased density of the drainage network and steeper landscape slopes. Conversely, a high drainage density on very flat land (dominant slopes < 2%) is not necessarily related to the dissection of the terrain, but could be an indication of the wetness of the land.
+172	The hypsometric level is, for level and slightly sloping land (relief intensity of less than 50 m) an indication of the height above sea level of the local base level. For lands with a relief intensity of more than 50 m the hypsometric is used to indicate the height above the local base (i.e. local relief).
+173	"The degree of dissection is difficult to quantify in a practical manner. Factors like coverage, slope and depth of dissected features all contribute to the intensity of landscape dissection. SOTER uses the drainage density as a qualitative measure of the degree of dissection. The higher the drainage density, the more dissected a tract of land is, and in general also the steeper the slopes of the dissected parts will be. The depth of dissection can be assumed to increase with an increased density of the drainage network and steeper landscape slopes. Conversely, a high drainage density on very flat land (dominant slopes < 2%) is not necessarily related to the dissection of the terrain, but could be an indication of the wetness of the land.
 
 The most accurate way to measure the drainage density (defined as the average length of drainage channels per unit area of land, expressed as km/km²) is to actually measure the length of all well-defined, permanent and seasonal, streams and rivers within a representative block. This should be done on good quality 1:50,000 or larger maps. Techniques exist to speed up this measurement through intersection point counting (Verhasselt, 1961).
 
 In practice the necessary material to carry out this measurement is often not available, and only quantitative estimates can be made. This should be done with aid of the most detailed material available (maps, aerial photos or satellite images). The degree of dissection is not applicable to land with a relief intensity of more than 600 m."
-174;For each SOTER unit a generalized description of the consolidated or unconsolidated surficial material, underlying the larger part of the terrain, is given. Major differentiating criteria are petrology and mineralogical composition (Holmes, 1968, Strahler, 1969). At the 1:1 million scale the lithology should at least be specified down to group level.
-176;The sequence number of the terrain component in the terrain. The largest terrain component in the SOTER unit comes first, followed by the second in size, and so on. The combination SOTER unit_ID and terrain component number (e.g. 2034/1) gives the complete identification code for each terrain component within the database.
-177;The proportion that the terrain component or the soil component occupies within the SOTER unit. Each component normally covers not less than 15% of the SOTER unit. The sum of all terrain components as well as  the sum of all soil components within a SOTER unit should be 100%.
-179;Estimated dominant length of slope. A terrain component attribute.
-180;The form of the dominant slope (only entered if the dominant slope gradient > 20%).
-181;"A number of characteristic meso-relief or local surface forms can be recognised at the 1:1 million scale (Day, 1983; FAO, 1977; Soil Survey Staff, 1951), in addition to the slope form."
-182;The average height of the meso-relief (or depth where applicable), depth being indicated by a minus sign.
-183;The estimated percentage coverage of the meso-relief elements within the terrain component.
-184;Description of the consolidated or unconsolidated surficial materials which underlie most of the terrain component. These include the types of rockmass from which parent material is derived, and other unconsolidated mineral or organic deposits. The same list of parent materials is used as with the SOTER terrain unit lithology. If the type level of parent material, already indicated at terrain level, does not vary then no further entry has to be made here. A SOTER terrain component property.
-185;The texture group of particles <2 mm of the non-consolidated parent material, or the parent material at 2 m if the soil is deeply developed, is given. The  texture triangle shows the different groups.
-186;The average depth to consolidated bedrock. For depths less than 2 m the unit is 0.1 m. For depths more than 10 m the depth can be given to the nearest 5 metres.
-187;Surface drainage of the terrain component (after Cochrane et al., 1985 and Van Waveren et al., 1987).
-189;"Give the month (indicated by a number; January is 1, December is 12) during which flooding of the terrain component normally starts"
-197;The month in which the profile was described and sampled. In case these two activities were carried out in different months, the month of sampling should be taken.
-198;The year in which the profile was described and sampled. In case these two activities were carried out in different years, the year of sampling should be taken.
-199;Any litter or other organic matter on the surface is described according to thickness (in cm) and degree of decomposition (Soil Survey Staff, 1975).
-200;The year of publication of the version of the FAO Legend used for the characterization.
-201;The original national or local classification of the profile.
-207;Soil horizons that combine a set of properties which are used for identifying soil units are called 'diagnostic horizons'. Since the characteristics of soil horizons are produced by soil-forming processes, the use of diagnostic horizons for separating soil units relates the classification to general principles of soil genesis. Objectivity is secured, however, in that the processes themselves are not used as criteria but only their effects, expressed in terms of quantitatively defined morphological properties that have identification value.
-208;Some of the characteristics which are used to separate soil units cannot be considered as horizons. They are diagnostic features of horizons or of soil materials which, when used for classification purposes, need to be quantitatively defined.
-209;"Size classes for structure elements of various types (Soil Survey Staff, 1951; FAO, 1990)."
-222;The soluble Na+ content of the saturated paste.
-280;Weight percentage of particles 0.001-0.05 mm in fine earth fraction.
-223;The soluble Ca++ content of the saturated paste.
-225;The soluble K+ content of the saturated paste.
-226;The soluble Cl- content of the saturated paste.
-227;The soluble SO4-- content of the saturated paste.
-228;The soluble HCO3- content of the saturated paste.
-229;The soluble HCO3- content of the saturated paste.
-230;The exchangeable Ca++.
-231;The exchangeable Mg++.
-232;The exchangeable Na+.
-233;The exchangeable K+.
-234;The exchangeable Al+++.
-235;The exchangeable acidity, as determined in 1N KCl.
-236;The cation exchange capacity of the soil at pH 7.0.
-237;The content of carbonates.
-238;The gypsum content.
-239;The content of total organic carbon (for the topsoil first 25 cm, or A horizon, whichever is deeper).
-240;The content of total N.
-241;The P2O5 content
-242;The phosphate retention, usually in %.
-243;The Fe fraction, extractable in dithionite.
-244;The Fe fraction, extractable in pyrophosphate at pH 10.
-245;The Al fraction, extractable in dithionite.
-246;The Al fraction, extractable in pyrophosphate at pH 10.
-248;If two (or more) terrain components are completely similar, then their data will only be entered once in the database. When referring to an already described terrain component data_ID the first terrain component with a particular attribute content will also be used for subsequent identical terrain components. In case a terrain component has not been described before in the database, then its code will also be used as its data code.
-249;The reference soil depth of a profile, defined here as the maximum depth to which the profile was described/sampled in the field, or documented in the source database.
-250;"Phases are subdivisions of soil units based on characteristics which are significant to the use or management of the land but are not diagnostic for the separation of soil units themselves.
+174	For each SOTER unit a generalized description of the consolidated or unconsolidated surficial material, underlying the larger part of the terrain, is given. Major differentiating criteria are petrology and mineralogical composition (Holmes, 1968, Strahler, 1969). At the 1:1 million scale the lithology should at least be specified down to group level.
+175	The percentage of the SOTER unit that is largely (i.e. > 90%, thus excluding small islands etc.) permanently (i.e. more than 10 month/year) covered by water. Bodies of water large enough to be delineated on the map are not considered part of a SOTER unit.
+176	The sequence number of the terrain component in the terrain. The largest terrain component in the SOTER unit comes first, followed by the second in size, and so on. The combination SOTER unit_ID and terrain component number (e.g. 2034/1) gives the complete identification code for each terrain component within the database.
+177	The proportion that the terrain component or the soil component occupies within the SOTER unit. Each component normally covers not less than 15% of the SOTER unit. The sum of all terrain components as well as  the sum of all soil components within a SOTER unit should be 100%.
+178	Dominant slope gradient of the terrain component (percentage).
+179	Estimated dominant length of slope. A terrain component attribute.
+180	The form of the dominant slope (only entered if the dominant slope gradient > 20%).
+181	A number of characteristic meso-relief or local surface forms can be recognised at the 1:1 million scale (Day, 1983; FAO, 1977; Soil Survey Staff, 1951), in addition to the slope form.
+182	The average height of the meso-relief (or depth where applicable), depth being indicated by a minus sign.
+183	The estimated percentage coverage of the meso-relief elements within the terrain component.
+184	Description of the consolidated or unconsolidated surficial materials which underlie most of the terrain component. These include the types of rockmass from which parent material is derived, and other unconsolidated mineral or organic deposits. The same list of parent materials is used as with the SOTER terrain unit lithology. If the type level of parent material, already indicated at terrain level, does not vary then no further entry has to be made here. A SOTER terrain component property.
+185	The texture group of particles <2 mm of the non-consolidated parent material, or the parent material at 2 m if the soil is deeply developed, is given. The  texture triangle shows the different groups.
+186	The average depth to consolidated bedrock. For depths less than 2 m the unit is 0.1 m. For depths more than 10 m the depth can be given to the nearest 5 metres.
+187	Surface drainage of the terrain component (after Cochrane et al., 1985 and Van Waveren et al., 1987).
+188	The depth of the mean ground water level over a number of years as experienced in the terrain component.
+189	Give the month (indicated by a number; January is 1, December is 12) during which flooding of the terrain component normally starts
+190	The sequence number of the soil within the terrain component according to the ranking of the soil component within the terrain component (the largest soil component is given number 1, the second largest number 2, etc.). Soil components are the lowest level of differentiation of the SOTER units.
+191	The number of reference profiles that were considered for the selection of the representative profile is indicated. These profiles have also contributed to the determination of maximum and minimum values for a number of chemical and physical parameters of the soil. A SOTER soil component attribute.
+192	The relative position of the soil component within the terrain component.
+193	Characterization of the erosion or deposition type according to FAO (1990).
+194	The degree in which the soil surface has a tendency to capping and sealing (FAO, 1990).
+195	Estimated depth in cm to which root growth is unrestricted by any physical or chemical impediment, such as an impenetrable or toxic layer. Strongly fractured rocks, such as shales, may be considered as rootable. Classes after FAO (1990).
+196	"Succinct indication of the relationship between this soil component and adjoining soil components (e.g.: ""Soil component A has formed in colluviated material derived from soil component B"")."
+197	The month in which the profile was described and sampled. In case these two activities were carried out in different months, the month of sampling should be taken.
+198	The year in which the profile was described and sampled. In case these two activities were carried out in different years, the year of sampling should be taken.
+199	Any litter or other organic matter on the surface is described according to thickness (in cm) and degree of decomposition (Soil Survey Staff, 1975).
+200	The year of publication of the version of the FAO Legend used for the characterization.
+201	The original national or local classification of the profile.
+202	Code for the (representative) profile. Any national code is permitted provided it is unique at a national level. An ISO country code should precede the national code.
+203	The identification code for the owner, institute or organisation that holds (part of) the national soil profile database. The code consists of an ISO code for the country and a sequence number.
+204	The code for the soil laboratory that analyzed the samples: ISO country code followed by a sequence number.
+205	Soil taxonomic classification according to the Legend of the Soil Map of the World (FAO-Unesco, Rome)
+206	A consecutive number, starting with the surface horizon, allocated to each horizon.
+207	Soil horizons that combine a set of properties which are used for identifying soil units are called 'diagnostic horizons'. Since the characteristics of soil horizons are produced by soil-forming processes, the use of diagnostic horizons for separating soil units relates the classification to general principles of soil genesis. Objectivity is secured, however, in that the processes themselves are not used as criteria but only their effects, expressed in terms of quantitatively defined morphological properties that have identification value.
+208	Some of the characteristics which are used to separate soil units cannot be considered as horizons. They are diagnostic features of horizons or of soil materials which, when used for classification purposes, need to be quantitatively defined.
+209	Size classes for structure elements of various types (Soil Survey Staff, 1951; FAO, 1990).
+210	Size of dominant rock or mineral fragments in classes (FAO, 1990)
+211	Weight percentage of particles 1.0-2.0 mm in fine earth fraction.
+212	Weight percentage of particles 0.5-1.0 mm in fine earth fraction.
+213	Weight percentage of particles 0.25-0.5 mm in fine earth fraction.
+214	Weight percentage of particles 0.10-0.25 mm in fine earth fraction.
+215	Weight percentage of particles 0.05-0.10 mm in fine earth fraction.
+216	Weight percentage of particles 0.05-2.0 mm in fine earth fraction. The total sand fraction, either as an absolute value, or as the sum of the sub-fractions.
+217	Weight percentage of particles 0.002-0.05 mm in fine earth fraction.
+218	The basic infiltration rate.
+219	The pH as determined in the supernatant suspension of a 1:x soil-water mixture.
+220	The pH as determined in the supernatant suspension of a 1:x soil-1 M KCl mixture.
+221	The electrical conductivity of the saturation extract.
+222	The soluble Na+ content of the saturated paste.
+223	The soluble Ca++ content of the saturated paste.
+224	The soluble Mg++ content of the saturated paste.
+225	The soluble K+ content of the saturated paste.
+226	The soluble Cl- content of the saturated paste.
+227	The soluble SO4-- content of the saturated paste.
+228	The soluble HCO3- content of the saturated paste.
+229	The soluble HCO3- content of the saturated paste.
+230	The exchangeable Ca++.
+231	The exchangeable Mg++.
+232	The exchangeable Na+.
+233	The exchangeable K+.
+234	The exchangeable Al+++.
+235	The exchangeable acidity, as determined in 1N KCl.
+236	The cation exchange capacity of the soil at pH 7.0.
+237	The content of carbonates.
+238	The gypsum content.
+239	The content of total organic carbon (for the topsoil first 25 cm, or A horizon, whichever is deeper).
+240	The content of total N.
+241	The P2O5 content
+242	The phosphate retention, usually in %.
+243	The Fe fraction, extractable in dithionite.
+244	The Fe fraction, extractable in pyrophosphate at pH 10.
+245	The Al fraction, extractable in dithionite.
+246	The Al fraction, extractable in pyrophosphate at pH 10.
+247	The dominant type of mineral in the clay fraction.
+248	If two (or more) terrain components are completely similar, then their data will only be entered once in the database. When referring to an already described terrain component data_ID the first terrain component with a particular attribute content will also be used for subsequent identical terrain components. In case a terrain component has not been described before in the database, then its code will also be used as its data code.
+249	The reference soil depth of a profile, defined here as the maximum depth to which the profile was described/sampled in the field, or documented in the source database.
+250	"Phases are subdivisions of soil units based on characteristics which are significant to the use or management of the land but are not diagnostic for the separation of soil units themselves.
 Phases as defined in the 1974 Legend of the FAO-Unesco Soil Map of the World."
-251;Reference Soil Group according to the World Reference Base for Soil Resources (FAO, 2006).
-252;Version (i.e. year) of the USDA Soil Taxonomy used.
-220;The pH as determined in the supernatant suspension of a 1:x soil-1 M KCl mixture.
-211;Weight percentage of particles 1.0-2.0 mm in fine earth fraction.
-216;Weight percentage of particles 0.05-2.0 mm in fine earth fraction. The total sand fraction, either as an absolute value, or as the sum of the sub-fractions.
-278;Weight percentage of particles 50-1000 μm in the fine earth fraction
-253;"Climate at the site classified according to the Köppen system, which considers precipitation effectiveness for plant growth as the major classification factor, and uses the appropriate seasonal values of temperature and precipitation to determine the limits of climatic groupings.
+251	Reference Soil Group according to the World Reference Base for Soil Resources (FAO, 2006).
+252	Version (i.e. year) of the USDA Soil Taxonomy used.
+253	"Climate at the site classified according to the Köppen system, which considers precipitation effectiveness for plant growth as the major classification factor, and uses the appropriate seasonal values of temperature and precipitation to determine the limits of climatic groupings.
 
 The Köppen system figures a shorthand code of letters designating major climate groups, subgroups within these major groups, with further subdivisions to distinguish particular seasonal characteristics of temperature and precipitation (adapted from Strahler, 1969 p. 224; Times Atlas, 1993)."
-254;Main parent material from which the soil has been formed (after SOTER and FAO/ISRIC (1990, p.14) conventions).
-255;"Code for the horizon; whenever possible, the horizon designation should be given according to the terminology of the ""Guidelines for Soil Description"" (FAO, 2006); otherwise, conventions of the national system are maintained."
-256;The content of total organic carbon.
-257;Electrical conductivity (Ec(x)) for the horizon, for the specified soil:water ratio (that is, x), at 25 °C.
-259;Soil reaction measured in a KCl solution at the specified soil:solution ratio and molarity.
-260;Soil reaction measured in CaCl2 solution at the specified soil:solution ratio and molarity.
-261;"Exchangeable acidity, the sum of exchangeable Al+++ and H+, obtained with a percolation of a soil sample with a 1 M KCl solution. Exchangeable acidityis measured by titration of the percolate, and exchangeable aluminium is determined separately in the percolate (van Reeuwijk, 2002).
+254	Main parent material from which the soil has been formed (after SOTER and FAO/ISRIC (1990, p.14) conventions).
+255	"Code for the horizon; whenever possible, the horizon designation should be given according to the terminology of the ""Guidelines for Soil Description"" (FAO, 2006); otherwise, conventions of the national system are maintained."
+256	The content of total organic carbon.
+257	Electrical conductivity (Ec(x)) for the horizon, for the specified soil:water ratio (that is, x), at 25 °C.
+258	Soil reaction measured in water at the specified soil:water ratio.
+259	Soil reaction measured in a KCl solution at the specified soil:solution ratio and molarity.
+260	Soil reaction measured in CaCl2 solution at the specified soil:solution ratio and molarity.
+261	"Exchangeable acidity, the sum of exchangeable Al+++ and H+, obtained with a percolation of a soil sample with a 1 M KCl solution. Exchangeable acidityis measured by titration of the percolate, and exchangeable aluminium is determined separately in the percolate (van Reeuwijk, 2002).
 [Note: Values for Exchangeable acidity, determined in 1 M KCl percolate, and extractable acidity, equilibrated with a BaCl2-TEA buffer at pH 8.2, refer to essentially different measurement methods]."
-262;The Cation Exchange Capacity (CEC) of the fine earth fraction.
-263;Base saturation (BS) calculated as sum of exchangeable cation bases (Ca++, Mg++, K+ and Na+) divided by CEC(soil), times 100%. Analytical method should be specified.
-264;Weight percentage of sand. The particle size distribution refers to the fine earth fraction only (< 2 mm). The analytical proccedure and equivalent spherical diameter is defined in the laboratory analytical method.
-28;Surface cover of rock outcrops. 
-72;"Soil structure refers to the natural organization of soil particles into discrete soil units (aggregates or peds) that result from pedogenetic processes. The aggregates are separated from each other by pores or voids.
-Type of structure refers to the  basic natural types of structure. Special cases or combinations of structures may be distinguished, which are subdivisions of the basic structures."
-276;The abundance of pores is recorded as the number per unit area in a square decimetre.
-267;Gravel generally represents a visual estimate of the percentage of large rock and mineral fragments - coarse fragments - with a diameter larger than 2 mm. Conversely, when wt% are given for the amount of fragments > 2 mm in the source data, these values have been converted to volume% (see Schoenberger et al. 2002).
-277;Continuity of pores (for tubular pores).
-219;The pH as determined in the supernatant suspension of a 1:x soil-water mixture.
-164;The year in which the original terrain data were collected serves as the time stamp for each SOTER unit. Where the SOTER unit has been composed on the basis of several sources of information, it is advised to use the major source for dating it. In this manner a link between the SOTER unit and the major source of information - a source map - can easily be made. The year of compiling the data according to the SOTER procedures is thus not recorded, unless the compilation itself has resulted in some major reinterpretation based on additional sources of information, like fresh satellite imagery. In general the year of compilation can be deducted from the year in which the data was entered into the database, as both years are likely to be the same or very close to each other. It is assumed that the year in which the terrain date were collected also applies to the terrain component data, and no separate date entry is required for this.
-279;Weight percentage of particles 20-2000 μm in the fine earth fraction
-281;Weight percentage of particles 0.005-0.05 mm in fine earth fraction.
-283;Weight percentage of particles < 5 μm in the fine earth fraction (particles < 2000 μm)
-9;"An indication of the relative position of the site within the land. The position affects the hydrological conditions of the site (external and internal drainage, e.g. subsurface runoff), which may be interpreted as being predominantly
-water receiving, water shedding or neither of these."
-88;Classification of the contrast of coatings
-91;Classification of the continuity of cementation/compaction
-3;Indication of the date of description, in order to inform future users of the soil data as to how old the data are.
-215;Weight percentage of particles 0.05-0.10 mm in fine earth fraction.
-214;Weight percentage of particles 0.10-0.25 mm in fine earth fraction.
-213;Weight percentage of particles 0.25-0.5 mm in fine earth fraction.
-284;From 200nm-500nm
+262	The Cation Exchange Capacity (CEC) of the fine earth fraction.
+263	Base saturation (BS) calculated as sum of exchangeable cation bases (Ca++, Mg++, K+ and Na+) divided by CEC(soil), times 100%. Analytical method should be specified.
+264	Weight percentage of sand. The particle size distribution refers to the fine earth fraction only (< 2 mm). The analytical proccedure and equivalent spherical diameter is defined in the laboratory analytical method.
+265	Weight percentage of silt. The particle size distribution refers to the fine earth fraction only (< 2 mm). The analytical proccedure and equivalent spherical diameter is defined in the laboratory analytical method.
+266	Weight percentage of clay. The particle size distribution refers to the fine earth fraction only (< 2 mm). The analytical proccedure and equivalent spherical diameter is defined in the laboratory analytical method.
+267	Gravel generally represents a visual estimate of the percentage of large rock and mineral fragments - coarse fragments - with a diameter larger than 2 mm. Conversely, when wt% are given for the amount of fragments > 2 mm in the source data, these values have been converted to volume% (see Schoenberger et al. 2002).
+268	The conditions from which the profile locations were derived; it is indicative for the accuracy of the profile location
+269	"Parent material is defined as the unconsolidated mineral or organic material from which the true soil develops.
+Parent rock is defined as the rock mass from which parent material is derived."
+270	Mode of accumulation or deposition of parent material.
+271	Texture of parent material.
+272	General characterization of the weathering status of solid rock.
+273	Resistance to weathering (solid rock only).
+274	Estimated run off
+275	Nature of flood water
+276	The abundance of pores is recorded as the number per unit area in a square decimetre.
+277	Continuity of pores (for tubular pores).
+278	Weight percentage of particles 50-1000 μm in the fine earth fraction
+279	Weight percentage of particles 20-2000 μm in the fine earth fraction
+280	Weight percentage of particles 0.001-0.05 mm in fine earth fraction.
+281	Weight percentage of particles 0.005-0.05 mm in fine earth fraction.
+282	Weight percentage of particles < 1 μm in the fine earth fraction (particles < 2000 μm)
+283	Weight percentage of particles < 5 μm in the fine earth fraction (particles < 2000 μm)
+284	From 200nm-500nm

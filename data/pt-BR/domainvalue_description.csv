@@ -1,2242 +1,2242 @@
-DomainValueId;Description
-2264;Abril
-2265;Maio
-2266;Junho
-2267;Julho
-802;Estrutura da rocha
-803;Estrutura estratificada
-804;Grão simples
-805;Maciça
-806;Maciça porosa
-807;Blocos
-808;Blocos angulares
-809;Blocos angulares (paralelepípedo)
-810;Blocos angulares e sub-angulares
-811;Blocos angulares (em forma de cunha)
-812;Blocos sub-angulares e angulares
-813;Blocos sub-angulares
-814;Blocos sub-angulares sub-arredondados ('nutty')
-815;Prismática
-816;Prismática sub-angular
-817;Cuneiforme
-818;Colunar
-819;Granular
-820;Coprólitos
-821;Laminar
-822;Torrões ('cloddy')
-823;Grumos ('crumbly')
-824;Aglomerados ('lumpy')
-825;Muito pequena
-826;Pequena
-827;Média
-828;Grande
-829;Muito grande
-830;Extremamente grande
-831;Muito pequena e pequena
-832;Muito pequena a média
-833;Pequena e média
-834;Pequena a grande
-835;Média e grande
-836;Média a muito grande
-837;Grande e muito grande
-838;Solto
-839;Macio
-840;Extremamente duro
-841;Macio a ligeiramente duro
-842;Ligeiramente duro a duro
-843;Duro a muito duro
-844;Solto
-845;Muito friável
-846;Friável
-1000;Vermelho-amarelado
-2268;Agosto
-2269;Setembro
-2270;Outubro
-2271;Novembro
-2272;Dezembro
-847;Firme
-848;Muito firme
-849;Extremamente firme
-850;Muito friável a friável
-1;Plano
-2;Em nível
-3;Quase em nível
-4;Muito suavemente ondulado
-5;Suavemente ondulado
-6;Ondulado
-1754;Marga
-7;Fortemente ondulado
-8;Moderadamente íngreme
-9;Íngreme
-10;Muito íngreme
-11;Cevada
-12;Milho
-13;Milheto
-14;Arroz (inundado)
-15;Arroz (sequeiro)
-16;Sorgo
-17;Trigo
-18;Coco
-19;Amendoim
-20;Palmeiras oleaginosas
-21;Soja
-22;Girassol
-23;Mandioca
-24;Batata
-25;Inhames
-26;Algodão
-27;Legumes
-28;Feijão
-29;Ervilha
-30;Cacau
-31;Café
-32;Chá
-33;Tabaco
-34;Cana-de-açúcar
-35;Seringueira
-283;Chuva
-303;Áquico
-535;Nenhum
-2249;Areia
-2250;Areia-franca
-36;Montanha
-37;Morro/colina/coxilha
-38;Planalto
-39;Planície
-40;Platô
-41;Bacia
-42;Vale
-43;Planície aluvial
-44;Planície costeira
-45;Planície lacustre
-46;Planície glacial
-47;Peneplano
-48;Pedimento
-49;Vulcão
-50;Campo de dunas
-51;Delta
-52;Planície de maré
-53;Playa
-54;Interflúvio
-55;Vale
-56;Fundo de vale
-57;Canal
-58;Dique
-59;Terraço
-60;Várzea
-61;Laguna
-62;Tanque/Piscina ('Pan')
-63;Recife de corais
-64;Caldeira
-65;Depressão
-66;Duna
-67;Duna longitudinal
-68;Depressão interdunal
-69;Encosta
-70;Crista/cume
-71;Crista de praia
-72;Caju
-73;Feijão-caupi
-74;Árvores frutíferas
-75;Arroz
-76;Batata doce
-77;Depósitos eólicos (não especificado)
-78;Areia eólica
-79;Depósitos litorais
-80;Depósitos de laguna
-81;Depósitos marinhos
-82;Depósitos lacustres
-83;Depósitos fluviais
-84;Depósitos aluviais
-85;Cinzas vulcânicas
-86;Loess
-87;Depósitos piroclásticos
-88;Depósitos glaciais
-89;Depósitos orgânicos
-90;Depósitos coluviais
-91;Intemperizado in situ
-92;Saprólito
-93;Não-consolidado (não especificado)
-94;Antráquica
-95;Duripã
-96;Fragipã
-97;Gelúndica
-98;Gilgai
-99;Inúndica
-100;Lítica
-101;Petroférrica
-102;Freática
-103;Plácica
-104;Rúdica
-105;Sálica
-106;Esquelética
-107;Sódica
-108;Taquírica
-109;Yérmica
-110;Plana (0-0,5%)
-111;Quase plana (0,5-2%)
-112;Suave ondulada (2-5%)
-113;Ondulante (5-10%)
-114;Ondulada (10-15%)
-115;Acidentada (15-30%)
-116;Íngreme dissecada (> 30%, moderada amplitude de elevação)
-117;Montanhosa (> 30%, grande amplitude de elevação (> 300 m))
-118;Sem micro-relevo - a superfície é (quase) plana
-119;Gilgai (não especificado)
-120;Gilgai baixo - diferença de altura (dentro de 10 m) < 20 cm
-121;Gilgai médio - diferença de altura (dentro de 10 m) 20-40 cm
-122;Gilgai alto - diferença de altura (dentro de 10 m) > 40 cm
-123;Cupinzeiros ou montes de formigas
-124;Trilhas de animais
-125;Tocas de animais
-126;'Hummocks' (não especificado)
-127;'Hummocks' baixos - diferença de altura < 20 cm
-128;'Hummocks' médios - diferença de altura de 20-40 cm
-129;'Hummocks' altos - diferença de altura > 40 cm
-130;Areias movediças
-131;Terracetes
-132;Ondulações
-133;Sem cobertura
-134;0-15%
-135;15-40%
-136;40-80%
-137;> 80%
-138;Rocha ígnea ácida/metamórfica
-139;Granito
-305;Údico
-140;Gnaisse
-2262;Fevereiro
-141;Granito/gnaisse
-142;Quartzito
-143;Xisto
-144;Andesito
-145;Diorito
-146;Rocha ígnea básica/metamórfica
-147;Rocha ultrabásica
-148;Gabbro
-149;Basalto
-150;Dolerito
-151;Rocha vulcânica
-152;Rocha sedimentar
-153;Calcário
-154;Dolomito
-155;Arenito
-156;Arenito quartzítico
-157;Argilito (shale)
-158;Marga
-159;Travertino
-160;Conglomerado
-161;Siltito
-162;Tufo
-163;Rocha piroclástica
-164;Evaporitos
-165;Gipsita
-166;Desconhecido
-167;Muito raso (< 30 cm)
-168;Raso (30-50 cm)
-169;Moderadamente profundo (50-100 cm)
-170;Profundo (100-150 cm)
-171;Muito profundo (> 150 cm)
-172;Excessivamente bem drenado
-173;Um tanto quanto excessivamente bem drenado
-174;Bem drenado
-175;Moderadamente bem drenado
-176;Imperfeitamente drenado
-177;Mal drenado
-178;Muito mal drenado
-179;Menos de 1 dia
-180;1-15 dias
-181;15-30 dias
-182;30-90 dias
-183;90-180 dias
-184;180-360 dias
-185;Continuamente
-186;Nenhum
-187;Diariamente
-188;Semanalmente
-189;Mensalmente
-190;Anualmente
-191;Bianualmente
-192;Uma vez a cada 2-4 anos
-193;Uma vez a cada 5-10 anos
-194;Raramente (menos de uma vez a cada 10 anos)
-195;Desconhecido
-196;Nunca saturado (bem drenado)
-197;Raramente saturado (alguns dias em alguns anos)
-198;Saturado por períodos curtos, na maioria dos anos (até 30 dias)
-199;Saturado por longos períodos todos os anos
-200;Sempre saturado (muito mal drenado)
-201;Desconhecido
-202;Extremamente lento (< 0,06 cm/h)
-203;Muito lento (0,06-0,2 cm/h)
-204;Lento (0,2-0,6 cm/h)
-205;Moderadamente lento (0,6-2,0 cm/h)
-206;Moderadamente rápido (2,0-6,0 cm/h)
-207;Rápido (6-20 cm/h)
-208;Muito rápido (> 20 cm/h)
-209;Alagado (recebendo água)
-210;Nem recebendo, nem fornecendo água
-211;Escoamento lento
-212;Escoamento moderadamente rápido
-213;Escoamento rápido
-214;Muito raso (0-25 cm)
-215;Raso (25-50 cm)
-216;Moderadamente profundo (50-100 cm)
-217;Profundo (100-150 cm)
-218;Muito profundo (>150 cm)
-219;Muito raso (0-25 cm)
-220;Raso (25-50 cm)
-221;Moderadamente profundo (50-100 cm)
-222;Profundo (100-150 cm)
-223;Muito profundo (>150 cm)
-224;Não observado
-225;Água freática rasa (2-3 m)
-226;Água freática moderadamente profunda (3-5 m)
-227;Água freática profunda (5-8 m)
-228;Água freática extremamente profunda (> 8 m)
-229;Desconhecido
-230;Salina
-231;Salobra
-232;Fresca
-233;Poluída
-234;Oxigenada
-235;Estagnada
-236;Seco
-237;Ligeiramente úmido
-238;Úmido
-239;Molhado
-240;Muito fina
-241;Cultivo de árvores e arbustos
-242;Fina
-243;Média
-244;Grossa
-245;Muito grossa
-246;Fina e muito fina
-247;Fina e média
-248;Fina a grossa
-249;Média e grossa
-250;Média a muito grossa
-251;Grossa e muito grossa
-252;Argila
-253;Argila e sesquióxidos
-254;Argila e húmus (matéria orgânica)
-255;Faces de pressão
-256;Superfícies de fricção, sem intersecção
-257;Superfícies de fricção, parcialmente intersectadas
-258;Superfícies de fricção, predominantemente intersectadas
-259;Faces brilhantes (como em propriedades níticas)
-260;Nenhuma evidência de erosão
-261;Erosão ou deposição eólica
-262;Erosão ou depósito eólica
-263;Movimento de massa (deslizamentos de terra e fenômenos similares)
-264;Desconhecido
-265;Erosão laminar
-266;Erosão em sulcos
-267;Voçorocas/ravinas
-268;Erosão em túnel
-269;Deposição hídrica
-2263;Março
-270;Erosão hídrica e eólica
-271;Deposição eólica
-272;Erosão e deposição eólica
-273;Areias movediças
-274;Deposição de sal
-275;Areia muito fina
-276;Areia fina
-277;Areia grossa
-278;Areia média
-279;Areia indiferenciada
-280;Ensolarado/claro
-281;Parcialmente nublado
-282;Nublado
-284;Granizo
-285;Neve
-286;Sem chuva no último mês
-287;Sem chuva na última semana
-288;Sem chuva nas últimas 24 horas
-289;Chuvoso, mas sem chuva forte nas últimas 24 horas
-290;Chuva forte por alguns dias ou tempestades nas últimas 24 horas
-291;Tempo extremamente chuvoso ou derretimento de neve
-292;Pergélico
-293;Cryico
-294;Frígido
-295;Isofrígido
-296;Melões
-297;Mésico
-298;Isomésico
-299;Térmico
-334;Cultivo irrigado
-300;Isotérmico
-301;Hipertérmico
-302;Isohipertérmico
-304;Peráquico
-306;Perúdico
-307;Ústico
-308;Xérico
-309;Arídico
-310;Tórrico
-2238;Muito fraco
-311;Descrição de referência do perfil
-312;Descrição de referência do perfil 
-313;Descrição de rotina do perfil
-314;Descrição de rotina do perfil
-315;Não utilizada e não manejada
-316;Cereais
-317;Cevada
-318;Brunada
-319;Descrição incompleta
-320;Descrição incompleta
-321;Descrição do solo por tradagem
-322;Descrição do solo por tradagem
-323;Outras descrições
-324;Agricultura (cultivos agrícolas)
-325;Campo de cultivo anual
-326;Agricultura itinerante/migratória
-327;Sistema de cultivo com pousio
-328;Agricultura alternada com pecuária
-329;Cultivo de sequeiro arável
-330;Cultivo de arroz inundado
-331;Cultivo irrigado
-332;Campo de cultivo perene
-333;Cultivo não-irrigado
-335;Cultivo arbóreo não-irrigado
-336;Cultivo arbóreo irrigado
-337;Cultivo arbustivo não-irrigado
-338;Cultivo arbustivo irrigado
-339;Cultivo de sequeiro arável tradicional
-340;Cultivo de sequeiro arável tradicional melhorado
-341;Cultivo de sequeiro arável tradicional mecanizado
-342;Cultivo de sequeiro arável comercial
-343;Cultivo de sequeiro arável não especificado
-344;Agricultura mista
-345;Agroflorestal
-346;Agropastoralismo
-347;Pecuária
-348;Pastoreio extensivo
-349;Nomadismo
-2239;Muito forte
-350;Semi-nomadismo
-351;Pecuária extensiva ('ranching')
-352;Pastoreio intensivo
-353;Gado de corte
-354;Gado de leite
-355;Silvicultura
-356;Floresta natural e florestamento
-357;Corte seletivo
-358;Corte raso
-359;Plantação florestal
-360;Proteção da natureza
-361;Preservação da natureza e recreação
-362;Reservas
-363;Parques
-364;Gestão da vida selvagem
-365;Controle da degradação
-366;Sem interferência
-367;Com interferência
-368;Área residencial, indústria
-369;Uso residencial
-370;Uso industrial
-371;Transporte
-372;Uso recreativo
-373;Escavações
-374;Locais de disposição
-375;Área militar
-376;Outras utilizações das terras
-377;Milho (cereal)
-378;Milheto
-379;Aveia
-380;Arroz, inundado
-381;Arroz, sequeiro
-382;Centeio
-383;Sorgo
-384;Trigo
-385;Culturas oleaginosas
-386;Cocos
-387;Amendoins
-388;Linhaça
-389;Oliveiras
-390;Palmeira oleaginosa
-391;Colza
-392;Sésamo/gergelim
-393;Soja
-394;Girassol
-395;Plantas forrageiras
-396;Alfafa
-397;Trevo
-398;Gramas
-399;Feno
-400;Leguminosas
-401;Milho (planta forrageira)
-402;Abóboras
-403;Raízes e tubérculos
-404;Mandioca
-405;Batatas
-406;Beterraba sacarina
-407;Inhames
-408;Frutas e melões
-409;Maçãs
-410;Bananas
-411;Citrus
-412;Uvas, vinho, passas
-413;Mangas
-414;Culturas de fibras
-415;Algodão
-416;Juta
-417;Legumes
-418;Grãos de vagens
-419;Feijões
-420;Lentilhas
-421;Ervilhas
-422;Alimentos semi-luxuosos e tabaco
-423;Cacau
-424;Café
-425;Chá
-426;Tabaco
-427;Outras culturas
-428;Cana-de-açúcar
-429;Seringueira
-430;Palmeiras (fibras, sementes)
-431;Nenhuma influência
-432;Desconhecido
-433;Vegetação ligeiramente perturbada
-434;Vegetação moderadamente perturbada
-435;Vegetação fortemente perturbada
-436;Vegetação perturbada (não especificado)
-437;Irrigação por aspersão
-438;Irrigação por sulcos
-439;Irrigação por gotejamento
-440;Irrigação por inundação
-441;Irrigação por diques
-442;Irrigação (não especificado)
-443;Drenagem artificial
-444;Aplicação de fertilizantes
-445;Aterro (inclusive sanitário)
-446;Nivelamento
-447;Arqueológico (túmulo, sambaquis)
-448;Cratera de impacto
-449;Construção de diques ('bunding')
-450;Queimada
-451;Terraceamento
-452;Aração
-453;Plaggen
-454;Arbusto anão
-455;Canteiros levantados (para fins agrícolas)
-456;Canteiros levantados (para fins de engenharia)
-457;Adições de areia
-458;Adições minerais (não especificado)
-459;Adições orgânicas (não especificado)
-460;Poluição
-461;Desbravamento ('clearing')
-462;Compactação superficial
-463;Área decapada
-464;Área de empréstimo
-465;Área de despejo (não especificado)
-466;Mina (superfície, incluindo a céu aberto, cascalho e pedreiras)
-467;Natural muito jovem (1-10 anos): com perda por erosão ou deposição de materiais como em planícies de maré, dunas costeiras, vales de rios, deslizamentos de terra ou em áreas desérticas.
-468;Antropogeomórfica muito jovem (1-10 anos): com total perturbação das superfícies naturais (e solos), como nas áreas urbanas, industriais e áreas de mineração, apresentando desenvolvimento muito recente do solo a partir de materiais naturais frescos ou tecnogênicos ou uma mistura de materiais.
-469;Natural jovem (10-100 anos): com perda por erosão ou deposição de materiais como em planícies de maré, dunas costeiras, vales de rios, deslizamentos de terra ou em áreas desérticas.
-470;Antropogeomórfica jovem (10-100 anos): com total perturbação das superfícies naturais (e solos), tais como nas zonas urbanas, industriais e áreas de mineração, apresentando desenvolvimento recente do solo a partir de materiais naturais frescos ou tecnogênicos ou uma mistura de materiais, ou de restrição de inundação por diques.
-471;Natural do Holoceno (100-10.000 anos): com perda por erosão ou deposição de materiais como em planícies de maré, dunas costeiras, vales de rios, deslizamentos de terra ou em áreas desérticas.
-472;Antropogeomórfica do Holoceno (100-10.000 anos): as modificações feitas pelo homem no relevo, como terraceamento dos morros ou encostas por civilizações antigas ou durante a Idade Média, ou mais cedo, restrição de inundações por diques, ou a elevação da superfície.
-473;Pleistoceno superior, coberta com gelo, comumente com formação recente do solo sobre materiais frescos.
-474;Pleistoceno superior, periglacial, comumente com formação recente do solo sobre materiais pré-intemperizados.
-475;Pleistoceno superior, sem influência periglacial.
-476;Pleistoceno médio e inferior, coberta de gelo, comumente com formação recente do solo sobre material pré-intemperizado mais jovem sobre outro mais velho.
-477;Pleistoceno médio e inferior, com influência periglacial, comumente com formação recente do solo sobre material pré-intemperizado mais jovem sobre outro mais velho.
-478;Pleistoceno médio e inferior, sem influência periglacial.
-479;Profunda (10-20 cm)
-480;Superfícies do Terciário, comumente planos elevados, terraços ou peneplanícies, exceto vales incisos, ocorrência frequente de paleossolos.
-481;Mais antigas, superfícies anteriores ao Terciário, comumente planos elevados, terraços ou peneplanícies, exceto vales incisos, ocorrência frequente de paleossolos.
-482;Retilíneo
-483;Côncavo
-484;Convexo
-485;Terraceado
-486;Complexo (irregular)
-487;Nenhum (0%)
-488;Muito pouco (0-2%)
-489;Pouco (2-5%)
-490;Comum (5-15%)
-491;Muito (15-40%)
-492;Abundante (40-80%)
-493;Dominante (>80%)
-494;> 50 m
-495;20-50 m
-496;5-20 m
-497;2-5 m
-498;< 2 m
-499;Cascalho fino (0,2-0,6 cm)
-500;Cascalho médio (0,6-2,0 cm)
-501;Cascalho grosso (2-6 cm)
-502;Calhaus (6-20 cm)
-503;Matacão (20-60 cm)
-504;Matacão grande (60-200 cm)
-505;Nenhuma evidência de erosão
-506;Erosão ou deposição hídrica
-507;Erosão laminar
-508;Erosão em sulcos
-509;Voçorocas/ravinas
-510;Erosão em túnel
-511;Deposição hídrica
-512;Erosão eólica e hídrica
-513;Movimento de massa (deslizamentos de terra e fenômenos similares)
-514;Desconhecido
-515;Erosão ou deposição eólica
-516;Deposição eólica
-517;Erosão e deposição eólica
-518;Areias movediças
-519;Deposição de sal
-520;0%
-521;0-5%
-522;5-10%
-523;10-25%
-524;25-50%
-525;> 50%
-526;Ligeira
-527;Moderada
-528;Severa
-529;Extrema
-530;Ativo no presente
-531;Ativa no passado recente (últimos 50-100 anos)
-532;Ativa em tempos históricos
-533;Período de atividade desconhecido
-534;Erosão natural e acelerada não distinta
-536;Fina (< 2 mm)
-537;Média (2-5 mm)
-538;Espessa (5-20 mm)
-539;Muito espessa (> 20 mm)
-540;Ligeiramente dura
-541;Dura
-542;Muito dura
-543;Extremamente dura
-544;Fina (< 1 cm)
-545;Média (1-2 cm)
-546;Larga (2-5 mm)
-547;Muito larga (5-10 cm)
-548;Extremamente larga (> 10 cm)
-549;Muito próximas (< 0,2 m)
-550;Próximas (0,2-0,5 m)
-551;Moderadamente espaçadas (0,5-2,0 m)
-552;Bastante espaçados (2-5 m)
-553;Muito espaçadas (> 5 m)
-554;Superficial (< 2 cm)
-555;Média (2-10 cm)
-556;Muito profunda (>20 cm)
-557;Nenhuma (0-2%)
-558;Baixa (2-15%)
-559;Moderada (15-40%)
-560;Alta (40-80%)
-561;Dominante (> 80%)
-562;Sem vegetação
-563;Pradaria (gramíneas, dicotiledôneas secundárias, sem espécies lenhosas)
-564;'Forbland' (predomínio de plantas herbáceas)
-565;Savana (gramíneas com uma camada descontínua de árvores ou arbustos)
-566;Floresta fechada (estrato arbóreo contínuo, copas sobrepostas, grande número de espécies arbóreas e em camadas distintas)
-567;Floresta latifoliada perenifólia
-568;Floresta de coníferas
-569;Floresta semidecidual
-570;Floresta decidual
-571;Floresta xeromórfica
-572;Floresta aberta (estrato arbóreo contínuo, copas não costumam tocar, sub-bosque pode estar presente)
-573;Floresta aberta perenifólia
-574;Floresta aberta semidecidual
-575;Floresta aberta decidual
-576;Floresta aberta xeromórfica
-577;Arbusto
-578;Arbusto perenifólio
-579;Arbusto semidecidual
-580;Arbusto decidual
-581;Arbusto xeromórfico
-582;Arbusto anão perenifólio
-583;Arbusto anão semidecidual
-584;Arbusto anão decidual
-585;Arbusto anão xeromórfico
-586;Tundra
-587;Herbáceo
-588;Pradaria alta
-589;Pradaria média
-590;Pradaria baixa
-591;Dicotiledôneas
-592;Turfeira alimentada por água da chuva
-593;Turfeira alimentada por águas subterrâneas
-594;Topo/cume, em terreno ondulado a montanhoso
-595;Terço superior, em terreno ondulado a montanhoso
-596;Terço médio, em terreno ondulado a montanhoso
-597;Terço inferior, em terreno ondulado a montanhoso
-598;Sopé, em terreno ondulado a montanhoso
-600;Parte mais alta, em terreno plano ou quase plano
-601;Parte intermediária, em terreno plano ou quase plano
-602;Parte inferior, em terreno plano ou quase plano
-603;Várzea (linha de drenagem), em terreno plano ou quase plano
-655;Abundante (40-80%)
-604;Terrenos planos
-658;Cascalho pequeno (2-6 mm)
-605;Planície
-606;Planalto
-607;Depressão
-608;Fundo de vale
-609;Terrenos ondulados
-610;Zona escarpada com médio gradiente
-611;Colina com médio gradiente
-612;Montanha com médio gradiente
-613;Planície dissecada
-614;Vale com médio gradiente
-615;Terreno íngremes
-616;Zona escarpada com grande gradiente
-617;Colina com grande gradiente
-618;Montanha com grande gradiente
-619;Vale com grande gradiente
-620;Abrupta (0-2 cm)
-621;Clara (2-5 cm)
-622;Gradual (5-15 cm)
-623;Difusa (> 15 cm)
-624;"Plana: superfície quase plana"
-625;"Ondulada: reentrâncias mais largas do que profundas"
-626;"Irregular: reentrâncias mais profundas do que largas"
-627;"Quebrada: descontínua"
-628;Areia (indiferenciada)
-629;Areia-franca
-630;Franco-arenosa
-631;Franco-argilo-arenosa
-632;Franco-siltosa
-633;Franco-argilo-siItosa
-634;Franco-argilosa
-635;Franca
-636;Silte
-637;Argilo-arenosa
-638;Argilossiltosa
-639;Argila
-640;Muito argilosa
-641;Areia muito fina
-642;Areia fina
-643;Areia média
-644;Areia grossa
-645;Areia-franca muito fina
-646;Areia-franca-fina
-647;Areia-franca-grossa
-648;Franco-arenosa-fina
-649;Franco-arenosa-grossa
-650;Nenhum (0%)
-651;Muito pouco (0-2%)
-652;Pouco (2-5%)
-653;Comum (5-15%)
-654;Muito (15-40%)
-656;Dominante (> 80%)
-657;Linha de pedra (qualquer conteúdo, mas concentrada a uma profundidade distinta de um horizonte)
-659;Cascalho pequeno e médio 2-20 mm)
-660;Cascalho médio (6-20 mm)
-661;Cascalho médio e grande (6-60 mm)
-662;Cascalho grande (20-60 mm)
-663;Cascalho grande e calhaus (20-200 mm)
-664;Calhaus (60-200 mm)
-665;Calhaus e boulders (60-600 mm)
-666;Matacão (200-600 mm)
-667;Matacão e matacão grande (> 200 mm)
-668;Matacão grande (> 600 mm)
-669;Artefatos muito pequenos (< 2 mm)
-670;Artefatos muito pequenos e pequenos (< 6 mm)
-671;Artefatos pequenos (2-6 mm)
-672;Artefatos pequenos e médios (2-20 mm)
-673;Artefatos médios (6-20 mm)
-674;Artefatos médios e grandes (> 6 mm)
-675;Artefatos grandes (> 20 mm)
-676;Plano
-677;Angular
-678;Sub-arredondado
-679;Arredondado
-680;Fresco ou ligeiramente intemperizado
-681;Intemperizado
-682;Fortemente intemperizado
-683;Rocha ígnea
-684;Rocha ígnea ácida
-685;Rocha ígnea ácida: granito
-686;Rocha ígnea ácida: granodiorito
-687;Rocha ígnea ácida: quartzodiorito
-688;Rocha ígnea ácida: riolito
-689;Rocha ígnea intermediária
-690;Rocha ígnea intermediária: andesito, traquito, fonólito
-691;Rocha ígnea intermediária: diorito-sienito
-692;Rocha ígnea básica
-693;Rocha ígnea básica: gabro
-694;Rocha ígnea básica: basalto
-695;Rocha ígnea básica: dolerito
-696;Rocha ígnea ultrabásica
-697;Rocha ígnea ultrabásica: peridotito
-698;Rocha ígnea ultrabásica: piroxenito
-699;Rocha ígnea ultrabásica: ilmenita, magnetita, ironstone, serpentina
-700;Rocha metamórfica
-701;Rocha metamórfica ácida
-702;Rocha metamórfica ácida: quartzito
-703;Rocha metamórfica ácida: gnaisse, migmatito
-704;Rocha metamórfica ácida: ardósia, filito, (rochas pelíticas)
-705;Rocha metamórfica ácida: xisto
-706;Rocha metamórfica básica
-707;Rocha metamórfica básica: ardósia, filito (rochas pelíticas)
-708;Rocha metamórfica básica: xisto
-709;Rocha metamórfica básica: gnaisse rico em minerais ferro-magnesianos
-710;Rocha metamórfica básica: calcário metamórfico (mármore)
-711;Rocha sedimentar
-712;Sedimentos clásticos
-713;Sedimentos clásticos: conglomerado, brecha
-714;Sedimentos clásticos: arenito, grauvaque, arcósio
-715;Sedimentos clásticos: siltito, argilito (mudstone), argilito
-716;Sedimentos clásticos: argilito (shale)
-717;Sedimentos clásticos: ironstone
-2251;Franco-arenosa
-718;Rocha sedimentar orgânica
-719;Rocha sedimentar orgânica: calcário, outras rochas carbonáticas
-720;Rocha sedimentar orgânica: marga e outras misturas
-721;Rocha sedimentar orgânica: carvões, betume e rochas relacionadas
-722;Evaporitos
-723;Evaporitos: anidrita, gipsita
-724;Evaporitos: halita
-725;Rocha não-consolidada
-726;Rocha não-consolidada: fluvial
-727;Rocha não-consolidada: lacustre
-728;Rocha não-consolidada: marinha
-729;Rocha não-consolidada: coluvionar
-730;Rocha não-consolidada: eólica
-731;Rocha não-consolidada: glacial
-732;Rocha não-consolidada: piroclástica
-733;Rocha não-consolidada: orgânica
-734;Fragmentos minerais primários: quartzo
-735;Fragmentos minerais primários: quartzito
-736;Fragmentos minerais primários: chert
-737;Fragmentos minerais primários: mica
-738;Fragmentos minerais primários: feldspato
-739;Fragmentos minerais primários: granito
-740;Fíbrico, grau de decomposição/humificação muito baixo
-741;Fíbrico, grau de decomposição/humificação baixo
-742;Fíbrico, grau de decomposição/humificação moderado
-743;Hêmico, grau de decomposição/humificação forte
-744;Médio (2-5 mm)
-745;Hêmico, grau de decomposição/humificação moderadamente forte
-746;Sáprico, grau de decomposição/humificação muito forte
-789;Moderado
-747;Húmus cru ('mor' aeromórfico)
-748;Bruno-avermelhado
-749;'Moder' ('mull' inferior)
-750;'Mull'
-751;Nenhum (0%)
-752;Muito pouco (0-2%)
-753;Pouco (2-5%)
-754;Comum (5-15%)
-755;Muito (15-40%)
-756;Abundante (> 40%)
-757;Muito pequeno (< 2 mm)
-758;Pequeno (2-6 mm)
-759;Médio (6-20 mm)
-2261;Janeiro
-761;Fraco
-762;Distinto
-763;Proeminente
-764;Abrupto (< 0,5 mm)
-765;Claro (0,5-2 mm)
-766;Difuso (> 2 mm)
-767;Não-calcáreo (0%)
-768;Ligeiramente calcáreo (0-2%)
-769;Moderadamente calcáreo (2-10%)
-770;Fortemente calcáreo (10-25%)
-771;Extremamente calcáreo (> 25%)
-772;Concreções macias
-773;Concreções duras
-774;Concreções ocas rígidas
-775;Cal em pó disperso
-776;Pseudomicélio (preenchimentos de carbonato nos poros, assemelhando-se a micélios)
-777;Camada de marga
-778;Camada cimentada dura ou camadas de carbonatos (menos de 10 cm de espessura)
-779;Não-gipsítico (0%)
-780;Ligeiramente gipsítico (0-5%)
-781;Moderadamente gipsítico (5-15%)
-782;Fortemente gipsítico (15-60%)
-783;Extremamente gipsítico (> 60%)
-784;Concreções macias
-785;Gesso em pó disperso
-786;'Gazha' (camada argilosa saturada com água e com teor elevado de gesso)
-787;Camada cimentada dura ou camadas de gesso (menos de 10 cm de espessura)
-788;Fraco
-790;Forte
-791;Ligeiramente duro
-792;Duro
-793;Muito duro
-794;Fraca a moderada
-888;Planares
-795;Moderada a forte
-851;Friável a firme
-852;Firme a muito firme
-853;Não-pegajoso
-854;Ligeiramente pegajoso
-855;Pegajoso
-856;Muito pegajoso
-857;Ligeiramente pegajoso a pegajoso
-858;Pegajoso a muito pegajoso
-859;Não-plástico
-860;Ligeiramente plástico
-861;Plástico
-862;Muito plástico
-863;Ligeiramente plástico a plástico
-864;Plástico a muito plástico
-865;Muito seco
-866;Seco
-867;Ligeiramente úmido
-868;Úmido
-869;Molhado
-870;Muito molhado
-871;Suja os dedos, é coesiva (pegajosa), é moldável, tem elevada plasticidade e apresenta superfície brilhante depois de apertada entre os dedos.
-872;Suja os dedos, não é pegajoso, apenas fracamente moldável, tem superfície áspera e rachada depois de espremer entre os dedos e dá sensação farinácea (como pó de talco).
-873;Não pode ser moldada, não suja os dedos e dá sensação de muita aspereza.
-874;Muito baixa (< 2%)
-875;Baixa (2-5%)
-876;Média (5-15%)
-877;Alta (15-40%)
-878;Muito alta (> 40%)
-879;Intersticial
-880;Estrutura primária quebra-se em secundária
-881;Ambas as estruturas presentes
-882;Uma estrutura fundindo-se à outra
-883;Vesicular
-884;Descontínuo
-885;Veios
-886;Grande (> 5 mm)
-887;Canais
-889;Muito pequeno (< 0,5 mm)
-890;Pequeno (0,5-2 mm)
-891;Médio (2-5 mm)
-892;Grande (5-20 mm)
-893;Muito grande (20-50 mm)
-894;Nenhum
-895;Muito poucos
-896;Poucos
-897;Comuns
-898;Muitos
-899;Pequeno e médio (0,5-5 mm)
-900;Pequeno e muito pequeno (< 2 mm)
-901;Médio e grande (2-20 mm)
-902;Fraco
-903;Distinto
-904;Proeminente
-905;Argila
-906;Sesquióxidos
-907;Húmus
-908;Argila e sesquióxidos
-909;Argila e húmus (matéria orgânica)
-910;Carbonato de cálcio
-911;Gibbsita
-912;Revestimentos hipodérmicos
-913;Jarosita
-914;Manganês
-915;Sílica (opala)
-916;Revestimentos de areia
-917;Revestimentos silte
-918;Faces brilhantes (como no horizonte nítico)
-919;Faces de pressão
-920;Slickensides, predominantemente intersectando-se
-921;Slickensides, intersectando-se parcialmente
-922;Slickensides, sem intersectação
-923;Contínuo
-924;Irregular contínuo (não-uniforme, heterogêneo)
-925;Irregular descontínuo
-926;Dendróide
-927;Circular descontínuo
-928;Outro
-929;Faces pédicas
-930;Faces pédicas verticais
-931;Faces pédicas horizontais
-932;Fragmentos grosseiros
-933;Lamelas (bandas de argila)
-934;Poros
-935;Pontes entre grãos de areia
-936;Sem local específico
-937;Quebrada
-938;Contínua
-1001;Bruno
-939;Laminar
-940;Vesicular
-942;Nodular
-943;Carbonatos
-944;Sílica
-945;Carbonatos-sílica
-946;Ferro
-947;Ferro-manganês (sesquióxidos)
-948;Ferro-matéria orgânica
-949;Gelo
-950;Gesso
-951;Argila
-952;Argila-sesquióxidos
-953;Mecânica
-954;Aração
-955;Desconhecida
-956;Não-cimentado e não-compactado
-957;Compactado, mas não-cimentado
-958;Fracamente cimentado
-959;Moderadamente cimentado
-960;Cimentado
-961;Endurecido
-962;Cristal
-963;Concreção
-964;Concretização macia
-965;Segregação macia (ou acumulação macia)
-966;Nódulo
-967;Preenchimento dos poros
-968;Preenchimentos de rachaduras
-969;Fragmento residual de rocha
-970;Outro
-971;Muito pequena (< 2 mm)
-972;Pequena (2-6 mm)
-973;Média (6-20 mm)
-974;Grande (> 20 mm)
-975;Arredondada (esférica)
-976;Alongada
-977;Plana
-978;Irregular
-979;Angular
-980;Dura
-981;Macia
-982;Ambas dura e macia
-983;Carbonatos (calcária)
-984;Carbonatos-sílica
-985;Argila (argilosa)
-986;Argila-sesquióxidos
-987;Gesso (gipsífera)
-988;Sal (salina)
-989;Gibbsita
-990;Jarosita
-991;Enxofre (sulfurosa)
-992;Sílica (silicosa)
-993;Ferro (ferruginosa)
-994;Ferro-manganês (sesquióxidos)
-995;Manganês (manganesífera)
-996;Desconhecida
-997;Branco
-998;Vermelho
-999;Avermelhado
-1002;Bruno-amarelado
-1003;Amarelo
-1004;Amarelo-avermelhado
-1005;Esverdeado, verde
-1006;Cinza
-1007;Acinzentado
-1008;Azul
-1009;Preto-azulado
-1010;Preto
-1011;Multicolorido
-1012;Muito fina (< 0,5 mm)
-1013;Fina (0,5-2 mm)
-1014;Muito fina e fina (< 2 mm)
-1015;Fina e média (0,5-5 mm)
-1016;Médio e grossa (> 2 mm)
-1017;Ausente
-1018;Muito poucas
-1019;Poucas
-1020;Comuns
-1021;Muitas
-1022;Ausente
-1023;Pouca
-1024;Comum
-1025;Muita
-1026;Artefatos
-1027;Tocas (não-especificado)
-1028;Tocas grandes abertas
-1029;Tocas grandes preenchidas
-1030;Carvão vegetal
-1031;Galerias de minhoca
-1032;Pedotúbulos
-1033;Galerias e ninhos de cupins ou formigas
-1034;Outras atividades de insetos
-1035;Material artesanal natural
-1036;Poeira industrial
-1037;Material misto
-1038;Lixo orgânico
-1039;Pavimentos e pedras de pavimentação
-1040;Líquido sintético
-1041;Sólido sintético
-1042;Lodos
-1043;Ausente
-1044;Em forma de cuesta
-1045;Acidentado/espinhaço
-1046;Coberta por inselberg (ocupando > 1% das terras em nível)
-1047;Com planícies intermontanas (ocupando > 15%)
-1048;Com pântanos (ocupando > 15%)
-1049;Em forma de abóbada
-1050;Terraceado
-1051;Em forma de duna
-1052;Karst forte
-1053;Ausente
-1054;Petroquímico
-1055;Sulfuroso
-1056;Indicação positiva para características ândicas
-1057;Nenhuma indicação para características ândicas
-1058;Terras em nível
-1059;Planície (gradiente < 8%, intensidade do relevo < 100 m/km)
-1129;Rocha ígnea ultrabásica: ilmenita, magnetita, ironstone, serpentina
-1130;Rocha metamórfica
-1131;Rocha metamórfica ácida
-1060;Planalto (gradiente < 8%, intensidade do relevo < 100 m/km)
-1061;Grande depressão (gradiente > 8%)
-1062;Depressão (gradiente < 8%, intensidade do relevo < 100 m/km)
-1063;Terço inferior com pequeno gradiente (gradiente < 8%, intensidade do relevo < 100 m/km)
-1064;Fundo de vale (gradiente < 8%, intensidade do relevo < 100 m/km)
-1065;Nível muito baixo (planícies, etc.): < 300 m para terras planas e terras inclinadas com intensidade de relevo < 50 m/unidade de terreno.
-1066;Nenhuma evidência visível de erosão
-1067;Terrenos ondulados
-1068;Montanha de médio gradiente (gradiente de 15-30%, intensidade do relevo > 600 m/2 km)
-1069;Morros de médio gradiente (gradiente de 8-30%, intensidade do relevo > 50 m/unidade de terreno)
-1070;Zona escarpada de médio gradiente (gradiente de 15-30%, intensidade do relevo < 600 m/2 km)
-1071;Cumes/cristas (gradiente de 8-30%, intensidade do relevo > 50 m/unidade de terreno)
-1072;Planalto montanhoso (gradiente de 15-30%, intensidade do relevo > 600 m/2 km)
-1073;Planície dissecada (gradiente de 8-30%, intensidade do relevo < 50 m/unidade de terreno)
-1074;Terreno íngreme
-1117;Rocha ígnea ácida: quartzo-diorito
-1118;Rocha ígnea ácida: riolito
-1075;Montanha com grande gradiente (gradiente > 30%, intensidade do relevo > 600 m/2 km)
-1076;Colina com grande gradiente (gradiente > 30%, intensidade do relevo < 600 m/2 km)
-1077;Zona escarpada com grande gradiente (gradiente > 30%, intensidade do relevo > 600 m/2 km)
-1078;Vale com grande gradiente (gradiente > 30%)
-1132;Rocha metamórfica ácida: quartzito
-1134;Rocha metamórfica ácida: ardósia, filito, (rochas pellitic)
-1135;Rocha metamórfica ácida: xisto
-1079;Terreno com geoformas compostas (gradiente > 8%)
-1080;Vale (gradiente > 8%)
-1081;Planalto estreito (gradiente > 8%)
-1082;Plano, alagada, com declividade dominante de 0-2%. Alagada é definido pela presença permanente de água na superfície em 50-90% da área (geoforma simples).
-1083;Plano, com declividade dominante de 0-2% (geoforma simples).
-1084;Suave ondulado, com declividade dominante de 2-5% (geoforma simples).
-1085;Ondulante, com declividade dominante de 5-8% (geoforma simples).
-1086;Ondulado, com declividade dominante de 8-15% (geoforma simples).
-1087;Moderadamente íngreme, com declividade dominante de 15-30% (geoforma simples).
-1088;Íngreme, com declividade dominante de 30-60% (geoforma simples).
-1089;Muito íngreme, com declividade dominante ≥ 60% (geoforma simples).
-1090;Com forma de cuesta (geoforma complexa)
-1091;Com forma de abóbada (geoforma complexa)
-1092;Acidentado/espinhaço (geoforma complexa)
-1093;Terraceado (geoforma complexa)
-1094;Coberta por inselberg (geoforma complexa, cobrindo pelo menos 1% das terras planas)
-1095;Em forma de duna (geoforma complexa)
-1096;Com planícies intermontanas (geoforma complexa, ocupando pelo menos 15%)
-1097;Com pântanos (geoforma complexa, ocupando pelo menos 15%)
-1098;Karst forte (geoforma complexa)
-1099;Nível baixo: 300-600 m para terras planas e terras inclinadas com intensidade de relevo < 50 m/unidade de terreno
-1100;Nível médio: 600-1500 m para terras planas e terras inclinadas com intensidade de relevo < 50 m/unidade de terreno
-1101;Nível alto: 1500-3000 m para terras planas e terras inclinadas com intensidade de relevo < 50 m/unidade de terreno
-1102;Nível muito alto: ≥ 3000 m para terras planas e terras inclinadas com intensidade de relevo < 50 m/unidade de terreno
-1103;Baixo (morros, etc): < 200 m para terras inclinadas com intensidade de relevo > 50 m/unidade de terreno
-1104;Médio: 200-400 m para terras inclinadas com intensidade de relevo > 50 m/unidade de terreno
-1105;Alto: ≥ 400 m para terras inclinadas com intensidade de relevo > 50 m/unidade de terreno
-1106;Baixo (montanhas, etc): 600-1500 m para terras íngremes e inclinadas com intensidade de relevo > 600 m/2 km
-1107;Médio: 1500-3000 m para terras íngremes e inclinadas com intensidade de relevo > 600 m/2 km
-1108;Alto: 3000-5000 m para terras íngremes e inclinadas com intensidade de relevo > 600 m/2 km
-1109;Muito alto: ≥ 5000 m para terras íngremes e inclinadas com intensidade de relevo > 600 m/2 km
-1110;Ligeiramente dissecado: < 10 km/km²
-1111;Dissecado: 10-25 km/km²
-1112;Fortemente dissecado: ≥ 25 km/km²
-1113;Rocha ígnea
-1114;Rocha ígnea ácida
-1115;Rocha ígnea ácida: granito
-1116;Rocha ígnea ácida: granodiorito
-1119;Rocha ígnea intermediária
-1120;Rocha ígnea intermediária: andesito, traquito, fonólito
-1121;Rocha ígnea intermediária: diorito-sienito
-1122;Rocha ígnea básica
-1123;Rocha ígnea básica: gabro
-1124;Rocha ígnea básica: basalto
-1125;Rocha ígnea básica: dolerito
-1126;Rocha ígnea ultrabásica
-1127;Rocha ígnea ultrabásica: peridotito
-1128;Rocha ígnea ultrabásica: piroxenito
-1286;Maciça (sem estrutura)
-1133;Rocha metamórfica ácida: gnaisse, migmatito
-1136;Rocha metamórfica básica
-1137;Rocha metamórfica básica: ardósia, filito (rochas pelíticas)
-1138;Rocha metamórfica básica: xisto
-1139;Rocha metamórfica básica: gnaisse rico em minerais ferro-magnesianos
-1140;Rocha metamórfica básica: calcário metamórfico (mármore)
-1141;Rocha sedimentar
-1142;Sedimentos clásticos
-1143;Sedimentos clásticos: conglomerado, brecha
-1144;Sedimentos clásticos: arenito, grauvaques, arcósios
-1145;Sedimentos clásticos: siltito, argilito (mudstone), argilito
-1146;Sedimentos clásticos: argilito (shale)
-1147;Sedimentos clásticos: ironstone
-1148;Rocha sedimentar orgânica
-1149;Rocha sedimentar orgânica: calcário, outras rochas carbonáticas
-1150;Rocha sedimentar orgânica: marga e outras misturas
-1151;Rocha sedimentar orgânica: carvões, betume e rochas relacionados
-1152;Evaporitos
-1153;Evaporitos: anidrita, gipsita
-1154;Evaporitos: halita
-1155;Rocha não-consolidada
-1156;Rocha não-consolidada: fluvial
-1157;Rocha não-consolidada: lacustre
-1158;Rocha não-consolidada: marinha
-1159;Rochas não-consolidadas: coluvial
-1160;Rocha não-consolidada: eólica
-1161;Rocha não-consolidada: glacial
-1162;Rocha não-consolidada: piroclástica
-1163;Rocha não-consolidada: orgânica
-1164;Erosão laminar
-1165;Erosão em sulcos
-1166;Voçoroca/ravina
-1167;Erosão em túnel
-1168;Deposição hídrica
-1169;Erosão eólica e hídrica
-1170;Erosão e deposição eólica
-1171;Deposição eólica
-1172;Areia movediça
-1173;Deposição de sal
-1174;Tipo de erosão desconhecido
-1175;Muito raso (< 30 cm)
-1176;Raso (30-50 cm)
-1177;Moderadamente profundo (50-100 cm)
-1178;Profundo (100-150 cm)
-1179;Muito profundo (≥ 150 cm)
-1180;Vertente uniforme
-1181;Côncavo, diminuição do gradiente ladeira abaixo
-1182;Convexo, aumento do gradiente ladeira abaixo
-1183;Vertente irregular
-1369;Cinza-brunado-claro
-1184;Hummocky
-1185;Com montes
-1186;Com torres
-1187;Acidentado/espinhaço
-1188;Terraceado
-1189;Ravinado/voçorocado
-1285;Em grumos (esferoidal ou poliédrica, porosa)
-1190;Fortemente dissecado
-1191;Dissecado
-1192;Ligeiramente dissecado
-1193;Muito argilosa - mais de 60% de argila
-1194;Argilosa - classes de textura argilo-arenosa, argilossiltosa e argila
-1195;Franca - classes de textura franca, franco-argilo-arenosa, franco-argilosa, silte, franco-siltosa e franco-argilo-siltosa
-1196;Arenosa - classes de textura areia-franca e franco-arenosa
-1197;Extremamente arenosa - classe de textura areia
-1198;Extremamente lenta
-1199;Salobra
-1200;Lenta
-1201;Boa
-1202;Rápida
-1203;Muito rápida
-1204;Alta
-1205;Meio
-1206;Baixa
-1207;Mais baixa
-1208;Todas
-1209;Nenhuma
-1210;Fraca
-1211;Moderada
-1212;Forte
-1213;Muito lenta (< 0,1 cm/h)
-1214;Lenta (0,1-0,5 cm/h)
-1215;Moderadamente lenta (0,5-2,0 cm/h)
-1216;Moderada (2,0-6,0 cm/h)
-1217;Rápida (6,0-12,5 cm/h)
-1218;Muito rápida (12,5-25,0 cm/h)
-1219;Extremamente rápida (≥ 25 cm/h)
-1220;Fíbrico
-1221;Hêmico
-1222;Sáprico
-1223;Histic
-1370;Bruno-claro-acinzentado
-1371;Bruno-amarelado-claro
-1224;Mólico
-1225;Fímico
-1256;Permafrost
-1279;Prismática (prismas sem extremidade superior arredondada)
-1226;Úmbrico
-1284;Granular (esferoidal ou poliédrica, relativamente não-porosa)
-1227;Ócrico
-1228;Árgico
-1229;Nátrico
-1230;Câmbico
-1231;Espódico
-1232;Ferrálico
-1233;Propriedades níticas
-1271;Moderada
-1372;Amarelo-brunado
-1234;Cálcico
-1235;Petrocálcico
-1280;Colunar (prismas com topos arredondados)
-1281;Lítico
-1236;Gípsico
-1237;Petrogípsico
-1238;Sulfúrico
-1239;Álbico
-1240;Mudança textural abrupta
-1241;Fortemente húmico
-1242;Floresta tropical - úmida***
-1243;Fresco
-1244;Propriedades ândicas
-1245;Calcáreo
-1246;Calcárico
-1247;Rocha dura contínua
-1248;Propriedades ferrálicas
-1249;Propriedades férricas
-1272;Forte
-1373;Amarelo-brunado
-1250;Propriedades flúvicas
-1251;Propriedades géricas
-1252;Propriedades gleicas e estágnicas
-1253;Gipsífero
-1254;'Interfingering'
-1283;Blocos sub-angulares (faces planas e arredondadas misturadas com vértices, na maior parte, arredondado)
-1255;Materiais orgânicos do solo
-1257;Plintita
-1258;Propriedades sálicas
-1259;Slickensides
-1260;Consistência besuntada
-1261;Propriedades sódicas
-1262;Cal macio
-1263;Histosol
-1264;Kastanozem
-1265;Materiais sulfídricos
-1266;'Tonguing'
-1267;Propriedades vérticas
-1268;Minerais intemperizáveis
-1269;Sem estrutura
-1270;Fraca
-1273;Muito pequena
-1274;Pequena
-1275;Média
-1276;Grande
-1277;Muito grande
-1278;Laminar (partículas dispostas em torno de um plano geralmente horizontal)
-1282;Blocos angulares (delimitada por planos que se intersectam, na grande parte, com ângulos agudos)
-1287;Grão simples (sem estrutura, grãos individuais)
-1288;Cuneiforme (estrutura de horizontes com slickensides)
-1289;Alofana
-1290;Clorítica
-1291;Ilítica
-1292;Interestratificados ou mista
-1293;Caulinítica
-1294;Montmorillonítica
-1295;Sesquioxídica
-1296;Vermiculítica
-1297;Floresta tropical - úmida
-1298;Leptosol
-1299;Luvisol
-1300;Lixisol
-1301;Nitisol
-1302;Savana tropical, verão seco
-1303;Savana tropical, inverno seco
-1304;Clima de estepe - seco, quente
-1305;Clima de estepe - seco, frio
-1368;Cinza (claro)
-1306;Clima desértico - seco, quente
-1307;Petrocálcico
-1308;Duripã
-1309;Petroférrico
-1310;Cinza-avermelhado-escuro
-1311;Vermelho-acinzentado
-1312;Vermelho-acinzentado
-1313;Vermelho-acinzentado
-1314;Vermelho
-1315;Vermelho
-1316;Cinza-avermelhado
-1317;Vermelho-acinzentado
-1318;Vermelho-acinzentado
-1319;Vermelho-acinzentado
-1320;Vermelho
-1321;Vermelho
-1322;Cinza-avermelhado
-1323;Vermelho-claro-acinzentado
-1324;Vermelho-claro-acinzentado
-1325;Vermelho-claro-acinzentado
-1326;Vermelho-claro
-1327;Vermelho-claro
-1328;Oliva
-1329;Cinza
-1330;Cinza-oliváceo
-1331;Cinza
-1332;Cinza-oliváceo
-1333;- em branco -
-1334;Cinza
-1335;Cinza-oliváceo
-1336;- em branco -
-1337;- em branco -
-1338;- em branco -
-1339;Cinza-claro
-1340;Cinza-claro
-1341;- em branco -
-1342;- em branco -
-1343;- em branco -
-1344;Cinza-claro
-1345;- em branco -
-1346;Cinza-claro
-1347;- em branco -
-1348;- em branco -
-1349;- em branco -
-1350;Preto
-1351;Bruno muito escuro
-1352;Cinza muito escuro
-1353;Bruno-acinzentado muito escuro
-1354;Bruno-escuro
-1355;Bruno-amarelado-escuro
-1356;Bruno-amarelado-escuro
-1357;Cinza-escuro
-1358;Bruno-acinzentado-escuro
-1359;Bruno (escuro)
-1360;Bruno-amarelado-escuro
-1361;Bruno-amarelado-escuro
-1362;Cinza
-1363;Bruno-acinzentado
-1364;Bruno
-1365;Bruno-amarelado
-1366;Bruno-amarelado
-1367;Bruno-amarelado
-1374;Cinza-claro
-1375;Cinza-claro
-1376;Bruno muito claro-acinzentado
-1377;Bruno muito claro-acinzentado
-1378;Amarelo
-1379;Amarelo
-1380;Branco
-1381;Branco
-1382;Bruno muito claro-acinzentado
-1383;Bruno muito claro-acinzentado
-1384;Amarelo
-1385;Amarelo
-1386;Preto
-1387;Cinza muito escuro
-1388;Bruno-acinzentado muito escuro
-1389;Cinza-escuro
-1390;Bruno-acinzentado-escuro
-1391;Bruno-oliváceo
-1392;Cinza
-1393;Bruno-acinzentado
-1394;Bruno-oliváceo-claro
-1395;Bruno-oliváceo-claro
-1396;Cinza (claro)
-1397;Cinza-brunado-claro
-1398;Bruno-amarelado-claro
-1399;Amarelo-oliváceo
-1400;Amarelo-oliváceo
-1401;Cinza-claro
-1402;Cinza-claro
-1403;Amarelo-claro-acinzentado
-1404;Amarelo
-1405;Amarelo
-1406;Branco
-1407;Branco
-1408;Amarelo-acinzentado-claro
-1409;Amarelo
-1410;Amarelo
-1411;Preto
-1412;Vermelho muito escuro-acinzentado
-1413;Bruno-avermelhado-escuro
-1414;Cinza muito escuro
-1415;Vermelho-escuro-acinzentado
-1416;Bruno-avermelhado-escuro
-1417;Vermelho-escuro
-1418;Cinza-escuro
-1419;Vermelho-acinzentado
-1420;Bruno-avermelhado
-1421;Vermelho
-1422;Vermelho
-1423;Cinza
-1424;Vermelho-acinzentado
-1425;Bruno-avermelhado
-1426;Vermelho
-1427;Vermelho
-1428;Cinza
-1429;Vermelho-claro-acinzentado
-1430;Bruno-avermelhado-claro
-1431;Vermelho-claro
-1432;Vermelho-claro
-1433;Cinza-azulado-escuro
-1434;Cinza-azulado
-1435;Cinza-azulado
-1436;Cinza-azulado-claro
-1437;Cinza-esverdeado-escuro
-1438;Cinza-esverdeado
-1439;Cinza-esverdeado
-1440;Cinza-esverdeado-claro
-1441;Cinza-esverdeado-escuro
-1442;Verde-acinzentado
-1443;Cinza-esverdeado
-1444;Verde-acinzentado
-1445;Cinza-esverdeado
-1446;Verde-claro-acinzentado
-1447;Cinza-esverdeado-claro
-1448;Verde-claro-acinzentado
-1449;Cinza esverdeado-escuro
-1450;Cinza-esverdeado
-1451;Cinza-esverdeado
-1452;Cinza-esverdeado-claro
-1453;Preto-avermelhado
-1454;Vermelho muito escuro-acinzentado
-1455;Vermelho muito escuro-acinzentado
-1456;Vermelho muito escuro-acinzentado
-1457;Vermelho-escuro
-1458;Cinza-avermelhado-escuro
-1459;Vermelho-escuro-acinzentado
-1460;Vermelho-escuro-acinzentado
-1461;Vermelho-escuro-acinzentado
-1462;Vermelho-escuro
-1463;Vermelho-escuro
-1464;Cinza-avermelhado-escuro
-1465;Vermelho-acinzentado
-1466;Vermelho-acinzentado
-1467;Vermelho-acinzentado
-1468;Vermelho
-1469;Vermelho
-1470;Cinza-avermelhado
-1471;Vermelho-acinzentado
-1472;Vermelho-acinzentado
-1473;Vermelho-acinzentado
-1474;Vermelho
-1475;Vermelho
-1476;Cinza-avermelhado
-1477;Vermelho-claro-acinzentado
-1478;Vermelho-claro-acinzentado
-1479;Vermelho-claro-acinzentado
-1480;Vermelho-claro
-1481;Vermelho-claro
-1482;Preto
-1483;Preto
-1484;Cinza muito escuro
-1485;Cinza-oliváceo-escuro
-1486;Cinza-escuro
-1487;Cinza-oliváceo
-1488;Oliva
-1489;Oliva
-1490;Cinza
-1491;Cinza-oliváceo
-1492;Oliva
-1493;Oliva
-1494;Oliva
-1495;Cinza (claro)
-1496;Cinza-oliváceo-claro
-1497;Oliva-claro-acinzentado
-1498;Oliva-claro-acinzentado
-1499;Amarelo-oliváceo
-1500;Amarelo oliva
-1501;Cinza-claro
-1502;Cinza-claro
-1503;Amarelo-claro-acinzentado
-1504;Amarelo-claro-acinzentado
-1505;Amarelo
-1506;Amarelo
-1507;Branco
-1508;Branco
-1509;Amarelo-claro-acinzentado
-1510;Amarelo-claro-acinzentado
-1511;Amarelo
-1512;Amarelo
-1513;Preto
-1514;Bruno-avermelhado-escuro
-1515;Cinza muito escuro
-1516;Bruno-avermelhado-escuro
-1517;Bruno-avermelhado-escuro
-1518;Bruno-avermelhado-escuro
-1519;Cinza-escuro
-1520;Cinza-escuro avermelhado
-1521;Bruno-avermelhado
-1522;Bruno-avermelhado
-1523;Vermelho-amarelado
-1524;Cinza
-1525;Cinza-avermelhado
-1526;Petrogípsico
-1527;Pétrico
-1528;Freático
-1529;Sódico
-1679;Arenito não-calcário
-1621;Rocha metamórfica ultrabásica: serpentinito, greenstone
-1622;Rocha sedimentar
-1530;Clima de deserto - seco, frio
-1531;Temperado quente - úmido em todas as estações, verão quente
-1532;Phaeozem
-1533;Planosol
-1534;Plinthosol
-1535;Podzol
-1536;Regosol
-1537;Solonchak
-1538;Solonetz
-1539;Temperado quente - úmido em todas as estações, verão morno
-1540;Temperado quente - úmido em todas as estações, verão fresco curto
-1541;Temperado quente - verão seco, quente
-1542;Temperado quente - verão seco, morno
-1608;Rocha metamórfica ácida
-1543;Temperado quente - verão seco, verão fresco curto
-1564;Clima temperado frio - úmido em todas estações, inverno muito frio
-1566;Clima temperado frio - inverno seco, verão morno
-1544;Temperado quente - inverno seco, verão quente
-1545;Pedregoso
-1546;Fragipã
-1547;Salina
-1548;Albeluvisol
-1549;Acrisol
-1550;Alisol
-1551;Andosol
-1552;Temperado quente - inverno seco, verão morno
-1553;Stagnosol
-1554;Technosol
-1555;Umbrisol
-1556;Vertisol
-1557;Rocha ígnea
-1558;Rocha ígnea ácida
-1559;Oxigenado
-1560;Temperado quente - inverno seco, verão fresco curto
-1561;Clima temperado frio - úmido em todas as estações, verão quente
-1562;Clima temperado frio - úmido em todas as estações, verão morno
-1609;Rocha metamórfica ácida: quartzito
-1610;Rocha metamórfica ácida: gnaisse, migmatito
-1611;Rocha metamórfica ácida: ardósia, filito, (rochas pellitic)
-1563;Clima temperado frio - úmido em todas as estações, verão fresco curto
-1623;Sedimentos clásticos
-1624;Sedimentos clásticos: conglomerados, brechas
-1565;Clima temperado frio - inverno seco, verão quente
-1567;Clima temperado frio - inverno seco, verão fresco curto
-1568;Clima temperado frio - inverno seco, inverno muito frio
-1569;Clima com geada
-1570;Clima de tundra
-1571;Clima de montanha/altitude, indiferenciado
-1572;Cerrado
-1573;Clima temperado frio - verão seco, morno
-1574;Clima temperado frio - verão seco, verão fresco curto
-1575;Clima temperado frio - verão seco, inverno muito frio
-1576;Arenosol
-1577;Anthrosol
-1578;Chernozem
-1579;Calcisol
-1580;Cambisol
-1581;Cryosol
-1582;Durisol
-1583;Fluvisol
-1584;Ferralsol
-1585;Gleysol
-1586;Gypsisol
-1587;Rocha ígnea ácida: diorito
-1588;Rocha ígnea ácida: granodiorito
-1589;Rocha ígnea ácida: quartzo-diorito
-1590;Rocha ígnea ácida: riolito
-1591;Rocha ígnea intermediária
-1592;Rocha ígnea intermediária: andesito, traquito, fonólito
-1593;Rocha ígnea intermediária: diorito-sienito
-1594;Rocha ígnea básica
-1595;Rocha ígnea básica: gabro
-1596;Rocha ígnea básica: basalto
-1597;Rocha ígnea básica: dolerito
-1598;Rocha ígnea ultrabásica
-1599;Rocha ígnea ultrabásica: peridotito
-1600;Rocha ígnea ultrabásica: piroxenito
-1601;Rocha ígnea ultrabásica: ilmenita, magnetita, ironstone, serpentina
-1602;Rocha piroclástica
-1603;Rocha piroclástica: tufo, tufito
-1604;Rocha piroclástica: escória/brecha vulcânica
-1605;Rocha piroclástica: cinza vulcânica
-1606;Rocha piroclástica: ignimbrito
-1607;Rocha metamórfica
-1612;Rocha metamórfica ácida: xisto
-1613;Rocha metamórfica básica
-1614;Rocha metamórfica básica: ardósia, filito (rochas pelíticas)
-1615;Rocha metamórfica básica: xisto (verde)
-1616;Rocha metamórfica básica: gnaisse rico em minerais ferro-magnesianos
-1617;Rocha metamórfica básica: calcário metamórfico (mármore)
-1618;Rocha metamórfica básica: anfibolito
-1619;Rocha metamórfica básica: eclogito
-1620;Rocha metamórfica ultrabásica
-1625;Sedimentos clásticos: arenito, grauvaque, arcósio
-1626;Sedimentos clásticos: siltito, argilito (mudstone), argilito
-1627;Sedimentos clásticos: argilito (shale)
-1628;Sedimentos clásticos: ironstone
-1629;Rocha sedimentar orgânica ou carbonática
-1630;Rocha sedimentar orgânica ou carbonática: calcário, outras rochas carbonáticas
-1631;Dolerito
-1632;Rocha sedimentar orgânica ou carbonática: marga e outras misturas
-1633;Rocha sedimentar orgânica ou carbonática: carvões, betume e rochas relacionadas
-1634;Evaporitos
-1635;Evaporitos: anidrita, gipsita
-1636;Evaporitos: halita
-1637;Rocha não-consolidada
-1638;Resíduo intemperizado
-1639;Resíduo intemperizado: bauxita, laterita
-1640;Rocha não-consolidada: fluvial
-1641;Rocha fluvial não-consolidada: areia e cascalho
-1642;Rocha fluvial não-consolidada: argila, silte e greda
-1643;Rocha não-consolidada: lacustre
-1644;Rocha lacustre não-consolidada: areia
-1645;Rocha lacustre não-consolidada: silte e argila
-1646;Rocha não-consolidada: marinha
-1647;Rocha marinha não-consolidada: areia
-1648;Rocha marinha não-consolidada: argila e silte
-1649;Rocha não-consolidada: coluvial
-1650;Rocha coluvial não-consolidada: depósitos de encosta
-1651;Rocha coluvial não-consolidada: lahar
-1652;Rocha não-consolidada: eólica
-1653;Rocha não-consolidada: rocha eólica: loess
-1654;Rocha não-consolidada: rocha eólica: areia
-1655;Rocha não-consolidada: glacial
-1656;Rocha glacial não-consolidada: morena/moraina
-1657;Rocha glacial não-consolidada: areias glacio-fluviais
-1658;Rocha criogênica não-consolidada
-1659;Rocha criogênica não-consolidada: detritos rochosos periglaciais
-1660;Rocha criogênica não-consolidada: camada de solifluxão periglacial
-1661;Rocha não-consolidada: piroclástico
-1662;Rocha não-consolidada: orgânico
-1663;Rocha orgânica não-consolidada: turfeira alimentada pela água da chuva
-1664;Rocha orgânica não-consolidada: turfeira alimentada por águas subterrâneas
-1665;Rocha antropogênica/tecnogênica não-consolidada
-1666;Rocha antropogênica/tecnogênica não-consolidada: material natural redepositado
-1667;Rocha antropogênica/tecnogênica não-consolidada: depósitos industriais/artesanais
-1668;Depósitos não-consolidados e não-especificados
-1669;Depósitos não-consolidados e não-especificados: argila
-1670;Depósitos não-consolidados e não-especificados: greda e silte
-1671;Depósitos não-consolidados e não-especificados: areia
-1672;Depósitos não-consolidados e não-especificados: areia cascalhenta
-1673;Depósitos não-consolidados e não-especificados: cascalho, rocha fragmentada
-1674;Derivados de medições com GPS
-1675;Convertido a partir de dados GMS, disponível até segundos
-1676;Convertido a partir de dados GMS, disponível apenas até minutos
-1677;Convertido a partir de outras fontes (descrição, localização, etc.)
-1678;Arenito
-1680;Arenito arcósico
-1681;Grauvaque
-1682;Arenito calcário
-1683;Rocha ígnea/metamórfica ácida
-1684;Andesito
-1685;Rocha sedimentar inter-estratificada
-1686;Calcário/arenito/argilito (shale)
-1687;Calcário/arenito
-1688;Calcário/argilito (shale)
-1689;Calcário/siltito
-1690;Arenito/argilito (shale)
-1691;Arenito/siltito
-1692;Argilito (shale)/siltito
-1693;Rocha ígnea/metamórfica básica
-1694;Basalto
-1695;Conglomerado
-1696;Conglomerado, não-calcário
-1697;Conglomerado, calcário
-1698;Conglomerado
-1699;Diorito
-1700;Dolomito
-1701;Rochas piroclásticas não-consolidadas
-1702;Cinzas ejetadas
-1703;Cinzas ácidas
-1704;Cinzas básicas
-1705;Lapili
-1706;Lapili ácido
-1707;Lapili básico
-1708;Bombas vulcânicas
-1709;Evaporitos
-1710;Gabbro
-1711;Granito/gnaisse
-1712;Gnaisse
-1713;Granito
-1714;Gipsita
-1715;Argilito (shale)
-1716;Argilito (shale) não-calcário
-1717;Argilito (shale) calcário
-1718;Rocha ígnea
-1719;Rocha ígnea de granulação grossa
-1720;Rocha ígnea básica de granulação grossa
-1721;Rocha ígnea intermediária de granulação grossa 
-1722;Rocha ígnea ácida de granulação grossa
-1723;Rocha ígnea de granulação fina
-1724;Rocha ígnea básica de granulação fina
-1725;Rocha ígnea intermediária de granulação fina
-1726;Rocha ígnea ácida de granulação fina
-1727;Rocha ígnea ultrabásica de granulação fina
-1728;Material orgânico
-1729;Material musgoso
-1730;Material herbáceo
-1731;Material lenhoso
-1732;Fragmentos de madeira, pequeno
-1733;Fragmentos de madeira, grande
-1734;Carvão
-1735;Calcário
-1736;Cré
-1737;Mármore
-1738;Calcário dolomítico
-1739;Calcário fosfatada
-1740;Calcário arenoso
-1741;Calcário argiloso
-1742;Calcário chertificado (com sílex)
-1743;Calcário
-1744;Rocha metamórfica
-1745;Gnaisse
-1746;Gnaisse ácido
-1747;Gnaisse básico
-1748;Serpentinito
-1749;Xisto
-1750;Xisto ácido
-1751;Xisto básico
-1752;Ardósia
-1753;Quartzito
-1755;Não conhecido
-1756;Piroclástica, consolidada
-1757;Tufo
-1758;Tufo ácido
-1759;Tufo básico
-1760;Brecha vulcânica
-1761;Brecha vulcânica ácida
-1762;Brecha vulcânica básica
-1763;Tufo-brecha
-1764;Escória/cinzas
-1765;Pomes
-1766;Rocha piroclástica
-1767;Arenito quartzítico
-1768;Quartzito
-1769;Rocha sedimentar
-1770;Marga
-1771;Glauconita
-1772;Arenito
-1773;Xisto
-1774;Rocha sedimentar
-1775;Argilito (shale)
-1776;Siltito
-1777;Siltito
-1778;Siltito não-calcário
-1779;Siltito calcário
-1780;Travertino
-1781;Tufo
-1782;Argilito
-1783;Argilito não-calcário
-1784;Argilito calcário
-1785;Rocha ultrabásica
-1786;Rocha vulcânica
-1787;Material altamente intemperizado
-1788;Materiais lateritico
-1789;Materiais bauxítico
-1790;Não-calcário ou ácido
-1791;Calcário
-1792;Litologia mista
-1793;Ígnea/metamórfica/sedimentar
-1794;Ígnea e metamórfica
-1795;Ígnea e sedimentar
-1796;Metamórfica/sedimentar
-1797;Litologia e composição mista
-1798;Aluvião
-1799;Eólico misto/indiferenciado
-1800;Loess eólico
-1801;Areia eólica
-1802;Cinzas ejetadas
-1803;Sedimentos lacustre
-1804;Sedimentos estuarinos
-1805;Sedimentos marinhos
-1806;Colúvio
-1807;'Slope wash'
-1808;Sedimentos flúvio-glaciais
-1809;Materiais empurrados por geleiras
-1810;Acumulação glácio-fluvial
-1811;'Till' glacial
-1812;'Drift' glacial
-1813;Sedimentos orgânicos
-1814;Material residual
-1815;Não-consolidado, não-especificado
-1816;Rocha sólida
-1817;Artificial
-1818;Arenosa
-1819;Argilo-arenosa
-1820;Siltosa
-1821;Franca
-1822;Argilosa
-1823;Cascalhenta
-1824;Pedregosa
-1825;Mista
-2115;Micro
-1826;Orgânica
-1827;Ligeira
-1828;Parcial/moderada
-1829;Alta
-1830;Muito alta
-1831;Alta
-1832;Moderada
-1833;Baixa
-1834;Sul
-1835;Sul-sudeste
-1836;Sudeste
-1837;Leste-sudeste
-1838;Leste
-1839;Leste-nordeste
-1840;Nordeste
-1841;Norte-nordeste
-1842;Norte
-1843;Norte-noroeste
-1844;Noroeste
-1845;Oeste-noroeste
-1846;Oeste
-1847;Oeste-sudoeste
-1848;Sudoeste
-1849;Sul-sudoeste
-1850;Convexo
-1851;Côncavo
-1852;Retilíneo
-1853;Complexo
-1854;Ondulante
-1855;Crista/topo/cume
-1856;Terço superior
-1857;Terço médio
-1858;Terço inferior
-1859;Relevo não especificado
-1860;Plano
-1861;Depressão aberta
-1862;Depressão (fechada)
-1863;Nenhum
-1864;Diariamente
-1865;Mensalmente
-1866;Anualmente
-1867;Irregular
-1868;Alagado
-1869;Muito lento
-1870;Lento
-1871;Médio
-1872;Rápido
-1873;Muito rápido
-1874;Salina
-1875;Parada ou estagnada
-1876;Laminar
-1877;Sulcos
-1878;Voçorocas/ravinas
-1879;Vento
-1880;Nenhum
-1881;Ligeira
-1882;Moderada
-1883;Severa
-1884;Ausente
-1885;Pouco rochoso
-1886;Relativamente rochoso
-1887;Rochoso
-1888;Extremamente rochoso
-1889;Muito rochoso
-1890;Afloramento
-1891;Ausente
-1892;Muito pouco pedregoso
-1893;Relativamente pedregoso
-1894;Pedregoso
-1895;Muito pedregoso
-1896;Extremamente pedregoso
-1897;Área de escombros
-1898;(Sub)arredondado
-1899;Blocos angulares
-1900;Irregular angular
-1901;Laminar, plana
-1902;Preto-avermelhado
-1903;Vermelho muito escuro-acinzentado
-1904;Cinza-escuro avermelhado
-1905;Vermelho-escuro-acinzentado
-1906;Vermelho-escuro-acinzentado
-1907;Vermelho-escuro-acinzentado
-1908;Vermelho-escuro
-1909;Bruno-avermelhado
-1910;Bruno-avermelhado
-1911;Vermelho-amarelado
-1912;Vermelho-amarelado
-1913;Cinza (claro)
-1914;Cinza-rosado
-1915;Bruno-avermelhado-claro
-1916;Bruno-avermelhado-claro
-1917;Amarelo avermelhado
-1918;Amarelo avermelhado
-1919;Cinza-claro
-1920;Cinza-rosado
-1921;Rosa
-1922;Rosa
-1923;Amarelo-avermelhado
-1924;Amarelo-avermelhado
-1925;Branco
-1926;Branco rosado
-1927;Rosa
-1928;Rosa
-1929;- em branco -
-1930;- em branco -
-1931;- em branco -
-1932;- em branco -
-1933;- em branco -
-1934;- em branco -
-1935;- em branco -
-1936;- em branco -
-1937;- em branco -
-1938;- em branco -
-1939;- em branco -
-1940;- em branco -
-1941;- em branco -
-1942;- em branco -
-1943;- em branco -
-1944;- em branco -
-1945;- em branco -
-1946;- em branco -
-1947;- em branco -
-1948;- em branco -
-1949;- em branco -
-1950;- em branco -
-1951;- em branco -
-1952;- em branco -
-1953;- em branco -
-1954;- em branco -
-1955;- ​​em branco -
-1956;Preto
-1957;Vermelho muito escuro-acinzentado
-1958;Vermelho muito escuro-acinzentado
-1959;Cinza muito escuro
-1960;Vermelho-escuro-acinzentado
-1961;Vermelho-escuro-acinzentado
-1962;Vermelho-escuro
-1963;Vermelho-escuro
-1964;Cinza-escuro
-1965;Vermelho-acinzentado
-1966;Vermelho-acinzentado
-1967;Vermelho
-1968;Vermelho
-1969;Cinza
-1970;Vermelho-acinzentado
-1971;Vermelho-acinzentado
-1972;Vermelho
-1973;Vermelho
-1974;Cinza
-1975;Vermelho-claro-acinzentado
-1976;Vermelho-claro-acinzentado
-1977;Vermelho-claro
-1978;Vermelho-claro
-1979;- em branco -
-1980;- em branco -
-1981;Preto-oliváceo
-1982;- em branco -
-1983;Oliva-acinzentado
-1984;- em branco -
-1985;Oliva-acinzentado
-1986;- em branco -
-1987;- em branco -
-1988;Oliva-acinzentado
-1989;- em branco -
-1990;- em branco -
-1991;- em branco -
-1992;- em branco -
-1993;Cinza-claro
-1994;- em branco -
-1995;- em branco -
-1996;- em branco -
-1997;- em branco -
-1998;- em branco -
-1999;Cinza-claro
-2000;- em branco -
-2001;- em branco -
-2002;- em branco -
-2003;Preto
-2004;Bruno muito escuro
-2005;Bruno muito escuro
-2006;Cinza muito escuro
-2007;Bruno-escuro
-2008;Bruno-escuro
-2009;Cinza-escuro
-2010;Bruno (escuro)
-2011;Bruno (escuro)
-2012;Bruno-forte
-2013;Cinza
-2014;Bruno
-2015;Bruno
-2016;Bruno-forte
-2017;Bruno-forte
-2018;Cinza (claro)
-2019;Cinza-rosado
-2020;Bruno-claro
-2021;Amarelo-avermelhado
-2022;Amarelo-avermelhado
-2023;Cinza-claro
-2024;Cinza-rosado
-2025;Rosa
-2026;Amarelo-avermelhado
-2027;Amarelo-avermelhado
-2028;Branco
-2029;Branco-rosado
-2030;Rosa
-2031;Amarelo-avermelhado
-2032;Preto
-2033;Preto
-2034;Cinza muito escuro
-2035;Cinza-escuro
-2036;Cinza
-2037;Cinza (claro)
-2038;Cinza-claro
-2039;Branco
-2040;Muito fina (0,1-1 mm)
-2041;Fina (1-2 mm)
-2042;Fina (< 5 mm)
-2043;Fina a média (< 15 mm)
-2044;Média (5-15 mm)
-2045;Média a grossa (> 5 mm)
-2046;Grossa (> 15 mm)
-2047;Heterogêneo
-2071;Muito fina
-2072;Muito fina e fina
-2073;Fina
-2074;Fina e média
-2075;Média
-2076;Média e grossa
-2077;Grossa
-2078;Grossa e muito grossa
-2079;Muito grossa
-2080;Sem estrutura
-2081;Sem estrutura e fracamente coerente
-2082;Sem estrutura e moderadamente coerente
-2083;Sem estrutura e fortemente coerente
-2084;Ausente
-2085;Pouco (1-50 por decímetro quadrado)
-2086;Pouco a comum (1-200 por decímetro quadrado)
-2087;Comum (50-200 por decímetro quadrado)
-2088;Comum a abundante (> 50 por decímetro quadrado)
-2089;Abundante (> 200 por decímetro quadrado)
-2090;Micro (< 0,1 mm)
-2091;Médio (2-5 mm)
-2092;Grande (5-10 mm)
-2093;Muito grande (> 10 mm)
-2094;Grande (5-10 mm) e muito grande (> 10 mm)
-2095;Médio (2-5 mm) e grande (5-10 mm)
-2096;Pequeno (1-2 mm) a grande (5-10 mm)
-2097;Micro (< 0,1 mm) a muito grande (> 10 mm)
-2098;Muito pequeno (0,1-1 mm) e pequeno (1-2 mm)
-2099;Pequeno (1-2 mm) e médio (1-5 mm)
-2100;Micro (< 0,1 mm) a pequeno (1-2 mm)
-2101;Micro (< 0,1 mm) a grande (5-10 mm)
-2102;Micro (< 0,1 mm) e muito pequeno (0,1-1 mm)
-2103;Micro (< 0,1 mm) a médio (2-5 mm)
-2104;Muito pequeno (0,1-1 mm) a médio (1-5 mm)
-2105;Muito pequeno (0,1-1 mm) a grande (5-10 mm)
-2106;Contínuo
-2107;Vesicular
-2108;Descontínuo
-2109;Intersticial
-2110;Tubular
-2111;Ausente
-2112;Poucas
-2113;Comuns
-2114;Muitas
-2116;Muito fina (diâmetro < 1 mm)
-2117;Muito fina (diâmetro < 1 mm) e fina (1-2 mm de diâmetro)
-2118;Fina (1-2 mm de diâmetro)
-2119;Fina (1-2 mm de diâmetro) e média (2-5 mm de diâmetro)
-2120;Média (2-5 mm de diâmetro)
-2121;Média (2-5 mm de diâmetro) e grossa (diâmetro > 5 mm)
-2122;Grossa (diâmetro > 5 mm)
-2123;"Todas: desde muito fina (diâmetro < 1 mm) a grossa (diâmetro > 5 mm)"
-2124;Moderada
-2125;Sem estrutura
-2126;Forte
-2127;Fraca
-2128;Blocos angulares
-2129;Em grumos
-2130;Colunar
-2131;Granular
-2132;Maciça
-2133;Grão simples
-2134;Laminar
-2135;Prismática
-2136;Blocos sub-angulares
-2137;Cuneiforme
-2138;Rocha ígnea
-2139;Rocha ígnea ácida
-2140;Rocha ígnea ácida: granito
-2141;Rocha ígnea ácida: quartzo-diorito/grano-diorito
-2142;Rocha ígnea ácida: sienito
-2143;Rocha ígnea ácida: riolito, dacito
-2144;Rocha ígnea intermediária
-2145;Rocha ígnea intermediária: andesito, traquito, fonólito
-2146;Rocha ígnea intermediária: diorito, diorito-sienito
-2147;Rocha ígnea básica
-2148;Rocha ígnea básica: gabro
-2149;Rocha ígnea básica: basalto
-2150;Rocha ígnea básica: dolerito/diabásio
-2151;Rocha ígnea ultrabásica
-2152;Rocha ígnea ultrabásica: peridotito
-2153;Rocha ígnea ultrabásica: piroxenito
-2154;Rocha ígnea ultrabásica: ilmenita, magnetita, ironstone
-2155;Rocha ígnea piroclástica
-2156;Rocha ígnea piroclástica: tufo, tufito
-2157;Rocha ígnea piroclástica: escória vulcânica/brecha
-2158;Rocha ígnea piroclástica: cinza vulcânica
-2159;Rocha ígnea piroclástica: ignimbrito
-2160;Rocha metamórfica
-2161;Rocha metamórfica ácida
-2162;Rocha metamórfica ácida: quartzito
-2163;Rocha metamórfica ácida: gnaisse, migmatito, granulito
-2164;Rocha metamórfica ácida: ardósia, filito
-2165;Rocha metamórfica ácida: xisto
-2166;Rocha metamórfica básica
-2167;Rocha metamórfica básica: ardósia, filito
-2168;Rocha metamórfica básica: xisto (verde)
-2169;Rocha metamórfica básica: gnaisse rico em minerais ferro-magnesianos
-2170;Rocha metamórfica básica: calcário metamórfico (mármore)
-2171;Rocha metamórfica básica: anfibólito
-2172;Rocha metamórfica básica: eclogito
-2173;Rocha metamórfica ultrabásica
-2174;Rocha metamórfica ultrabásica: serpentina, greenstone
-2175;Rocha sedimentar
-2176;Sedimentos clásticos
-2177;Sedimentos clásticos: conglomerados, brechas
-2178;Sedimentos clásticos: arenito, grauvaques, arcósio, arenito (arenite)
-2179;Sedimentos clásticos: siltito, argilito (mudstone), argilito
-2180;Sedimentos clásticos: argilito (shale)
-2181;Sedimentos clásticos: ironstone
-2182;Orgânica (rocha sedimentar)
-2183;Orgânica (rocha sedimentar): calcário, outras rochas carbonáticas
-2184;Orgânica (rocha sedimentar): marga e outras misturas
-2185;Orgânica (rocha sedimentar): carvões, betume e rochas relacionadas
-2186;Evaporitos
-2187;Evaporitos: anidrita, gipsita
-2188;Evaporitos: halita
-2189;Rocha sedimentar (não-consolidada)
-2190;Resíduo intemperizado
-2191;Resíduo intemperizado: bauxita, laterita
-2192;Rocha sedimentar (não-consolidada): fluvial
-2193;Rocha sedimentar (não-consolidada): fluvial - areia e cascalho
-2194;Rocha sedimentar (não-consolidada): fluvial - argila, silte e greda
-2195;Rocha lacustre não-consolidada
-2196;Rocha lacustre não-consolidada - areia
-2197;Rocha lacustre não-consolidada - silte e argila
-2198;Rocha marinha e estuarina não-consolidada
-2199;Rocha marinha e estuarina não-consolidada - areia
-2200;Rocha marinha e estuarina não-consolidada - argila e silte
-2201;Rochas coluviais não-consolidadas
-2202;Rochas coluviais não-consolidadas - depósitos de encosta
-2203;Rochas coluviais não-consolidadas - lahar
-2204;Rocha eólica não-consolidada
-2205;Rocha eólica não-consolidada - loess
-2206;Rocha eólica não-consolidada - areias
-2207;Rocha glacial não-consolidada
-2208;Rochas glacial não-consolidadas - depósitos de morena/moraina
-2209;Rocha glacial não-consolidada - areias glaciofluviais
-2210;Rocha glacial não-consolidada - cascalho glaciofluvial
-2211;Rocha criogênica não-consolidada
-2212;Rocha criogênica não-consolidada - detritos rochosos periglaciais
-2213;Rocha criogênica não-consolidada - materiais periglaciais de solifluxão de rocha
-2214;Rocha orgânica não-consolidada
-2215;Rocha orgânica não-consolidada - turfeira alimentada pela água da chuva
-2216;Rocha orgânica não-consolidada - turfeira alimentada por água subterrânea
-2217;Rocha sedimentar antropogênica
-2218;Rocha sedimentar antropogênica - materiais naturais redepositados
-2219;Rocha sedimentar antropogênica - depósitos industriais/artesanais
-2220;Rocha sedimentar (não-consolidada) - não especificado
-2221;Rocha sedimentar (não-consolidada) - sedimentos não especificados
-2222;Hipergélico
-2223;Subgélico
-2224;Clima temperado frio - verão seco, quente
-2243;Grumos, aglomerados e torrões
-2244;Granular
-2225;Clima temperado ameno e chuvoso - inverno seco
-2226;Rocha não-consolidada: laterita endurecida e materiais ferruginosos
-2227;Rocha não-consolidada: laterita macia e materiais ferruginosos
-2228;Clima temperado ameno e chuvoso - sem estação seca distinta
-2229;Clima temperado ameno e chuvoso - verão seco
-2230;Clima temperado frio - invernos úmidos
-2231;Clima temperado frio - verão seco
-2232;Fraca
-2233;Moderada
-2234;Forte
-2235;Fraca a moderada
-2236;Moderada a forte
-2237;Areia, indiferenciada
-760;Grande (> 20mm)
-2240;Várzea (plano) em terreno ondulado a montanhoso
-2241;Grossa (> 20mm)
-2242;Blocos
-2245;Laminar
-2246;Prismática
-2247;Estrutura da rocha
-941;Pisolítico
-2252;Franco-argilo-arenosa
-2253;Franco-siltosa
-2254;Franco-argilo-siItosa
-2255;Franco-argilosa
-2256;Franca
-2257;Silte
-2258;Argilo-arenosa
-2259;Argilossiltosa
-2260;Argila
+DomainValueId	Description
+1	Plano
+2	Em nível
+3	Quase em nível
+4	Muito suavemente ondulado
+5	Suavemente ondulado
+6	Ondulado
+7	Fortemente ondulado
+8	Moderadamente íngreme
+9	Íngreme
+10	Muito íngreme
+11	Cevada
+12	Milho
+13	Milheto
+14	Arroz (inundado)
+15	Arroz (sequeiro)
+16	Sorgo
+17	Trigo
+18	Coco
+19	Amendoim
+20	Palmeiras oleaginosas
+21	Soja
+22	Girassol
+23	Mandioca
+24	Batata
+25	Inhames
+26	Algodão
+27	Legumes
+28	Feijão
+29	Ervilha
+30	Cacau
+31	Café
+32	Chá
+33	Tabaco
+34	Cana-de-açúcar
+35	Seringueira
+36	Montanha
+37	Morro/colina/coxilha
+38	Planalto
+39	Planície
+40	Platô
+41	Bacia
+42	Vale
+43	Planície aluvial
+44	Planície costeira
+45	Planície lacustre
+46	Planície glacial
+47	Peneplano
+48	Pedimento
+49	Vulcão
+50	Campo de dunas
+51	Delta
+52	Planície de maré
+53	Playa
+54	Interflúvio
+55	Vale
+56	Fundo de vale
+57	Canal
+58	Dique
+59	Terraço
+60	Várzea
+61	Laguna
+62	Tanque/Piscina ('Pan')
+63	Recife de corais
+64	Caldeira
+65	Depressão
+66	Duna
+67	Duna longitudinal
+68	Depressão interdunal
+69	Encosta
+70	Crista/cume
+71	Crista de praia
+72	Caju
+73	Feijão-caupi
+74	Árvores frutíferas
+75	Arroz
+76	Batata doce
+77	Depósitos eólicos (não especificado)
+78	Areia eólica
+79	Depósitos litorais
+80	Depósitos de laguna
+81	Depósitos marinhos
+82	Depósitos lacustres
+83	Depósitos fluviais
+84	Depósitos aluviais
+85	Cinzas vulcânicas
+86	Loess
+87	Depósitos piroclásticos
+88	Depósitos glaciais
+89	Depósitos orgânicos
+90	Depósitos coluviais
+91	Intemperizado in situ
+92	Saprólito
+93	Não-consolidado (não especificado)
+94	Antráquica
+95	Duripã
+96	Fragipã
+97	Gelúndica
+98	Gilgai
+99	Inúndica
+100	Lítica
+101	Petroférrica
+102	Freática
+103	Plácica
+104	Rúdica
+105	Sálica
+106	Esquelética
+107	Sódica
+108	Taquírica
+109	Yérmica
+110	Plana (0-0,5%)
+111	Quase plana (0,5-2%)
+112	Suave ondulada (2-5%)
+113	Ondulante (5-10%)
+114	Ondulada (10-15%)
+115	Acidentada (15-30%)
+116	Íngreme dissecada (> 30%, moderada amplitude de elevação)
+117	Montanhosa (> 30%, grande amplitude de elevação (> 300 m))
+118	Sem micro-relevo - a superfície é (quase) plana
+119	Gilgai (não especificado)
+120	Gilgai baixo - diferença de altura (dentro de 10 m) < 20 cm
+121	Gilgai médio - diferença de altura (dentro de 10 m) 20-40 cm
+122	Gilgai alto - diferença de altura (dentro de 10 m) > 40 cm
+123	Cupinzeiros ou montes de formigas
+124	Trilhas de animais
+125	Tocas de animais
+126	'Hummocks' (não especificado)
+127	'Hummocks' baixos - diferença de altura < 20 cm
+128	'Hummocks' médios - diferença de altura de 20-40 cm
+129	'Hummocks' altos - diferença de altura > 40 cm
+130	Areias movediças
+131	Terracetes
+132	Ondulações
+133	Sem cobertura
+134	0-15%
+135	15-40%
+136	40-80%
+137	> 80%
+138	Rocha ígnea ácida/metamórfica
+139	Granito
+140	Gnaisse
+141	Granito/gnaisse
+142	Quartzito
+143	Xisto
+144	Andesito
+145	Diorito
+146	Rocha ígnea básica/metamórfica
+147	Rocha ultrabásica
+148	Gabbro
+149	Basalto
+150	Dolerito
+151	Rocha vulcânica
+152	Rocha sedimentar
+153	Calcário
+154	Dolomito
+155	Arenito
+156	Arenito quartzítico
+157	Argilito (shale)
+158	Marga
+159	Travertino
+160	Conglomerado
+161	Siltito
+162	Tufo
+163	Rocha piroclástica
+164	Evaporitos
+165	Gipsita
+166	Desconhecido
+167	Muito raso (< 30 cm)
+168	Raso (30-50 cm)
+169	Moderadamente profundo (50-100 cm)
+170	Profundo (100-150 cm)
+171	Muito profundo (> 150 cm)
+172	Excessivamente bem drenado
+173	Um tanto quanto excessivamente bem drenado
+174	Bem drenado
+175	Moderadamente bem drenado
+176	Imperfeitamente drenado
+177	Mal drenado
+178	Muito mal drenado
+179	Menos de 1 dia
+180	1-15 dias
+181	15-30 dias
+182	30-90 dias
+183	90-180 dias
+184	180-360 dias
+185	Continuamente
+186	Nenhum
+187	Diariamente
+188	Semanalmente
+189	Mensalmente
+190	Anualmente
+191	Bianualmente
+192	Uma vez a cada 2-4 anos
+193	Uma vez a cada 5-10 anos
+194	Raramente (menos de uma vez a cada 10 anos)
+195	Desconhecido
+196	Nunca saturado (bem drenado)
+197	Raramente saturado (alguns dias em alguns anos)
+198	Saturado por períodos curtos, na maioria dos anos (até 30 dias)
+199	Saturado por longos períodos todos os anos
+200	Sempre saturado (muito mal drenado)
+201	Desconhecido
+202	Extremamente lento (< 0,06 cm/h)
+203	Muito lento (0,06-0,2 cm/h)
+204	Lento (0,2-0,6 cm/h)
+205	Moderadamente lento (0,6-2,0 cm/h)
+206	Moderadamente rápido (2,0-6,0 cm/h)
+207	Rápido (6-20 cm/h)
+208	Muito rápido (> 20 cm/h)
+209	Alagado (recebendo água)
+210	Nem recebendo, nem fornecendo água
+211	Escoamento lento
+212	Escoamento moderadamente rápido
+213	Escoamento rápido
+214	Muito raso (0-25 cm)
+215	Raso (25-50 cm)
+216	Moderadamente profundo (50-100 cm)
+217	Profundo (100-150 cm)
+218	Muito profundo (>150 cm)
+219	Muito raso (0-25 cm)
+220	Raso (25-50 cm)
+221	Moderadamente profundo (50-100 cm)
+222	Profundo (100-150 cm)
+223	Muito profundo (>150 cm)
+224	Não observado
+225	Água freática rasa (2-3 m)
+226	Água freática moderadamente profunda (3-5 m)
+227	Água freática profunda (5-8 m)
+228	Água freática extremamente profunda (> 8 m)
+229	Desconhecido
+230	Salina
+231	Salobra
+232	Fresca
+233	Poluída
+234	Oxigenada
+235	Estagnada
+236	Seco
+237	Ligeiramente úmido
+238	Úmido
+239	Molhado
+240	Muito fina
+241	Cultivo de árvores e arbustos
+242	Fina
+243	Média
+244	Grossa
+245	Muito grossa
+246	Fina e muito fina
+247	Fina e média
+248	Fina a grossa
+249	Média e grossa
+250	Média a muito grossa
+251	Grossa e muito grossa
+252	Argila
+253	Argila e sesquióxidos
+254	Argila e húmus (matéria orgânica)
+255	Faces de pressão
+256	Superfícies de fricção, sem intersecção
+257	Superfícies de fricção, parcialmente intersectadas
+258	Superfícies de fricção, predominantemente intersectadas
+259	Faces brilhantes (como em propriedades níticas)
+260	Nenhuma evidência de erosão
+261	Erosão ou deposição eólica
+262	Erosão ou depósito eólica
+263	Movimento de massa (deslizamentos de terra e fenômenos similares)
+264	Desconhecido
+265	Erosão laminar
+266	Erosão em sulcos
+267	Voçorocas/ravinas
+268	Erosão em túnel
+269	Deposição hídrica
+270	Erosão hídrica e eólica
+271	Deposição eólica
+272	Erosão e deposição eólica
+273	Areias movediças
+274	Deposição de sal
+275	Areia muito fina
+276	Areia fina
+277	Areia grossa
+278	Areia média
+279	Areia indiferenciada
+280	Ensolarado/claro
+281	Parcialmente nublado
+282	Nublado
+283	Chuva
+284	Granizo
+285	Neve
+286	Sem chuva no último mês
+287	Sem chuva na última semana
+288	Sem chuva nas últimas 24 horas
+289	Chuvoso, mas sem chuva forte nas últimas 24 horas
+290	Chuva forte por alguns dias ou tempestades nas últimas 24 horas
+291	Tempo extremamente chuvoso ou derretimento de neve
+292	Pergélico
+293	Cryico
+294	Frígido
+295	Isofrígido
+296	Melões
+297	Mésico
+298	Isomésico
+299	Térmico
+300	Isotérmico
+301	Hipertérmico
+302	Isohipertérmico
+303	Áquico
+304	Peráquico
+305	Údico
+306	Perúdico
+307	Ústico
+308	Xérico
+309	Arídico
+310	Tórrico
+311	Descrição de referência do perfil
+312	Descrição de referência do perfil 
+313	Descrição de rotina do perfil
+314	Descrição de rotina do perfil
+315	Não utilizada e não manejada
+316	Cereais
+317	Cevada
+318	Brunada
+319	Descrição incompleta
+320	Descrição incompleta
+321	Descrição do solo por tradagem
+322	Descrição do solo por tradagem
+323	Outras descrições
+324	Agricultura (cultivos agrícolas)
+325	Campo de cultivo anual
+326	Agricultura itinerante/migratória
+327	Sistema de cultivo com pousio
+328	Agricultura alternada com pecuária
+329	Cultivo de sequeiro arável
+330	Cultivo de arroz inundado
+331	Cultivo irrigado
+332	Campo de cultivo perene
+333	Cultivo não-irrigado
+334	Cultivo irrigado
+335	Cultivo arbóreo não-irrigado
+336	Cultivo arbóreo irrigado
+337	Cultivo arbustivo não-irrigado
+338	Cultivo arbustivo irrigado
+339	Cultivo de sequeiro arável tradicional
+340	Cultivo de sequeiro arável tradicional melhorado
+341	Cultivo de sequeiro arável tradicional mecanizado
+342	Cultivo de sequeiro arável comercial
+343	Cultivo de sequeiro arável não especificado
+344	Agricultura mista
+345	Agroflorestal
+346	Agropastoralismo
+347	Pecuária
+348	Pastoreio extensivo
+349	Nomadismo
+350	Semi-nomadismo
+351	Pecuária extensiva ('ranching')
+352	Pastoreio intensivo
+353	Gado de corte
+354	Gado de leite
+355	Silvicultura
+356	Floresta natural e florestamento
+357	Corte seletivo
+358	Corte raso
+359	Plantação florestal
+360	Proteção da natureza
+361	Preservação da natureza e recreação
+362	Reservas
+363	Parques
+364	Gestão da vida selvagem
+365	Controle da degradação
+366	Sem interferência
+367	Com interferência
+368	Área residencial, indústria
+369	Uso residencial
+370	Uso industrial
+371	Transporte
+372	Uso recreativo
+373	Escavações
+374	Locais de disposição
+375	Área militar
+376	Outras utilizações das terras
+377	Milho (cereal)
+378	Milheto
+379	Aveia
+380	Arroz, inundado
+381	Arroz, sequeiro
+382	Centeio
+383	Sorgo
+384	Trigo
+385	Culturas oleaginosas
+386	Cocos
+387	Amendoins
+388	Linhaça
+389	Oliveiras
+390	Palmeira oleaginosa
+391	Colza
+392	Sésamo/gergelim
+393	Soja
+394	Girassol
+395	Plantas forrageiras
+396	Alfafa
+397	Trevo
+398	Gramas
+399	Feno
+400	Leguminosas
+401	Milho (planta forrageira)
+402	Abóboras
+403	Raízes e tubérculos
+404	Mandioca
+405	Batatas
+406	Beterraba sacarina
+407	Inhames
+408	Frutas e melões
+409	Maçãs
+410	Bananas
+411	Citrus
+412	Uvas, vinho, passas
+413	Mangas
+414	Culturas de fibras
+415	Algodão
+416	Juta
+417	Legumes
+418	Grãos de vagens
+419	Feijões
+420	Lentilhas
+421	Ervilhas
+422	Alimentos semi-luxuosos e tabaco
+423	Cacau
+424	Café
+425	Chá
+426	Tabaco
+427	Outras culturas
+428	Cana-de-açúcar
+429	Seringueira
+430	Palmeiras (fibras, sementes)
+431	Nenhuma influência
+432	Desconhecido
+433	Vegetação ligeiramente perturbada
+434	Vegetação moderadamente perturbada
+435	Vegetação fortemente perturbada
+436	Vegetação perturbada (não especificado)
+437	Irrigação por aspersão
+438	Irrigação por sulcos
+439	Irrigação por gotejamento
+440	Irrigação por inundação
+441	Irrigação por diques
+442	Irrigação (não especificado)
+443	Drenagem artificial
+444	Aplicação de fertilizantes
+445	Aterro (inclusive sanitário)
+446	Nivelamento
+447	Arqueológico (túmulo, sambaquis)
+448	Cratera de impacto
+449	Construção de diques ('bunding')
+450	Queimada
+451	Terraceamento
+452	Aração
+453	Plaggen
+454	Arbusto anão
+455	Canteiros levantados (para fins agrícolas)
+456	Canteiros levantados (para fins de engenharia)
+457	Adições de areia
+458	Adições minerais (não especificado)
+459	Adições orgânicas (não especificado)
+460	Poluição
+461	Desbravamento ('clearing')
+462	Compactação superficial
+463	Área decapada
+464	Área de empréstimo
+465	Área de despejo (não especificado)
+466	Mina (superfície, incluindo a céu aberto, cascalho e pedreiras)
+467	Natural muito jovem (1-10 anos): com perda por erosão ou deposição de materiais como em planícies de maré, dunas costeiras, vales de rios, deslizamentos de terra ou em áreas desérticas.
+468	Antropogeomórfica muito jovem (1-10 anos): com total perturbação das superfícies naturais (e solos), como nas áreas urbanas, industriais e áreas de mineração, apresentando desenvolvimento muito recente do solo a partir de materiais naturais frescos ou tecnogênicos ou uma mistura de materiais.
+469	Natural jovem (10-100 anos): com perda por erosão ou deposição de materiais como em planícies de maré, dunas costeiras, vales de rios, deslizamentos de terra ou em áreas desérticas.
+470	Antropogeomórfica jovem (10-100 anos): com total perturbação das superfícies naturais (e solos), tais como nas zonas urbanas, industriais e áreas de mineração, apresentando desenvolvimento recente do solo a partir de materiais naturais frescos ou tecnogênicos ou uma mistura de materiais, ou de restrição de inundação por diques.
+471	Natural do Holoceno (100-10.000 anos): com perda por erosão ou deposição de materiais como em planícies de maré, dunas costeiras, vales de rios, deslizamentos de terra ou em áreas desérticas.
+472	Antropogeomórfica do Holoceno (100-10.000 anos): as modificações feitas pelo homem no relevo, como terraceamento dos morros ou encostas por civilizações antigas ou durante a Idade Média, ou mais cedo, restrição de inundações por diques, ou a elevação da superfície.
+473	Pleistoceno superior, coberta com gelo, comumente com formação recente do solo sobre materiais frescos.
+474	Pleistoceno superior, periglacial, comumente com formação recente do solo sobre materiais pré-intemperizados.
+475	Pleistoceno superior, sem influência periglacial.
+476	Pleistoceno médio e inferior, coberta de gelo, comumente com formação recente do solo sobre material pré-intemperizado mais jovem sobre outro mais velho.
+477	Pleistoceno médio e inferior, com influência periglacial, comumente com formação recente do solo sobre material pré-intemperizado mais jovem sobre outro mais velho.
+478	Pleistoceno médio e inferior, sem influência periglacial.
+479	Profunda (10-20 cm)
+480	Superfícies do Terciário, comumente planos elevados, terraços ou peneplanícies, exceto vales incisos, ocorrência frequente de paleossolos.
+481	Mais antigas, superfícies anteriores ao Terciário, comumente planos elevados, terraços ou peneplanícies, exceto vales incisos, ocorrência frequente de paleossolos.
+482	Retilíneo
+483	Côncavo
+484	Convexo
+485	Terraceado
+486	Complexo (irregular)
+487	Nenhum (0%)
+488	Muito pouco (0-2%)
+489	Pouco (2-5%)
+490	Comum (5-15%)
+491	Muito (15-40%)
+492	Abundante (40-80%)
+493	Dominante (>80%)
+494	> 50 m
+495	20-50 m
+496	5-20 m
+497	2-5 m
+498	< 2 m
+499	Cascalho fino (0,2-0,6 cm)
+500	Cascalho médio (0,6-2,0 cm)
+501	Cascalho grosso (2-6 cm)
+502	Calhaus (6-20 cm)
+503	Matacão (20-60 cm)
+504	Matacão grande (60-200 cm)
+505	Nenhuma evidência de erosão
+506	Erosão ou deposição hídrica
+507	Erosão laminar
+508	Erosão em sulcos
+509	Voçorocas/ravinas
+510	Erosão em túnel
+511	Deposição hídrica
+512	Erosão eólica e hídrica
+513	Movimento de massa (deslizamentos de terra e fenômenos similares)
+514	Desconhecido
+515	Erosão ou deposição eólica
+516	Deposição eólica
+517	Erosão e deposição eólica
+518	Areias movediças
+519	Deposição de sal
+520	0%
+521	0-5%
+522	5-10%
+523	10-25%
+524	25-50%
+525	> 50%
+526	Ligeira
+527	Moderada
+528	Severa
+529	Extrema
+530	Ativo no presente
+531	Ativa no passado recente (últimos 50-100 anos)
+532	Ativa em tempos históricos
+533	Período de atividade desconhecido
+534	Erosão natural e acelerada não distinta
+535	Nenhum
+536	Fina (< 2 mm)
+537	Média (2-5 mm)
+538	Espessa (5-20 mm)
+539	Muito espessa (> 20 mm)
+540	Ligeiramente dura
+541	Dura
+542	Muito dura
+543	Extremamente dura
+544	Fina (< 1 cm)
+545	Média (1-2 cm)
+546	Larga (2-5 mm)
+547	Muito larga (5-10 cm)
+548	Extremamente larga (> 10 cm)
+549	Muito próximas (< 0,2 m)
+550	Próximas (0,2-0,5 m)
+551	Moderadamente espaçadas (0,5-2,0 m)
+552	Bastante espaçados (2-5 m)
+553	Muito espaçadas (> 5 m)
+554	Superficial (< 2 cm)
+555	Média (2-10 cm)
+556	Muito profunda (>20 cm)
+557	Nenhuma (0-2%)
+558	Baixa (2-15%)
+559	Moderada (15-40%)
+560	Alta (40-80%)
+561	Dominante (> 80%)
+562	Sem vegetação
+563	Pradaria (gramíneas, dicotiledôneas secundárias, sem espécies lenhosas)
+564	'Forbland' (predomínio de plantas herbáceas)
+565	Savana (gramíneas com uma camada descontínua de árvores ou arbustos)
+566	Floresta fechada (estrato arbóreo contínuo, copas sobrepostas, grande número de espécies arbóreas e em camadas distintas)
+567	Floresta latifoliada perenifólia
+568	Floresta de coníferas
+569	Floresta semidecidual
+570	Floresta decidual
+571	Floresta xeromórfica
+572	Floresta aberta (estrato arbóreo contínuo, copas não costumam tocar, sub-bosque pode estar presente)
+573	Floresta aberta perenifólia
+574	Floresta aberta semidecidual
+575	Floresta aberta decidual
+576	Floresta aberta xeromórfica
+577	Arbusto
+578	Arbusto perenifólio
+579	Arbusto semidecidual
+580	Arbusto decidual
+581	Arbusto xeromórfico
+582	Arbusto anão perenifólio
+583	Arbusto anão semidecidual
+584	Arbusto anão decidual
+585	Arbusto anão xeromórfico
+586	Tundra
+587	Herbáceo
+588	Pradaria alta
+589	Pradaria média
+590	Pradaria baixa
+591	Dicotiledôneas
+592	Turfeira alimentada por água da chuva
+593	Turfeira alimentada por águas subterrâneas
+594	Topo/cume, em terreno ondulado a montanhoso
+595	Terço superior, em terreno ondulado a montanhoso
+596	Terço médio, em terreno ondulado a montanhoso
+597	Terço inferior, em terreno ondulado a montanhoso
+598	Sopé, em terreno ondulado a montanhoso
+600	Parte mais alta, em terreno plano ou quase plano
+601	Parte intermediária, em terreno plano ou quase plano
+602	Parte inferior, em terreno plano ou quase plano
+603	Várzea (linha de drenagem), em terreno plano ou quase plano
+604	Terrenos planos
+605	Planície
+606	Planalto
+607	Depressão
+608	Fundo de vale
+609	Terrenos ondulados
+610	Zona escarpada com médio gradiente
+611	Colina com médio gradiente
+612	Montanha com médio gradiente
+613	Planície dissecada
+614	Vale com médio gradiente
+615	Terreno íngremes
+616	Zona escarpada com grande gradiente
+617	Colina com grande gradiente
+618	Montanha com grande gradiente
+619	Vale com grande gradiente
+620	Abrupta (0-2 cm)
+621	Clara (2-5 cm)
+622	Gradual (5-15 cm)
+623	Difusa (> 15 cm)
+624	Plana: superfície quase plana
+625	Ondulada: reentrâncias mais largas do que profundas
+626	Irregular: reentrâncias mais profundas do que largas
+627	Quebrada: descontínua
+628	Areia (indiferenciada)
+629	Areia-franca
+630	Franco-arenosa
+631	Franco-argilo-arenosa
+632	Franco-siltosa
+633	Franco-argilo-siltosa
+634	Franco-argilosa
+635	Franca
+636	Silte
+637	Argilo-arenosa
+638	Argilossiltosa
+639	Argila
+640	Muito argilosa
+641	Areia muito fina
+642	Areia fina
+643	Areia média
+644	Areia grossa
+645	Areia-franca muito fina
+646	Areia-franca-fina
+647	Areia-franca-grossa
+648	Franco-arenosa-fina
+649	Franco-arenosa-grossa
+650	Nenhum (0%)
+651	Muito pouco (0-2%)
+652	Pouco (2-5%)
+653	Comum (5-15%)
+654	Muito (15-40%)
+655	Abundante (40-80%)
+656	Dominante (> 80%)
+657	Linha de pedra (qualquer conteúdo, mas concentrada a uma profundidade distinta de um horizonte)
+658	Cascalho pequeno (2-6 mm)
+659	Cascalho pequeno e médio 2-20 mm)
+660	Cascalho médio (6-20 mm)
+661	Cascalho médio e grande (6-60 mm)
+662	Cascalho grande (20-60 mm)
+663	Cascalho grande e calhaus (20-200 mm)
+664	Calhaus (60-200 mm)
+665	Calhaus e boulders (60-600 mm)
+666	Matacão (200-600 mm)
+667	Matacão e matacão grande (> 200 mm)
+668	Matacão grande (> 600 mm)
+669	Artefatos muito pequenos (< 2 mm)
+670	Artefatos muito pequenos e pequenos (< 6 mm)
+671	Artefatos pequenos (2-6 mm)
+672	Artefatos pequenos e médios (2-20 mm)
+673	Artefatos médios (6-20 mm)
+674	Artefatos médios e grandes (> 6 mm)
+675	Artefatos grandes (> 20 mm)
+676	Plano
+677	Angular
+678	Sub-arredondado
+679	Arredondado
+680	Fresco ou ligeiramente intemperizado
+681	Intemperizado
+682	Fortemente intemperizado
+683	Rocha ígnea
+684	Rocha ígnea ácida
+685	Rocha ígnea ácida: granito
+686	Rocha ígnea ácida: granodiorito
+687	Rocha ígnea ácida: quartzodiorito
+688	Rocha ígnea ácida: riolito
+689	Rocha ígnea intermediária
+690	Rocha ígnea intermediária: andesito, traquito, fonólito
+691	Rocha ígnea intermediária: diorito-sienito
+692	Rocha ígnea básica
+693	Rocha ígnea básica: gabro
+694	Rocha ígnea básica: basalto
+695	Rocha ígnea básica: dolerito
+696	Rocha ígnea ultrabásica
+697	Rocha ígnea ultrabásica: peridotito
+698	Rocha ígnea ultrabásica: piroxenito
+699	Rocha ígnea ultrabásica: ilmenita, magnetita, ironstone, serpentina
+700	Rocha metamórfica
+701	Rocha metamórfica ácida
+702	Rocha metamórfica ácida: quartzito
+703	Rocha metamórfica ácida: gnaisse, migmatito
+704	Rocha metamórfica ácida: ardósia, filito, (rochas pelíticas)
+705	Rocha metamórfica ácida: xisto
+706	Rocha metamórfica básica
+707	Rocha metamórfica básica: ardósia, filito (rochas pelíticas)
+708	Rocha metamórfica básica: xisto
+709	Rocha metamórfica básica: gnaisse rico em minerais ferro-magnesianos
+710	Rocha metamórfica básica: calcário metamórfico (mármore)
+711	Rocha sedimentar
+712	Sedimentos clásticos
+713	Sedimentos clásticos: conglomerado, brecha
+714	Sedimentos clásticos: arenito, grauvaque, arcósio
+715	Sedimentos clásticos: siltito, argilito (mudstone), argilito
+716	Sedimentos clásticos: argilito (shale)
+717	Sedimentos clásticos: ironstone
+718	Rocha sedimentar orgânica
+719	Rocha sedimentar orgânica: calcário, outras rochas carbonáticas
+720	Rocha sedimentar orgânica: marga e outras misturas
+721	Rocha sedimentar orgânica: carvões, betume e rochas relacionadas
+722	Evaporitos
+723	Evaporitos: anidrita, gipsita
+724	Evaporitos: halita
+725	Rocha não-consolidada
+726	Rocha não-consolidada: fluvial
+727	Rocha não-consolidada: lacustre
+728	Rocha não-consolidada: marinha
+729	Rocha não-consolidada: coluvionar
+730	Rocha não-consolidada: eólica
+731	Rocha não-consolidada: glacial
+732	Rocha não-consolidada: piroclástica
+733	Rocha não-consolidada: orgânica
+734	Fragmentos minerais primários: quartzo
+735	Fragmentos minerais primários: quartzito
+736	Fragmentos minerais primários: chert
+737	Fragmentos minerais primários: mica
+738	Fragmentos minerais primários: feldspato
+739	Fragmentos minerais primários: granito
+740	Fíbrico, grau de decomposição/humificação muito baixo
+741	Fíbrico, grau de decomposição/humificação baixo
+742	Fíbrico, grau de decomposição/humificação moderado
+743	Hêmico, grau de decomposição/humificação forte
+744	Médio (2-5 mm)
+745	Hêmico, grau de decomposição/humificação moderadamente forte
+746	Sáprico, grau de decomposição/humificação muito forte
+747	Húmus cru ('mor' aeromórfico)
+748	Bruno-avermelhado
+749	'Moder' ('mull' inferior)
+750	'Mull'
+751	Nenhum (0%)
+752	Muito pouco (0-2%)
+753	Pouco (2-5%)
+754	Comum (5-15%)
+755	Muito (15-40%)
+756	Abundante (> 40%)
+757	Muito pequeno (< 2 mm)
+758	Pequeno (2-6 mm)
+759	Médio (6-20 mm)
+760	Grande (> 20mm)
+761	Fraco
+762	Distinto
+763	Proeminente
+764	Abrupto (< 0,5 mm)
+765	Claro (0,5-2 mm)
+766	Difuso (> 2 mm)
+767	Não-calcáreo (0%)
+768	Ligeiramente calcáreo (0-2%)
+769	Moderadamente calcáreo (2-10%)
+770	Fortemente calcáreo (10-25%)
+771	Extremamente calcáreo (> 25%)
+772	Concreções macias
+773	Concreções duras
+774	Concreções ocas rígidas
+775	Cal em pó disperso
+776	Pseudomicélio (preenchimentos de carbonato nos poros, assemelhando-se a micélios)
+777	Camada de marga
+778	Camada cimentada dura ou camadas de carbonatos (menos de 10 cm de espessura)
+779	Não-gipsítico (0%)
+780	Ligeiramente gipsítico (0-5%)
+781	Moderadamente gipsítico (5-15%)
+782	Fortemente gipsítico (15-60%)
+783	Extremamente gipsítico (> 60%)
+784	Concreções macias
+785	Gesso em pó disperso
+786	'Gazha' (camada argilosa saturada com água e com teor elevado de gesso)
+787	Camada cimentada dura ou camadas de gesso (menos de 10 cm de espessura)
+788	Fraco
+789	Moderado
+790	Forte
+791	Ligeiramente duro
+792	Duro
+793	Muito duro
+794	Fraca a moderada
+795	Moderada a forte
+802	Estrutura da rocha
+803	Estrutura estratificada
+804	Grão simples
+805	Maciça
+806	Maciça porosa
+807	Blocos
+808	Blocos angulares
+809	Blocos angulares (paralelepípedo)
+810	Blocos angulares e sub-angulares
+811	Blocos angulares (em forma de cunha)
+812	Blocos sub-angulares e angulares
+813	Blocos sub-angulares
+814	Blocos sub-angulares sub-arredondados ('nutty')
+815	Prismática
+816	Prismática sub-angular
+817	Cuneiforme
+818	Colunar
+819	Granular
+820	Coprólitos
+821	Laminar
+822	Torrões ('cloddy')
+823	Grumos ('crumbly')
+824	Aglomerados ('lumpy')
+825	Muito pequena
+826	Pequena
+827	Média
+828	Grande
+829	Muito grande
+830	Extremamente grande
+831	Muito pequena e pequena
+832	Muito pequena a média
+833	Pequena e média
+834	Pequena a grande
+835	Média e grande
+836	Média a muito grande
+837	Grande e muito grande
+838	Solto
+839	Macio
+840	Extremamente duro
+841	Macio a ligeiramente duro
+842	Ligeiramente duro a duro
+843	Duro a muito duro
+844	Solto
+845	Muito friável
+846	Friável
+847	Firme
+848	Muito firme
+849	Extremamente firme
+850	Muito friável a friável
+851	Friável a firme
+852	Firme a muito firme
+853	Não-pegajoso
+854	Ligeiramente pegajoso
+855	Pegajoso
+856	Muito pegajoso
+857	Ligeiramente pegajoso a pegajoso
+858	Pegajoso a muito pegajoso
+859	Não-plástico
+860	Ligeiramente plástico
+861	Plástico
+862	Muito plástico
+863	Ligeiramente plástico a plástico
+864	Plástico a muito plástico
+865	Muito seco
+866	Seco
+867	Ligeiramente úmido
+868	Úmido
+869	Molhado
+870	Muito molhado
+871	Suja os dedos, é coesiva (pegajosa), é moldável, tem elevada plasticidade e apresenta superfície brilhante depois de apertada entre os dedos.
+872	Suja os dedos, não é pegajoso, apenas fracamente moldável, tem superfície áspera e rachada depois de espremer entre os dedos e dá sensação farinácea (como pó de talco).
+873	Não pode ser moldada, não suja os dedos e dá sensação de muita aspereza.
+874	Muito baixa (< 2%)
+875	Baixa (2-5%)
+876	Média (5-15%)
+877	Alta (15-40%)
+878	Muito alta (> 40%)
+879	Intersticial
+880	Estrutura primária quebra-se em secundária
+881	Ambas as estruturas presentes
+882	Uma estrutura fundindo-se à outra
+883	Vesicular
+884	Descontínuo
+885	Veios
+886	Grande (> 5 mm)
+887	Canais
+888	Planares
+889	Muito pequeno (< 0,5 mm)
+890	Pequeno (0,5-2 mm)
+891	Médio (2-5 mm)
+892	Grande (5-20 mm)
+893	Muito grande (20-50 mm)
+894	Nenhum
+895	Muito poucos
+896	Poucos
+897	Comuns
+898	Muitos
+899	Pequeno e médio (0,5-5 mm)
+900	Pequeno e muito pequeno (< 2 mm)
+901	Médio e grande (2-20 mm)
+902	Fraco
+903	Distinto
+904	Proeminente
+905	Argila
+906	Sesquióxidos
+907	Húmus
+908	Argila e sesquióxidos
+909	Argila e húmus (matéria orgânica)
+910	Carbonato de cálcio
+911	Gibbsita
+912	Revestimentos hipodérmicos
+913	Jarosita
+914	Manganês
+915	Sílica (opala)
+916	Revestimentos de areia
+917	Revestimentos silte
+918	Faces brilhantes (como no horizonte nítico)
+919	Faces de pressão
+920	Slickensides, predominantemente intersectando-se
+921	Slickensides, intersectando-se parcialmente
+922	Slickensides, sem intersectação
+923	Contínuo
+924	Irregular contínuo (não-uniforme, heterogêneo)
+925	Irregular descontínuo
+926	Dendróide
+927	Circular descontínuo
+928	Outro
+929	Faces pédicas
+930	Faces pédicas verticais
+931	Faces pédicas horizontais
+932	Fragmentos grosseiros
+933	Lamelas (bandas de argila)
+934	Poros
+935	Pontes entre grãos de areia
+936	Sem local específico
+937	Quebrada
+938	Contínua
+939	Laminar
+940	Vesicular
+941	Pisolítico
+942	Nodular
+943	Carbonatos
+944	Sílica
+945	Carbonatos-sílica
+946	Ferro
+947	Ferro-manganês (sesquióxidos)
+948	Ferro-matéria orgânica
+949	Gelo
+950	Gesso
+951	Argila
+952	Argila-sesquióxidos
+953	Mecânica
+954	Aração
+955	Desconhecida
+956	Não-cimentado e não-compactado
+957	Compactado, mas não-cimentado
+958	Fracamente cimentado
+959	Moderadamente cimentado
+960	Cimentado
+961	Endurecido
+962	Cristal
+963	Concreção
+964	Concretização macia
+965	Segregação macia (ou acumulação macia)
+966	Nódulo
+967	Preenchimento dos poros
+968	Preenchimentos de rachaduras
+969	Fragmento residual de rocha
+970	Outro
+971	Muito pequena (< 2 mm)
+972	Pequena (2-6 mm)
+973	Média (6-20 mm)
+974	Grande (> 20 mm)
+975	Arredondada (esférica)
+976	Alongada
+977	Plana
+978	Irregular
+979	Angular
+980	Dura
+981	Macia
+982	Ambas dura e macia
+983	Carbonatos (calcária)
+984	Carbonatos-sílica
+985	Argila (argilosa)
+986	Argila-sesquióxidos
+987	Gesso (gipsífera)
+988	Sal (salina)
+989	Gibbsita
+990	Jarosita
+991	Enxofre (sulfurosa)
+992	Sílica (silicosa)
+993	Ferro (ferruginosa)
+994	Ferro-manganês (sesquióxidos)
+995	Manganês (manganesífera)
+996	Desconhecida
+997	Branco
+998	Vermelho
+999	Avermelhado
+1000	Vermelho-amarelado
+1001	Bruno
+1002	Bruno-amarelado
+1003	Amarelo
+1004	Amarelo-avermelhado
+1005	Esverdeado, verde
+1006	Cinza
+1007	Acinzentado
+1008	Azul
+1009	Preto-azulado
+1010	Preto
+1011	Multicolorido
+1012	Muito fina (< 0,5 mm)
+1013	Fina (0,5-2 mm)
+1014	Muito fina e fina (< 2 mm)
+1015	Fina e média (0,5-5 mm)
+1016	Médio e grossa (> 2 mm)
+1017	Ausente
+1018	Muito poucas
+1019	Poucas
+1020	Comuns
+1021	Muitas
+1022	Ausente
+1023	Pouca
+1024	Comum
+1025	Muita
+1026	Artefatos
+1027	Tocas (não-especificado)
+1028	Tocas grandes abertas
+1029	Tocas grandes preenchidas
+1030	Carvão vegetal
+1031	Galerias de minhoca
+1032	Pedotúbulos
+1033	Galerias e ninhos de cupins ou formigas
+1034	Outras atividades de insetos
+1035	Material artesanal natural
+1036	Poeira industrial
+1037	Material misto
+1038	Lixo orgânico
+1039	Pavimentos e pedras de pavimentação
+1040	Líquido sintético
+1041	Sólido sintético
+1042	Lodos
+1043	Ausente
+1044	Em forma de cuesta
+1045	Acidentado/espinhaço
+1046	Coberta por inselberg (ocupando > 1% das terras em nível)
+1047	Com planícies intermontanas (ocupando > 15%)
+1048	Com pântanos (ocupando > 15%)
+1049	Em forma de abóbada
+1050	Terraceado
+1051	Em forma de duna
+1052	Karst forte
+1053	Ausente
+1054	Petroquímico
+1055	Sulfuroso
+1056	Indicação positiva para características ândicas
+1057	Nenhuma indicação para características ândicas
+1058	Terras em nível
+1059	Planície (gradiente < 8%, intensidade do relevo < 100 m/km)
+1060	Planalto (gradiente < 8%, intensidade do relevo < 100 m/km)
+1061	Grande depressão (gradiente > 8%)
+1062	Depressão (gradiente < 8%, intensidade do relevo < 100 m/km)
+1063	Terço inferior com pequeno gradiente (gradiente < 8%, intensidade do relevo < 100 m/km)
+1064	Fundo de vale (gradiente < 8%, intensidade do relevo < 100 m/km)
+1065	Nível muito baixo (planícies, etc.): < 300 m para terras planas e terras inclinadas com intensidade de relevo < 50 m/unidade de terreno.
+1066	Nenhuma evidência visível de erosão
+1067	Terrenos ondulados
+1068	Montanha de médio gradiente (gradiente de 15-30%, intensidade do relevo > 600 m/2 km)
+1069	Morros de médio gradiente (gradiente de 8-30%, intensidade do relevo > 50 m/unidade de terreno)
+1070	Zona escarpada de médio gradiente (gradiente de 15-30%, intensidade do relevo < 600 m/2 km)
+1071	Cumes/cristas (gradiente de 8-30%, intensidade do relevo > 50 m/unidade de terreno)
+1072	Planalto montanhoso (gradiente de 15-30%, intensidade do relevo > 600 m/2 km)
+1073	Planície dissecada (gradiente de 8-30%, intensidade do relevo < 50 m/unidade de terreno)
+1074	Terreno íngreme
+1075	Montanha com grande gradiente (gradiente > 30%, intensidade do relevo > 600 m/2 km)
+1076	Colina com grande gradiente (gradiente > 30%, intensidade do relevo < 600 m/2 km)
+1077	Zona escarpada com grande gradiente (gradiente > 30%, intensidade do relevo > 600 m/2 km)
+1078	Vale com grande gradiente (gradiente > 30%)
+1079	Terreno com geoformas compostas (gradiente > 8%)
+1080	Vale (gradiente > 8%)
+1081	Planalto estreito (gradiente > 8%)
+1082	Plano, alagada, com declividade dominante de 0-2%. Alagada é definido pela presença permanente de água na superfície em 50-90% da área (geoforma simples).
+1083	Plano, com declividade dominante de 0-2% (geoforma simples).
+1084	Suave ondulado, com declividade dominante de 2-5% (geoforma simples).
+1085	Ondulante, com declividade dominante de 5-8% (geoforma simples).
+1086	Ondulado, com declividade dominante de 8-15% (geoforma simples).
+1087	Moderadamente íngreme, com declividade dominante de 15-30% (geoforma simples).
+1088	Íngreme, com declividade dominante de 30-60% (geoforma simples).
+1089	Muito íngreme, com declividade dominante ≥ 60% (geoforma simples).
+1090	Com forma de cuesta (geoforma complexa)
+1091	Com forma de abóbada (geoforma complexa)
+1092	Acidentado/espinhaço (geoforma complexa)
+1093	Terraceado (geoforma complexa)
+1094	Coberta por inselberg (geoforma complexa, cobrindo pelo menos 1% das terras planas)
+1095	Em forma de duna (geoforma complexa)
+1096	Com planícies intermontanas (geoforma complexa, ocupando pelo menos 15%)
+1097	Com pântanos (geoforma complexa, ocupando pelo menos 15%)
+1098	Karst forte (geoforma complexa)
+1099	Nível baixo: 300-600 m para terras planas e terras inclinadas com intensidade de relevo < 50 m/unidade de terreno
+1100	Nível médio: 600-1500 m para terras planas e terras inclinadas com intensidade de relevo < 50 m/unidade de terreno
+1101	Nível alto: 1500-3000 m para terras planas e terras inclinadas com intensidade de relevo < 50 m/unidade de terreno
+1102	Nível muito alto: ≥ 3000 m para terras planas e terras inclinadas com intensidade de relevo < 50 m/unidade de terreno
+1103	Baixo (morros, etc): < 200 m para terras inclinadas com intensidade de relevo > 50 m/unidade de terreno
+1104	Médio: 200-400 m para terras inclinadas com intensidade de relevo > 50 m/unidade de terreno
+1105	Alto: ≥ 400 m para terras inclinadas com intensidade de relevo > 50 m/unidade de terreno
+1106	Baixo (montanhas, etc): 600-1500 m para terras íngremes e inclinadas com intensidade de relevo > 600 m/2 km
+1107	Médio: 1500-3000 m para terras íngremes e inclinadas com intensidade de relevo > 600 m/2 km
+1108	Alto: 3000-5000 m para terras íngremes e inclinadas com intensidade de relevo > 600 m/2 km
+1109	Muito alto: ≥ 5000 m para terras íngremes e inclinadas com intensidade de relevo > 600 m/2 km
+1110	Ligeiramente dissecado: < 10 km/km²
+1111	Dissecado: 10-25 km/km²
+1112	Fortemente dissecado: ≥ 25 km/km²
+1113	Rocha ígnea
+1114	Rocha ígnea ácida
+1115	Rocha ígnea ácida: granito
+1116	Rocha ígnea ácida: granodiorito
+1117	Rocha ígnea ácida: quartzo-diorito
+1118	Rocha ígnea ácida: riolito
+1119	Rocha ígnea intermediária
+1120	Rocha ígnea intermediária: andesito, traquito, fonólito
+1121	Rocha ígnea intermediária: diorito-sienito
+1122	Rocha ígnea básica
+1123	Rocha ígnea básica: gabro
+1124	Rocha ígnea básica: basalto
+1125	Rocha ígnea básica: dolerito
+1126	Rocha ígnea ultrabásica
+1127	Rocha ígnea ultrabásica: peridotito
+1128	Rocha ígnea ultrabásica: piroxenito
+1129	Rocha ígnea ultrabásica: ilmenita, magnetita, ironstone, serpentina
+1130	Rocha metamórfica
+1131	Rocha metamórfica ácida
+1132	Rocha metamórfica ácida: quartzito
+1133	Rocha metamórfica ácida: gnaisse, migmatito
+1134	Rocha metamórfica ácida: ardósia, filito, (rochas pellitic)
+1135	Rocha metamórfica ácida: xisto
+1136	Rocha metamórfica básica
+1137	Rocha metamórfica básica: ardósia, filito (rochas pelíticas)
+1138	Rocha metamórfica básica: xisto
+1139	Rocha metamórfica básica: gnaisse rico em minerais ferro-magnesianos
+1140	Rocha metamórfica básica: calcário metamórfico (mármore)
+1141	Rocha sedimentar
+1142	Sedimentos clásticos
+1143	Sedimentos clásticos: conglomerado, brecha
+1144	Sedimentos clásticos: arenito, grauvaques, arcósios
+1145	Sedimentos clásticos: siltito, argilito (mudstone), argilito
+1146	Sedimentos clásticos: argilito (shale)
+1147	Sedimentos clásticos: ironstone
+1148	Rocha sedimentar orgânica
+1149	Rocha sedimentar orgânica: calcário, outras rochas carbonáticas
+1150	Rocha sedimentar orgânica: marga e outras misturas
+1151	Rocha sedimentar orgânica: carvões, betume e rochas relacionados
+1152	Evaporitos
+1153	Evaporitos: anidrita, gipsita
+1154	Evaporitos: halita
+1155	Rocha não-consolidada
+1156	Rocha não-consolidada: fluvial
+1157	Rocha não-consolidada: lacustre
+1158	Rocha não-consolidada: marinha
+1159	Rochas não-consolidadas: coluvial
+1160	Rocha não-consolidada: eólica
+1161	Rocha não-consolidada: glacial
+1162	Rocha não-consolidada: piroclástica
+1163	Rocha não-consolidada: orgânica
+1164	Erosão laminar
+1165	Erosão em sulcos
+1166	Voçoroca/ravina
+1167	Erosão em túnel
+1168	Deposição hídrica
+1169	Erosão eólica e hídrica
+1170	Erosão e deposição eólica
+1171	Deposição eólica
+1172	Areia movediça
+1173	Deposição de sal
+1174	Tipo de erosão desconhecido
+1175	Muito raso (< 30 cm)
+1176	Raso (30-50 cm)
+1177	Moderadamente profundo (50-100 cm)
+1178	Profundo (100-150 cm)
+1179	Muito profundo (≥ 150 cm)
+1180	Vertente uniforme
+1181	Côncavo, diminuição do gradiente ladeira abaixo
+1182	Convexo, aumento do gradiente ladeira abaixo
+1183	Vertente irregular
+1184	Hummocky
+1185	Com montes
+1186	Com torres
+1187	Acidentado/espinhaço
+1188	Terraceado
+1189	Ravinado/voçorocado
+1190	Fortemente dissecado
+1191	Dissecado
+1192	Ligeiramente dissecado
+1193	Muito argilosa - mais de 60% de argila
+1194	Argilosa - classes de textura argilo-arenosa, argilossiltosa e argila
+1195	Franca - classes de textura franca, franco-argilo-arenosa, franco-argilosa, silte, franco-siltosa e franco-argilo-siltosa
+1196	Arenosa - classes de textura areia-franca e franco-arenosa
+1197	Extremamente arenosa - classe de textura areia
+1198	Extremamente lenta
+1199	Salobra
+1200	Lenta
+1201	Boa
+1202	Rápida
+1203	Muito rápida
+1204	Alta
+1205	Meio
+1206	Baixa
+1207	Mais baixa
+1208	Todas
+1209	Nenhuma
+1210	Fraca
+1211	Moderada
+1212	Forte
+1213	Muito lenta (< 0,1 cm/h)
+1214	Lenta (0,1-0,5 cm/h)
+1215	Moderadamente lenta (0,5-2,0 cm/h)
+1216	Moderada (2,0-6,0 cm/h)
+1217	Rápida (6,0-12,5 cm/h)
+1218	Muito rápida (12,5-25,0 cm/h)
+1219	Extremamente rápida (≥ 25 cm/h)
+1220	Fíbrico
+1221	Hêmico
+1222	Sáprico
+1223	Histic
+1224	Mólico
+1225	Fímico
+1226	Úmbrico
+1227	Ócrico
+1228	Árgico
+1229	Nátrico
+1230	Câmbico
+1231	Espódico
+1232	Ferrálico
+1233	Propriedades níticas
+1234	Cálcico
+1235	Petrocálcico
+1236	Gípsico
+1237	Petrogípsico
+1238	Sulfúrico
+1239	Álbico
+1240	Mudança textural abrupta
+1241	Fortemente húmico
+1242	Floresta tropical - úmida***
+1243	Fresco
+1244	Propriedades ândicas
+1245	Calcáreo
+1246	Calcárico
+1247	Rocha dura contínua
+1248	Propriedades ferrálicas
+1249	Propriedades férricas
+1250	Propriedades flúvicas
+1251	Propriedades géricas
+1252	Propriedades gleicas e estágnicas
+1253	Gipsífero
+1254	'Interfingering'
+1255	Materiais orgânicos do solo
+1256	Permafrost
+1257	Plintita
+1258	Propriedades sálicas
+1259	Slickensides
+1260	Consistência besuntada
+1261	Propriedades sódicas
+1262	Cal macio
+1263	Histosol
+1264	Kastanozem
+1265	Materiais sulfídricos
+1266	'Tonguing'
+1267	Propriedades vérticas
+1268	Minerais intemperizáveis
+1269	Sem estrutura
+1270	Fraca
+1271	Moderada
+1272	Forte
+1273	Muito pequena
+1274	Pequena
+1275	Média
+1276	Grande
+1277	Muito grande
+1278	Laminar (partículas dispostas em torno de um plano geralmente horizontal)
+1279	Prismática (prismas sem extremidade superior arredondada)
+1280	Colunar (prismas com topos arredondados)
+1281	Lítico
+1282	Blocos angulares (delimitada por planos que se intersectam, na grande parte, com ângulos agudos)
+1283	Blocos sub-angulares (faces planas e arredondadas misturadas com vértices, na maior parte, arredondado)
+1284	Granular (esferoidal ou poliédrica, relativamente não-porosa)
+1285	Em grumos (esferoidal ou poliédrica, porosa)
+1286	Maciça (sem estrutura)
+1287	Grão simples (sem estrutura, grãos individuais)
+1288	Cuneiforme (estrutura de horizontes com slickensides)
+1289	Alofana
+1290	Clorítica
+1291	Ilítica
+1292	Interestratificados ou mista
+1293	Caulinítica
+1294	Montmorillonítica
+1295	Sesquioxídica
+1296	Vermiculítica
+1297	Floresta tropical - úmida
+1298	Leptosol
+1299	Luvisol
+1300	Lixisol
+1301	Nitisol
+1302	Savana tropical, verão seco
+1303	Savana tropical, inverno seco
+1304	Clima de estepe - seco, quente
+1305	Clima de estepe - seco, frio
+1306	Clima desértico - seco, quente
+1307	Petrocálcico
+1308	Duripã
+1309	Petroférrico
+1310	Cinza-avermelhado-escuro
+1311	Vermelho-acinzentado
+1312	Vermelho-acinzentado
+1313	Vermelho-acinzentado
+1314	Vermelho
+1315	Vermelho
+1316	Cinza-avermelhado
+1317	Vermelho-acinzentado
+1318	Vermelho-acinzentado
+1319	Vermelho-acinzentado
+1320	Vermelho
+1321	Vermelho
+1322	Cinza-avermelhado
+1323	Vermelho-claro-acinzentado
+1324	Vermelho-claro-acinzentado
+1325	Vermelho-claro-acinzentado
+1326	Vermelho-claro
+1327	Vermelho-claro
+1328	Oliva
+1329	Cinza
+1330	Cinza-oliváceo
+1331	Cinza
+1332	Cinza-oliváceo
+1333	 
+1334	Cinza
+1335	Cinza-oliváceo
+1336	 
+1337	 
+1338	 
+1339	Cinza-claro
+1340	Cinza-claro
+1341	 
+1342	 
+1343	 
+1344	Cinza-claro
+1345	 
+1346	Cinza-claro
+1347	 
+1348	 
+1349	 
+1350	Preto
+1351	Bruno muito escuro
+1352	Cinza muito escuro
+1353	Bruno-acinzentado muito escuro
+1354	Bruno-escuro
+1355	Bruno-amarelado-escuro
+1356	Bruno-amarelado-escuro
+1357	Cinza-escuro
+1358	Bruno-acinzentado-escuro
+1359	Bruno (escuro)
+1360	Bruno-amarelado-escuro
+1361	Bruno-amarelado-escuro
+1362	Cinza
+1363	Bruno-acinzentado
+1364	Bruno
+1365	Bruno-amarelado
+1366	Bruno-amarelado
+1367	Bruno-amarelado
+1368	Cinza (claro)
+1369	Cinza-brunado-claro
+1370	Bruno-claro-acinzentado
+1371	Bruno-amarelado-claro
+1372	Amarelo-brunado
+1373	Amarelo-brunado
+1374	Cinza-claro
+1375	Cinza-claro
+1376	Bruno muito claro-acinzentado
+1377	Bruno muito claro-acinzentado
+1378	Amarelo
+1379	Amarelo
+1380	Branco
+1381	Branco
+1382	Bruno muito claro-acinzentado
+1383	Bruno muito claro-acinzentado
+1384	Amarelo
+1385	Amarelo
+1386	Preto
+1387	Cinza muito escuro
+1388	Bruno-acinzentado muito escuro
+1389	Cinza-escuro
+1390	Bruno-acinzentado-escuro
+1391	Bruno-oliváceo
+1392	Cinza
+1393	Bruno-acinzentado
+1394	Bruno-oliváceo-claro
+1395	Bruno-oliváceo-claro
+1396	Cinza (claro)
+1397	Cinza-brunado-claro
+1398	Bruno-amarelado-claro
+1399	Amarelo-oliváceo
+1400	Amarelo-oliváceo
+1401	Cinza-claro
+1402	Cinza-claro
+1403	Amarelo-claro-acinzentado
+1404	Amarelo
+1405	Amarelo
+1406	Branco
+1407	Branco
+1408	Amarelo-acinzentado-claro
+1409	Amarelo
+1410	Amarelo
+1411	Preto
+1412	Vermelho muito escuro-acinzentado
+1413	Bruno-avermelhado-escuro
+1414	Cinza muito escuro
+1415	Vermelho-escuro-acinzentado
+1416	Bruno-avermelhado-escuro
+1417	Vermelho-escuro
+1418	Cinza-escuro
+1419	Vermelho-acinzentado
+1420	Bruno-avermelhado
+1421	Vermelho
+1422	Vermelho
+1423	Cinza
+1424	Vermelho-acinzentado
+1425	Bruno-avermelhado
+1426	Vermelho
+1427	Vermelho
+1428	Cinza
+1429	Vermelho-claro-acinzentado
+1430	Bruno-avermelhado-claro
+1431	Vermelho-claro
+1432	Vermelho-claro
+1433	Cinza-azulado-escuro
+1434	Cinza-azulado
+1435	Cinza-azulado
+1436	Cinza-azulado-claro
+1437	Cinza-esverdeado-escuro
+1438	Cinza-esverdeado
+1439	Cinza-esverdeado
+1440	Cinza-esverdeado-claro
+1441	Cinza-esverdeado-escuro
+1442	Verde-acinzentado
+1443	Cinza-esverdeado
+1444	Verde-acinzentado
+1445	Cinza-esverdeado
+1446	Verde-claro-acinzentado
+1447	Cinza-esverdeado-claro
+1448	Verde-claro-acinzentado
+1449	Cinza esverdeado-escuro
+1450	Cinza-esverdeado
+1451	Cinza-esverdeado
+1452	Cinza-esverdeado-claro
+1453	Preto-avermelhado
+1454	Vermelho muito escuro-acinzentado
+1455	Vermelho muito escuro-acinzentado
+1456	Vermelho muito escuro-acinzentado
+1457	Vermelho-escuro
+1458	Cinza-avermelhado-escuro
+1459	Vermelho-escuro-acinzentado
+1460	Vermelho-escuro-acinzentado
+1461	Vermelho-escuro-acinzentado
+1462	Vermelho-escuro
+1463	Vermelho-escuro
+1464	Cinza-avermelhado-escuro
+1465	Vermelho-acinzentado
+1466	Vermelho-acinzentado
+1467	Vermelho-acinzentado
+1468	Vermelho
+1469	Vermelho
+1470	Cinza-avermelhado
+1471	Vermelho-acinzentado
+1472	Vermelho-acinzentado
+1473	Vermelho-acinzentado
+1474	Vermelho
+1475	Vermelho
+1476	Cinza-avermelhado
+1477	Vermelho-claro-acinzentado
+1478	Vermelho-claro-acinzentado
+1479	Vermelho-claro-acinzentado
+1480	Vermelho-claro
+1481	Vermelho-claro
+1482	Preto
+1483	Preto
+1484	Cinza muito escuro
+1485	Cinza-oliváceo-escuro
+1486	Cinza-escuro
+1487	Cinza-oliváceo
+1488	Oliva
+1489	Oliva
+1490	Cinza
+1491	Cinza-oliváceo
+1492	Oliva
+1493	Oliva
+1494	Oliva
+1495	Cinza (claro)
+1496	Cinza-oliváceo-claro
+1497	Oliva-claro-acinzentado
+1498	Oliva-claro-acinzentado
+1499	Amarelo-oliváceo
+1500	Amarelo oliva
+1501	Cinza-claro
+1502	Cinza-claro
+1503	Amarelo-claro-acinzentado
+1504	Amarelo-claro-acinzentado
+1505	Amarelo
+1506	Amarelo
+1507	Branco
+1508	Branco
+1509	Amarelo-claro-acinzentado
+1510	Amarelo-claro-acinzentado
+1511	Amarelo
+1512	Amarelo
+1513	Preto
+1514	Bruno-avermelhado-escuro
+1515	Cinza muito escuro
+1516	Bruno-avermelhado-escuro
+1517	Bruno-avermelhado-escuro
+1518	Bruno-avermelhado-escuro
+1519	Cinza-escuro
+1520	Cinza-escuro avermelhado
+1521	Bruno-avermelhado
+1522	Bruno-avermelhado
+1523	Vermelho-amarelado
+1524	Cinza
+1525	Cinza-avermelhado
+1526	Petrogípsico
+1527	Pétrico
+1528	Freático
+1529	Sódico
+1530	Clima de deserto - seco, frio
+1531	Temperado quente - úmido em todas as estações, verão quente
+1532	Phaeozem
+1533	Planosol
+1534	Plinthosol
+1535	Podzol
+1536	Regosol
+1537	Solonchak
+1538	Solonetz
+1539	Temperado quente - úmido em todas as estações, verão morno
+1540	Temperado quente - úmido em todas as estações, verão fresco curto
+1541	Temperado quente - verão seco, quente
+1542	Temperado quente - verão seco, morno
+1543	Temperado quente - verão seco, verão fresco curto
+1544	Temperado quente - inverno seco, verão quente
+1545	Pedregoso
+1546	Fragipã
+1547	Salina
+1548	Albeluvisol
+1549	Acrisol
+1550	Alisol
+1551	Andosol
+1552	Temperado quente - inverno seco, verão morno
+1553	Stagnosol
+1554	Technosol
+1555	Umbrisol
+1556	Vertisol
+1557	Rocha ígnea
+1558	Rocha ígnea ácida
+1559	Oxigenado
+1560	Temperado quente - inverno seco, verão fresco curto
+1561	Clima temperado frio - úmido em todas as estações, verão quente
+1562	Clima temperado frio - úmido em todas as estações, verão morno
+1563	Clima temperado frio - úmido em todas as estações, verão fresco curto
+1564	Clima temperado frio - úmido em todas estações, inverno muito frio
+1565	Clima temperado frio - inverno seco, verão quente
+1566	Clima temperado frio - inverno seco, verão morno
+1567	Clima temperado frio - inverno seco, verão fresco curto
+1568	Clima temperado frio - inverno seco, inverno muito frio
+1569	Clima com geada
+1570	Clima de tundra
+1571	Clima de montanha/altitude, indiferenciado
+1572	Cerrado
+1573	Clima temperado frio - verão seco, morno
+1574	Clima temperado frio - verão seco, verão fresco curto
+1575	Clima temperado frio - verão seco, inverno muito frio
+1576	Arenosol
+1577	Anthrosol
+1578	Chernozem
+1579	Calcisol
+1580	Cambisol
+1581	Cryosol
+1582	Durisol
+1583	Fluvisol
+1584	Ferralsol
+1585	Gleysol
+1586	Gypsisol
+1587	Rocha ígnea ácida: diorito
+1588	Rocha ígnea ácida: granodiorito
+1589	Rocha ígnea ácida: quartzo-diorito
+1590	Rocha ígnea ácida: riolito
+1591	Rocha ígnea intermediária
+1592	Rocha ígnea intermediária: andesito, traquito, fonólito
+1593	Rocha ígnea intermediária: diorito-sienito
+1594	Rocha ígnea básica
+1595	Rocha ígnea básica: gabro
+1596	Rocha ígnea básica: basalto
+1597	Rocha ígnea básica: dolerito
+1598	Rocha ígnea ultrabásica
+1599	Rocha ígnea ultrabásica: peridotito
+1600	Rocha ígnea ultrabásica: piroxenito
+1601	Rocha ígnea ultrabásica: ilmenita, magnetita, ironstone, serpentina
+1602	Rocha piroclástica
+1603	Rocha piroclástica: tufo, tufito
+1604	Rocha piroclástica: escória/brecha vulcânica
+1605	Rocha piroclástica: cinza vulcânica
+1606	Rocha piroclástica: ignimbrito
+1607	Rocha metamórfica
+1608	Rocha metamórfica ácida
+1609	Rocha metamórfica ácida: quartzito
+1610	Rocha metamórfica ácida: gnaisse, migmatito
+1611	Rocha metamórfica ácida: ardósia, filito, (rochas pellitic)
+1612	Rocha metamórfica ácida: xisto
+1613	Rocha metamórfica básica
+1614	Rocha metamórfica básica: ardósia, filito (rochas pelíticas)
+1615	Rocha metamórfica básica: xisto (verde)
+1616	Rocha metamórfica básica: gnaisse rico em minerais ferro-magnesianos
+1617	Rocha metamórfica básica: calcário metamórfico (mármore)
+1618	Rocha metamórfica básica: anfibolito
+1619	Rocha metamórfica básica: eclogito
+1620	Rocha metamórfica ultrabásica
+1621	Rocha metamórfica ultrabásica: serpentinito, greenstone
+1622	Rocha sedimentar
+1623	Sedimentos clásticos
+1624	Sedimentos clásticos: conglomerados, brechas
+1625	Sedimentos clásticos: arenito, grauvaque, arcósio
+1626	Sedimentos clásticos: siltito, argilito (mudstone), argilito
+1627	Sedimentos clásticos: argilito (shale)
+1628	Sedimentos clásticos: ironstone
+1629	Rocha sedimentar orgânica ou carbonática
+1630	Rocha sedimentar orgânica ou carbonática: calcário, outras rochas carbonáticas
+1631	Dolerito
+1632	Rocha sedimentar orgânica ou carbonática: marga e outras misturas
+1633	Rocha sedimentar orgânica ou carbonática: carvões, betume e rochas relacionadas
+1634	Evaporitos
+1635	Evaporitos: anidrita, gipsita
+1636	Evaporitos: halita
+1637	Rocha não-consolidada
+1638	Resíduo intemperizado
+1639	Resíduo intemperizado: bauxita, laterita
+1640	Rocha não-consolidada: fluvial
+1641	Rocha fluvial não-consolidada: areia e cascalho
+1642	Rocha fluvial não-consolidada: argila, silte e greda
+1643	Rocha não-consolidada: lacustre
+1644	Rocha lacustre não-consolidada: areia
+1645	Rocha lacustre não-consolidada: silte e argila
+1646	Rocha não-consolidada: marinha
+1647	Rocha marinha não-consolidada: areia
+1648	Rocha marinha não-consolidada: argila e silte
+1649	Rocha não-consolidada: coluvial
+1650	Rocha coluvial não-consolidada: depósitos de encosta
+1651	Rocha coluvial não-consolidada: lahar
+1652	Rocha não-consolidada: eólica
+1653	Rocha não-consolidada: rocha eólica: loess
+1654	Rocha não-consolidada: rocha eólica: areia
+1655	Rocha não-consolidada: glacial
+1656	Rocha glacial não-consolidada: morena/moraina
+1657	Rocha glacial não-consolidada: areias glacio-fluviais
+1658	Rocha criogênica não-consolidada
+1659	Rocha criogênica não-consolidada: detritos rochosos periglaciais
+1660	Rocha criogênica não-consolidada: camada de solifluxão periglacial
+1661	Rocha não-consolidada: piroclástico
+1662	Rocha não-consolidada: orgânico
+1663	Rocha orgânica não-consolidada: turfeira alimentada pela água da chuva
+1664	Rocha orgânica não-consolidada: turfeira alimentada por águas subterrâneas
+1665	Rocha antropogênica/tecnogênica não-consolidada
+1666	Rocha antropogênica/tecnogênica não-consolidada: material natural redepositado
+1667	Rocha antropogênica/tecnogênica não-consolidada: depósitos industriais/artesanais
+1668	Depósitos não-consolidados e não-especificados
+1669	Depósitos não-consolidados e não-especificados: argila
+1670	Depósitos não-consolidados e não-especificados: greda e silte
+1671	Depósitos não-consolidados e não-especificados: areia
+1672	Depósitos não-consolidados e não-especificados: areia cascalhenta
+1673	Depósitos não-consolidados e não-especificados: cascalho, rocha fragmentada
+1674	Derivados de medições com GPS
+1675	Convertido a partir de dados GMS, disponível até segundos
+1676	Convertido a partir de dados GMS, disponível apenas até minutos
+1677	Convertido a partir de outras fontes (descrição, localização, etc.)
+1678	Arenito
+1679	Arenito não-calcário
+1680	Arenito arcósico
+1681	Grauvaque
+1682	Arenito calcário
+1683	Rocha ígnea/metamórfica ácida
+1684	Andesito
+1685	Rocha sedimentar inter-estratificada
+1686	Calcário/arenito/argilito (shale)
+1687	Calcário/arenito
+1688	Calcário/argilito (shale)
+1689	Calcário/siltito
+1690	Arenito/argilito (shale)
+1691	Arenito/siltito
+1692	Argilito (shale)/siltito
+1693	Rocha ígnea/metamórfica básica
+1694	Basalto
+1695	Conglomerado
+1696	Conglomerado, não-calcário
+1697	Conglomerado, calcário
+1698	Conglomerado
+1699	Diorito
+1700	Dolomito
+1701	Rochas piroclásticas não-consolidadas
+1702	Cinzas ejetadas
+1703	Cinzas ácidas
+1704	Cinzas básicas
+1705	Lapili
+1706	Lapili ácido
+1707	Lapili básico
+1708	Bombas vulcânicas
+1709	Evaporitos
+1710	Gabbro
+1711	Granito/gnaisse
+1712	Gnaisse
+1713	Granito
+1714	Gipsita
+1715	Argilito (shale)
+1716	Argilito (shale) não-calcário
+1717	Argilito (shale) calcário
+1718	Rocha ígnea
+1719	Rocha ígnea de granulação grossa
+1720	Rocha ígnea básica de granulação grossa
+1721	Rocha ígnea intermediária de granulação grossa 
+1722	Rocha ígnea ácida de granulação grossa
+1723	Rocha ígnea de granulação fina
+1724	Rocha ígnea básica de granulação fina
+1725	Rocha ígnea intermediária de granulação fina
+1726	Rocha ígnea ácida de granulação fina
+1727	Rocha ígnea ultrabásica de granulação fina
+1728	Material orgânico
+1729	Material musgoso
+1730	Material herbáceo
+1731	Material lenhoso
+1732	Fragmentos de madeira, pequeno
+1733	Fragmentos de madeira, grande
+1734	Carvão
+1735	Calcário
+1736	Cré
+1737	Mármore
+1738	Calcário dolomítico
+1739	Calcário fosfatada
+1740	Calcário arenoso
+1741	Calcário argiloso
+1742	Calcário chertificado (com sílex)
+1743	Calcário
+1744	Rocha metamórfica
+1745	Gnaisse
+1746	Gnaisse ácido
+1747	Gnaisse básico
+1748	Serpentinito
+1749	Xisto
+1750	Xisto ácido
+1751	Xisto básico
+1752	Ardósia
+1753	Quartzito
+1754	Marga
+1755	Não conhecido
+1756	Piroclástica, consolidada
+1757	Tufo
+1758	Tufo ácido
+1759	Tufo básico
+1760	Brecha vulcânica
+1761	Brecha vulcânica ácida
+1762	Brecha vulcânica básica
+1763	Tufo-brecha
+1764	Escória/cinzas
+1765	Pomes
+1766	Rocha piroclástica
+1767	Arenito quartzítico
+1768	Quartzito
+1769	Rocha sedimentar
+1770	Marga
+1771	Glauconita
+1772	Arenito
+1773	Xisto
+1774	Rocha sedimentar
+1775	Argilito (shale)
+1776	Siltito
+1777	Siltito
+1778	Siltito não-calcário
+1779	Siltito calcário
+1780	Travertino
+1781	Tufo
+1782	Argilito
+1783	Argilito não-calcário
+1784	Argilito calcário
+1785	Rocha ultrabásica
+1786	Rocha vulcânica
+1787	Material altamente intemperizado
+1788	Materiais lateritico
+1789	Materiais bauxítico
+1790	Não-calcário ou ácido
+1791	Calcário
+1792	Litologia mista
+1793	Ígnea/metamórfica/sedimentar
+1794	Ígnea e metamórfica
+1795	Ígnea e sedimentar
+1796	Metamórfica/sedimentar
+1797	Litologia e composição mista
+1798	Aluvião
+1799	Eólico misto/indiferenciado
+1800	Loess eólico
+1801	Areia eólica
+1802	Cinzas ejetadas
+1803	Sedimentos lacustre
+1804	Sedimentos estuarinos
+1805	Sedimentos marinhos
+1806	Colúvio
+1807	'Slope wash'
+1808	Sedimentos flúvio-glaciais
+1809	Materiais empurrados por geleiras
+1810	Acumulação glácio-fluvial
+1811	'Till' glacial
+1812	'Drift' glacial
+1813	Sedimentos orgânicos
+1814	Material residual
+1815	Não-consolidado, não-especificado
+1816	Rocha sólida
+1817	Artificial
+1818	Arenosa
+1819	Argilo-arenosa
+1820	Siltosa
+1821	Franca
+1822	Argilosa
+1823	Cascalhenta
+1824	Pedregosa
+1825	Mista
+1826	Orgânica
+1827	Ligeira
+1828	Parcial/moderada
+1829	Alta
+1830	Muito alta
+1831	Alta
+1832	Moderada
+1833	Baixa
+1834	Sul
+1835	Sul-sudeste
+1836	Sudeste
+1837	Leste-sudeste
+1838	Leste
+1839	Leste-nordeste
+1840	Nordeste
+1841	Norte-nordeste
+1842	Norte
+1843	Norte-noroeste
+1844	Noroeste
+1845	Oeste-noroeste
+1846	Oeste
+1847	Oeste-sudoeste
+1848	Sudoeste
+1849	Sul-sudoeste
+1850	Convexo
+1851	Côncavo
+1852	Retilíneo
+1853	Complexo
+1854	Ondulante
+1855	Crista/topo/cume
+1856	Terço superior
+1857	Terço médio
+1858	Terço inferior
+1859	Relevo não especificado
+1860	Plano
+1861	Depressão aberta
+1862	Depressão (fechada)
+1863	Nenhum
+1864	Diariamente
+1865	Mensalmente
+1866	Anualmente
+1867	Irregular
+1868	Alagado
+1869	Muito lento
+1870	Lento
+1871	Médio
+1872	Rápido
+1873	Muito rápido
+1874	Salina
+1875	Parada ou estagnada
+1876	Laminar
+1877	Sulcos
+1878	Voçorocas/ravinas
+1879	Vento
+1880	Nenhum
+1881	Ligeira
+1882	Moderada
+1883	Severa
+1884	Ausente
+1885	Pouco rochoso
+1886	Relativamente rochoso
+1887	Rochoso
+1888	Extremamente rochoso
+1889	Muito rochoso
+1890	Afloramento
+1891	Ausente
+1892	Muito pouco pedregoso
+1893	Relativamente pedregoso
+1894	Pedregoso
+1895	Muito pedregoso
+1896	Extremamente pedregoso
+1897	Área de escombros
+1898	(Sub)arredondado
+1899	Blocos angulares
+1900	Irregular angular
+1901	Laminar, plana
+1902	Preto-avermelhado
+1903	Vermelho muito escuro-acinzentado
+1904	Cinza-escuro avermelhado
+1905	Vermelho-escuro-acinzentado
+1906	Vermelho-escuro-acinzentado
+1907	Vermelho-escuro-acinzentado
+1908	Vermelho-escuro
+1909	Bruno-avermelhado
+1910	Bruno-avermelhado
+1911	Vermelho-amarelado
+1912	Vermelho-amarelado
+1913	Cinza (claro)
+1914	Cinza-rosado
+1915	Bruno-avermelhado-claro
+1916	Bruno-avermelhado-claro
+1917	Amarelo avermelhado
+1918	Amarelo avermelhado
+1919	Cinza-claro
+1920	Cinza-rosado
+1921	Rosa
+1922	Rosa
+1923	Amarelo-avermelhado
+1924	Amarelo-avermelhado
+1925	Branco
+1926	Branco rosado
+1927	Rosa
+1928	Rosa
+1929	 
+1930	 
+1931	 
+1932	 
+1933	 
+1934	 
+1935	 
+1936	 
+1937	 
+1938	 
+1939	 
+1940	 
+1941	 
+1942	 
+1943	 
+1944	 
+1945	 
+1946	 
+1947	 
+1948	 
+1949	 
+1950	 
+1951	 
+1952	 
+1953	 
+1954	 
+1955	 
+1956	Preto
+1957	Vermelho muito escuro-acinzentado
+1958	Vermelho muito escuro-acinzentado
+1959	Cinza muito escuro
+1960	Vermelho-escuro-acinzentado
+1961	Vermelho-escuro-acinzentado
+1962	Vermelho-escuro
+1963	Vermelho-escuro
+1964	Cinza-escuro
+1965	Vermelho-acinzentado
+1966	Vermelho-acinzentado
+1967	Vermelho
+1968	Vermelho
+1969	Cinza
+1970	Vermelho-acinzentado
+1971	Vermelho-acinzentado
+1972	Vermelho
+1973	Vermelho
+1974	Cinza
+1975	Vermelho-claro-acinzentado
+1976	Vermelho-claro-acinzentado
+1977	Vermelho-claro
+1978	Vermelho-claro
+1979	 
+1980	 
+1981	Preto-oliváceo
+1982	 
+1983	Oliva-acinzentado
+1984	 
+1985	Oliva-acinzentado
+1986	 
+1987	 
+1988	Oliva-acinzentado
+1989	 
+1990	 
+1991	 
+1992	 
+1993	Cinza-claro
+1994	 
+1995	 
+1996	 
+1997	 
+1998	 
+1999	Cinza-claro
+2000	 
+2001	 
+2002	 
+2003	Preto
+2004	Bruno muito escuro
+2005	Bruno muito escuro
+2006	Cinza muito escuro
+2007	Bruno-escuro
+2008	Bruno-escuro
+2009	Cinza-escuro
+2010	Bruno (escuro)
+2011	Bruno (escuro)
+2012	Bruno-forte
+2013	Cinza
+2014	Bruno
+2015	Bruno
+2016	Bruno-forte
+2017	Bruno-forte
+2018	Cinza (claro)
+2019	Cinza-rosado
+2020	Bruno-claro
+2021	Amarelo-avermelhado
+2022	Amarelo-avermelhado
+2023	Cinza-claro
+2024	Cinza-rosado
+2025	Rosa
+2026	Amarelo-avermelhado
+2027	Amarelo-avermelhado
+2028	Branco
+2029	Branco-rosado
+2030	Rosa
+2031	Amarelo-avermelhado
+2032	Preto
+2033	Preto
+2034	Cinza muito escuro
+2035	Cinza-escuro
+2036	Cinza
+2037	Cinza (claro)
+2038	Cinza-claro
+2039	Branco
+2040	Muito fina (0,1-1 mm)
+2041	Fina (1-2 mm)
+2042	Fina (< 5 mm)
+2043	Fina a média (< 15 mm)
+2044	Média (5-15 mm)
+2045	Média a grossa (> 5 mm)
+2046	Grossa (> 15 mm)
+2047	Heterogêneo
+2071	Muito fina
+2072	Muito fina e fina
+2073	Fina
+2074	Fina e média
+2075	Média
+2076	Média e grossa
+2077	Grossa
+2078	Grossa e muito grossa
+2079	Muito grossa
+2080	Sem estrutura
+2081	Sem estrutura e fracamente coerente
+2082	Sem estrutura e moderadamente coerente
+2083	Sem estrutura e fortemente coerente
+2084	Ausente
+2085	Pouco (1-50 por decímetro quadrado)
+2086	Pouco a comum (1-200 por decímetro quadrado)
+2087	Comum (50-200 por decímetro quadrado)
+2088	Comum a abundante (> 50 por decímetro quadrado)
+2089	Abundante (> 200 por decímetro quadrado)
+2090	Micro (< 0,1 mm)
+2091	Médio (2-5 mm)
+2092	Grande (5-10 mm)
+2093	Muito grande (> 10 mm)
+2094	Grande (5-10 mm) e muito grande (> 10 mm)
+2095	Médio (2-5 mm) e grande (5-10 mm)
+2096	Pequeno (1-2 mm) a grande (5-10 mm)
+2097	Micro (< 0,1 mm) a muito grande (> 10 mm)
+2098	Muito pequeno (0,1-1 mm) e pequeno (1-2 mm)
+2099	Pequeno (1-2 mm) e médio (1-5 mm)
+2100	Micro (< 0,1 mm) a pequeno (1-2 mm)
+2101	Micro (< 0,1 mm) a grande (5-10 mm)
+2102	Micro (< 0,1 mm) e muito pequeno (0,1-1 mm)
+2103	Micro (< 0,1 mm) a médio (2-5 mm)
+2104	Muito pequeno (0,1-1 mm) a médio (1-5 mm)
+2105	Muito pequeno (0,1-1 mm) a grande (5-10 mm)
+2106	Contínuo
+2107	Vesicular
+2108	Descontínuo
+2109	Intersticial
+2110	Tubular
+2111	Ausente
+2112	Poucas
+2113	Comuns
+2114	Muitas
+2115	Micro
+2116	Muito fina (diâmetro < 1 mm)
+2117	Muito fina (diâmetro < 1 mm) e fina (1-2 mm de diâmetro)
+2118	Fina (1-2 mm de diâmetro)
+2119	Fina (1-2 mm de diâmetro) e média (2-5 mm de diâmetro)
+2120	Média (2-5 mm de diâmetro)
+2121	Média (2-5 mm de diâmetro) e grossa (diâmetro > 5 mm)
+2122	Grossa (diâmetro > 5 mm)
+2123	Todas: desde muito fina (diâmetro < 1 mm) a grossa (diâmetro > 5 mm)
+2124	Moderada
+2125	Sem estrutura
+2126	Forte
+2127	Fraca
+2128	Blocos angulares
+2129	Em grumos
+2130	Colunar
+2131	Granular
+2132	Maciça
+2133	Grão simples
+2134	Laminar
+2135	Prismática
+2136	Blocos sub-angulares
+2137	Cuneiforme
+2138	Rocha ígnea
+2139	Rocha ígnea ácida
+2140	Rocha ígnea ácida: granito
+2141	Rocha ígnea ácida: quartzo-diorito/grano-diorito
+2142	Rocha ígnea ácida: sienito
+2143	Rocha ígnea ácida: riolito, dacito
+2144	Rocha ígnea intermediária
+2145	Rocha ígnea intermediária: andesito, traquito, fonólito
+2146	Rocha ígnea intermediária: diorito, diorito-sienito
+2147	Rocha ígnea básica
+2148	Rocha ígnea básica: gabro
+2149	Rocha ígnea básica: basalto
+2150	Rocha ígnea básica: dolerito/diabásio
+2151	Rocha ígnea ultrabásica
+2152	Rocha ígnea ultrabásica: peridotito
+2153	Rocha ígnea ultrabásica: piroxenito
+2154	Rocha ígnea ultrabásica: ilmenita, magnetita, ironstone
+2155	Rocha ígnea piroclástica
+2156	Rocha ígnea piroclástica: tufo, tufito
+2157	Rocha ígnea piroclástica: escória vulcânica/brecha
+2158	Rocha ígnea piroclástica: cinza vulcânica
+2159	Rocha ígnea piroclástica: ignimbrito
+2160	Rocha metamórfica
+2161	Rocha metamórfica ácida
+2162	Rocha metamórfica ácida: quartzito
+2163	Rocha metamórfica ácida: gnaisse, migmatito, granulito
+2164	Rocha metamórfica ácida: ardósia, filito
+2165	Rocha metamórfica ácida: xisto
+2166	Rocha metamórfica básica
+2167	Rocha metamórfica básica: ardósia, filito
+2168	Rocha metamórfica básica: xisto (verde)
+2169	Rocha metamórfica básica: gnaisse rico em minerais ferro-magnesianos
+2170	Rocha metamórfica básica: calcário metamórfico (mármore)
+2171	Rocha metamórfica básica: anfibólito
+2172	Rocha metamórfica básica: eclogito
+2173	Rocha metamórfica ultrabásica
+2174	Rocha metamórfica ultrabásica: serpentina, greenstone
+2175	Rocha sedimentar
+2176	Sedimentos clásticos
+2177	Sedimentos clásticos: conglomerados, brechas
+2178	Sedimentos clásticos: arenito, grauvaques, arcósio, arenito (arenite)
+2179	Sedimentos clásticos: siltito, argilito (mudstone), argilito
+2180	Sedimentos clásticos: argilito (shale)
+2181	Sedimentos clásticos: ironstone
+2182	Orgânica (rocha sedimentar)
+2183	Orgânica (rocha sedimentar): calcário, outras rochas carbonáticas
+2184	Orgânica (rocha sedimentar): marga e outras misturas
+2185	Orgânica (rocha sedimentar): carvões, betume e rochas relacionadas
+2186	Evaporitos
+2187	Evaporitos: anidrita, gipsita
+2188	Evaporitos: halita
+2189	Rocha sedimentar (não-consolidada)
+2190	Resíduo intemperizado
+2191	Resíduo intemperizado: bauxita, laterita
+2192	Rocha sedimentar (não-consolidada): fluvial
+2193	Rocha sedimentar (não-consolidada): fluvial - areia e cascalho
+2194	Rocha sedimentar (não-consolidada): fluvial - argila, silte e greda
+2195	Rocha lacustre não-consolidada
+2196	Rocha lacustre não-consolidada - areia
+2197	Rocha lacustre não-consolidada - silte e argila
+2198	Rocha marinha e estuarina não-consolidada
+2199	Rocha marinha e estuarina não-consolidada - areia
+2200	Rocha marinha e estuarina não-consolidada - argila e silte
+2201	Rochas coluviais não-consolidadas
+2202	Rochas coluviais não-consolidadas - depósitos de encosta
+2203	Rochas coluviais não-consolidadas - lahar
+2204	Rocha eólica não-consolidada
+2205	Rocha eólica não-consolidada - loess
+2206	Rocha eólica não-consolidada - areias
+2207	Rocha glacial não-consolidada
+2208	Rochas glacial não-consolidadas - depósitos de morena/moraina
+2209	Rocha glacial não-consolidada - areias glaciofluviais
+2210	Rocha glacial não-consolidada - cascalho glaciofluvial
+2211	Rocha criogênica não-consolidada
+2212	Rocha criogênica não-consolidada - detritos rochosos periglaciais
+2213	Rocha criogênica não-consolidada - materiais periglaciais de solifluxão de rocha
+2214	Rocha orgânica não-consolidada
+2215	Rocha orgânica não-consolidada - turfeira alimentada pela água da chuva
+2216	Rocha orgânica não-consolidada - turfeira alimentada por água subterrânea
+2217	Rocha sedimentar antropogênica
+2218	Rocha sedimentar antropogênica - materiais naturais redepositados
+2219	Rocha sedimentar antropogênica - depósitos industriais/artesanais
+2220	Rocha sedimentar (não-consolidada) - não especificado
+2221	Rocha sedimentar (não-consolidada) - sedimentos não especificados
+2222	Hipergélico
+2223	Subgélico
+2224	Clima temperado frio - verão seco, quente
+2225	Clima temperado ameno e chuvoso - inverno seco
+2226	Rocha não-consolidada: laterita endurecida e materiais ferruginosos
+2227	Rocha não-consolidada: laterita macia e materiais ferruginosos
+2228	Clima temperado ameno e chuvoso - sem estação seca distinta
+2229	Clima temperado ameno e chuvoso - verão seco
+2230	Clima temperado frio - invernos úmidos
+2231	Clima temperado frio - verão seco
+2232	Fraca
+2233	Moderada
+2234	Forte
+2235	Fraca a moderada
+2236	Moderada a forte
+2237	Areia, indiferenciada
+2238	Muito fraco
+2239	Muito forte
+2240	Várzea (plano) em terreno ondulado a montanhoso
+2241	Grossa (> 20mm)
+2242	Blocos
+2243	Grumos, aglomerados e torrões
+2244	Granular
+2245	Laminar
+2246	Prismática
+2247	Estrutura da rocha
+2249	Areia
+2250	Areia-franca
+2251	Franco-arenosa
+2252	Franco-argilo-arenosa
+2253	Franco-siltosa
+2254	Franco-argilo-siItosa
+2255	Franco-argilosa
+2256	Franca
+2257	Silte
+2258	Argilo-arenosa
+2259	Argilossiltosa
+2260	Argila
+2261	Janeiro
+2262	Fevereiro
+2263	Março
+2264	Abril
+2265	Maio
+2266	Junho
+2267	Julho
+2268	Agosto
+2269	Setembro
+2270	Outubro
+2271	Novembro
+2272	Dezembro

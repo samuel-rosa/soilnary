@@ -1,2242 +1,2242 @@
-DomainValueId;Description
-2264;April
-2265;May
-2266;June
-2267;July
-802;Rock structure
-803;Stratified structure
-804;Single grain
-805;Massive
-806;Porous massive
-807;Blocky
-808;Angular blocky
-809;Angular blocky (parallelepiped)
-810;Angular and subangular blocky
-811;Angular blocky (wedge-shaped)
-812;Subangular and angular blocky
-813;Subangular blocky
-814;Nutty subangular blocky
-815;Prismatic
-816;Subangular prismatic
-817;Wedge-shaped
-818;Columnar
-819;Granular
-820;Worm casts
-821;Platy
-822;Cloddy
-823;Crumbly
-824;Lumpy
-825;Very fine / thin
-826;Fine/thin
-827;Medium
-828;Coarse / thick
-829;Very coarse / thick
-830;Extremely coarse
-831;Very fine and fine
-832;Very fine to medium
-833;Fine and medium
-834;Fine to coarse
-835;Medium and coarse
-836;Medium to very coarse
-837;Coarse and very coarse
-838;Loose
-839;Soft
-840;Extremely hard
-841;soft to slightly hard
-842;slightly hard to hard
-843;hard to very hard
-844;Loose
-845;Very friable
-846;Friable
-1000;Yellowish red
-2268;August
-2269;September
-2270;October
-2271;November
-2272;December
-847;Firm
-848;Very firm
-849;Extremely firm
-850;very friable to friable
-1;Flat
-2;Level
-3;Nearly level
-4;Very gently sloping
-5;Gently sloping
-6;Sloping
-1754;Marl
-7;Strongly sloping
-8;Moderately steep
-9;Steep
-10;Very steep
-11;Barley
-12;Maize
-13;Millet
-14;Rice (flooded)
-15;Rice (upland)
-16;Sorghum
-17;Wheat
-18;Coconut
-19;Groundnut
-20;Oilpalm
-21;Soyabean
-22;Sunflower
-23;Cassava
-24;Potato
-25;Yams
-26;Cotton
-27;Vegetables
-28;Beans
-29;Peas
-30;Cocoa
-31;Coffee
-32;Tea
-33;Tobacco
-34;Sugar cane
-35;Rubber
-283;rain
-303;Aquic
-535;None
-2249;Sand
-2250;Loamy sand
-36;Mountain
-37;Hill
-38;Upland
-39;Plain
-40;Plateau
-41;Basin
-42;Valley
-43;Alluvial plain
-44;Coastal plain
-45;Lacustrine plain
-46;Glacial plain
-47;Peneplane
-48;Pediment
-49;Volcano
-50;Dunefield
-51;Delta
-52;Tidal flat
-53;Playa
-54;Interfluve
-55;Valley
-56;Valley floor
-57;Channel
-58;Levee
-59;Terrace
-60;Floodplain
-61;Lagoon
-62;Pan
-63;Coral reef
-64;Caldera
-65;Depression
-66;Dune
-67;Longitudinal dune
-68;Interdunal depression
-69;Slope
-70;Ridge
-71;Beachridge
-72;Cashew
-73;Cowpea
-74;Fruit trees
-75;Rice
-76;Sweet potato
-77;Aeolian deposits (uspecified)
-78;Aeolian sand
-79;Littoral deposits
-80;Lagoon deposits
-81;Marine deposits
-82;Lacustrine deposits
-83;Fluvial deposits
-84;Alluvial deposits
-85;Volcanic ash
-86;Loess
-87;Pyroclastic deposits
-88;Glacial deposits
-89;Organic deposits
-90;Colluvial deposits
-91;In situ weathered
-92;Saprolite
-93;Unconsolidated (unspecified)
-94;Anthraquic
-95;Duripan
-96;Fragipan
-97;Gelundic
-98;Gilgai
-99;Inundic
-100;Lithic
-101;Petroferric
-102;Phreatic
-103;Placic
-104;Rudic
-105;Salic
-106;Skeletic
-107;Sodic
-108;Takyric
-109;Yermic
-110;Flat (0%-0.5%)
-111;Almost flat (0.5%-2%)
-112;Gently undulating (2%-5%)
-113;Undulating (5%-10%)
-114;Rolling (10%-15%)
-115;Hilly (15%-30%)
-116;Steeply dissected (> 30%, moderate range of elevation)
-117;Mountainous (> 30%, great range of elevation (> 300 m))
-118;No micro-relief - surface is (nearly) level
-119;Gilgai (unspecified)
-120;Low gilgai - height difference (within 10 m) < 20 cm
-121;Medium gilgai - height difference (within 10 m) 20-40 cm
-122;High gilgai - height difference (within 10 m) > 40 cm
-123;Termite or ant mounds
-124;Animal tracks
-125;Animal burrows
-126;Hummocks (unspecified)
-127;Low hummocks - height difference < 20 cm
-128;Medium hummocks - height difference 20-40 cm
-129;High hummocks - height difference > 40 cm
-130;Shifting sands
-131;Terracettes
-132;Ripples
-133;No cover
-134;0%-15%
-135;15%-40%
-136;40%-80%
-137;> 80%
-138;Acid igneous/metamorphic rock
-139;Granite
-305;Udic
-140;Gneiss
-2262;February
-141;Granite/gneiss
-142;Quartzite
-143;Schist
-144;Andesite
-145;Diorite
-146;Basic igneous/metamorphic rock
-147;Ultra basic rock
-148;Gabbro
-149;Basalt
-150;Dolerite
-151;Volcanic rock
-152;Sedimentary rock
-153;Limestone
-154;Dolomite
-155;Sandstone
-156;Quartzitic sandstone
-157;Shale
-158;Marl
-159;Travertine
-160;Conglomerate
-161;Siltstone
-162;Tuff
-163;Pyroclastic rock
-164;Evaporite
-165;Gypsum rock
-166;Not known
-167;Very shallow (< 30 cm)
-168;Shallow (30-50 cm)
-169;Moderately deep (50-100 cm)
-170;Deep (100-150 cm)
-171;Very deep (> 150 cm)
-172;Excessively well drained
-173;Somewhat excessively well drained
-174;Well drained
-175;Moderately well drained
-176;Imperfectly drained
-177;Poorly drained
-178;Very poorly drained
-179;Less than 1 day
-180;1-15 days
-181;15-30 days
-182;30-90 days
-183;90-180 days
-184;180-360 days
-185;Continuously
-186;None
-187;Daily
-188;Weekly
-189;Monthly
-190;Annually
-191;Biennually
-192;Once every 2-4 years
-193;Once every 5-10 years
-194;Rare (less than once in every 10 years)
-195;Unknown
-196;Never saturated (well drained)
-197;Rarely saturated (a few days in some years)
-198;Saturated for short periods in most years (up to 30 days)
-199;Saturated for long periods every year
-200;Always saturated (very poorly drained)
-201;Not known
-202;Extremely slow (< 0.06 cm/h)
-203;Very slow (0.06 - 0.2 cm/h)
-204;Slow (0.2 - 0.6 cm/h)
-205;Moderately slow (0.6 - 2.0 cm/h)
-206;Moderately rapid (2.0 - 6.0 cm/h)
-207;Rapid (6 - 20 cm/h)
-208;Very rapid (> 20 cm/h)
-209;Ponded (run-on site)
-210;Neither receiving nor shedding water
-211;Slow run-off
-212;Moderately rapid run-off
-213;Rapid run-off
-214;Very shallow (0-25 cm)
-215;Shallow (25-50 cm)
-216;Moderately deep (50-100 cm)
-217;Deep (100-150 cm)
-218;Very deep (> 150 cm)
-219;Very shallow (0-25 cm)
-220;Shallow (25-50 cm)
-221;Moderately deep (50-100 cm)
-222;Deep (100-150 cm)
-223;Very deep (> 150 cm)
-224;Not observed
-225;Shallow phreatic water (2-3 m)
-226;Moderately deep phreatic water (3-5 m)
-227;Deep phreatic water (5-8 m)
-228;Extremely deep phreatic water (> 8 m)
-229;Not known
-230;Saline
-231;Brackish
-232;Fresh
-233;Polluted
-234;Oxygenated
-235;Stagnating
-236;Dry
-237;Slightly moist
-238;Moist
-239;Wet
-240;Very fine
-241;Tree and shrub cropping
-242;Fine
-243;Medium
-244;Coarse
-245;Very coarse
-246;Fine and very fine
-247;Fine and medium
-248;Fine to coarse
-249;Medium and coarse
-250;Medium to very coarse
-251;Coarse and very coarse
-252;Clay
-253;Clay and sesquioxides
-254;Clay and humus (organic matter)
-255;Pressure faces
-256;Slickensides, non intersecting
-257;Slickensides, partly intersecting
-258;Slickensides, predominantly intersecting
-259;Shiny faces (as in nitic properties)
-260;No evidence of erosion
-261;Wind erosion or deposition
-262;Wind (aeolian) erosion or deposition
-263;Mass movement (landslides and similar phenomena)
-264;Not known
-265;Sheet erosion
-266;Rill erosion
-267;Gully erosion
-268;Tunnel erosion
-269;Deposition by water
-2263;March
-270;Water and wind erosion
-271;Wind deposition
-272;Wind erosion and deposition
-273;Shifting sands
-274;Salt deposition
-275;Very fine sand
-276;Fine sand
-277;Coarse sand
-278;Medium sand
-279;Unsorted sand
-280;sunny/clear
-281;partly cloudy
-282;overcast
-284;sleet
-285;snow
-286;no rain in the last month
-287;no rain in the last week
-288;no rain in the last 24 hours
-289;rainy without heavy rain in the last 24 hours
-290;heavier rain for some days or rainstorms in the last 24 hours
-291;extremely rainy time or snow melting
-292;Pergelic
-293;Cryic
-294;Frigid
-295;Isofrigid
-296;Melons
-297;Mesic
-298;Isomesic
-299;Thermic
-334;Irrigated cultivation
-300;Isothermic
-301;Hyperthermic
-302;Isohyperthermic
-304;Peraquic
-306;Perudic
-307;Ustic
-308;Xeric
-309;Aridic
-310;Torric
-2238;Very weak
-311;Reference profile description
-312;Reference profile description
-313;Routine profile description
-314;Routine profile description
-315;Not used and not managed
-316;Cereals
-317;Barley
-318;Brownish
-319;Incomplete description
-320;Incomplete description
-321;Soil augering description
-322;Soil augering description
-323;Other descriptions
-324;Crop agriculture (cropping)
-325;Annual field cropping
-326;Shifting cultivation
-327;Fallow system cultivation
-328;Ley system cultivation
-329;Rainfed arable cultivation
-330;Wet rice cultivation
-331;Irrigated cultivation
-332;Perennial field cropping
-333;Non-irrigated cultivation
-335;Non-irrigated tree crop cultivation
-336;Irrigated tree crop cultivation
-337;Non-irrigated shrub crop cultivation
-338;Irrigated shrub crop cultivation
-339;Traditional rainfed arable cultivation
-340;Improved traditional rainfed arable cultivation
-341;Mechanized traditional rainfed arable cultivation
-342;Commercial rainfed arable cultivation
-343;Unspecified rainfed arable cultivation
-344;Mixed farming
-345;Agroforestry
-346;Agropastoralism
-347;Animal husbandry
-348;Extensive grazing
-349;Nomadism
-2239;Very strong
-350;Semi-nomadism
-351;Ranching
-352;Intensive grazing
-353;Animal production
-354;Dairying
-355;Forestry
-356;Natural forest and woodland
-357;Selective felling
-358;Clear felling
-359;Plantation forestry
-360;Nature protection
-361;Nature and game preservation
-362;Reserves
-363;Parks
-364;Wildlife management
-365;Degradation control
-366;Without interference
-367;With interference
-368;Settlement, industry
-369;Residential use
-370;Industrial use
-371;Transport
-372;Recreational use
-373;Excavations
-374;Disposal sites
-375;Military area
-376;Other land uses
-377;Maize (cereal)
-378;Millet
-379;Oats
-380;Rice, paddy
-381;Rice, dry
-382;Rye
-383;Sorghum
-384;Wheat
-385;Oilcrops
-386;Coconuts
-387;Groundnuts
-388;Linseed
-389;Olives
-390;Oil-palm
-391;Rape
-392;Sesame
-393;Soybeans
-394;Sunflower
-395;Fodder plants
-396;Alfalfa
-397;Clover
-398;Grasses
-399;Hay
-400;Leguminous
-401;Maize (fodder plant)
-402;Pumpkins
-403;Roots and tubers
-404;Cassava
-405;Potatoes
-406;Sugar beets
-407;Yams
-408;Fruits and melons
-409;Apples
-410;Bananas
-411;Citrus
-412;Grapes, Wine, Raisins
-413;Mangoes
-414;Fibre crops
-415;Cotton
-416;Jute
-417;Vegetables
-418;Pulses
-419;Beans
-420;Lentils
-421;Peas
-422;Semi-luxury foods and tobacco
-423;Cocoa
-424;Coffee
-425;Tea
-426;Tobacco
-427;Other crops
-428;Sugar cane
-429;Rubber
-430;Palm (fibres, kernels)
-431;No influence
-432;Not known
-433;Vegetation slightly disturbed
-434;Vegetation moderately disturbed
-435;Vegetation strongly disturbed
-436;Vegetation disturbed (not specified)
-437;Sprinkler irrigation
-438;Furrow irrigation
-439;Drip irrigation
-440;Flood irrigation
-441;Border irrigation
-442;Irrigation (not specified)
-443;Artificial drainage
-444;Application of fertilizers
-445;Landfill (also sanitary)
-446;Levelling
-447;Archaeological (burial mound, midden)
-448;Impact crater
-449;Bunding
-450;Burning
-451;Terracing
-452;Ploughing
-453;Plaggen
-454;Dwarf shrub
-455;Raised beds (agricultural purposes)
-456;Raised beds (engineering purposes)
-457;Sand additions
-458;Mineral additions (not specified)
-459;Organic additions (not specified)
-460;Pollution
-461;Clearing
-462;Surface compaction
-463;Scalped area
-464;Borrow pit
-465;Dump (not specified)
-466;Mine (surface, including openpit, gravel and quarries)
-467;Very young (1–10 years) natural: with loss by erosion or deposition of materials such as on tidal flats, of coastal dunes, in river valleys, landslides or desert areas.
-468;Very young (1–10 years) anthropogeomorphic: with complete disturbance of natural surfaces (and soils) such as in urban, industrial and mining areas with very early soil development from fresh natural or technogenic or mixed materials.
-469;Young (10–100 years) natural: with loss by erosion or deposition of materials such as on tidal flats, of coastal dunes, river valleys, landslides or desert areas.
-470;Young (10–100 years) anthropogeomorphic: with complete disturbance of any natural surfaces (and soils) such as in urban, industrial and mining areas with early soil development from fresh natural, technogenic or a mixture of materials, or restriction of flooding by dykes.
-471;Holocene (100–10 000 years) natural: with loss by erosion or deposition of materials such as on tidal flats, of coastal dunes, in river valleys, landslides or desert areas.
-472;Holocene (100–10 000 years) anthropogeomorphic: human-made relief modifications, such as terracing of forming hills or walls by early civilizations or during the Middle Ages or earlier, restriction of flooding by dykes, or surface raising.
-473;Late Pleistocene, ice covered, commonly recent soil formation on fresh materials.
-474;Late Pleistocene, periglacial, commonly recent soil formation on preweathered materials.
-475;Late Pleistocene, without periglacial influence.
-476;Older Pleistocene, ice covered, commonly the recent soil formation on younger over older, preweathered materials.
-477;Older Pleistocene, with periglacial influence, commonly the recent soil formation on younger over older, preweathered materials.
-478;Older Pleistocene, without periglacial influence.
-479;Deep (10-20 cm)
-480;Tertiary land surfaces, commonly high planes, terraces or peneplains, except incised valleys, frequent occurrence of palaeosoils.
-481;Older, pre-Tertiary land surfaces, commonly high planes, terraces or peneplains, except incised valleys, frequent occurrence of palaeosoils.
-482;Straight
-483;Concave
-484;Convex
-485;Terraced
-486;Complex (Irregular)
-487;None (0%)
-488;Very few (0%-2%)
-489;Few (2%-5%)
-490;Common (5%-15%)
-491;Many (15%-40%)
-492;Abundant (40%-80%)
-493;Dominant (> 80%)
-494;> 50 m
-495;20-50 m
-496;5-20 m
-497;2-5 m
-498;< 2 m
-499;Fine gravel (0.2-0.6 cm)
-500;Medium gravel (0.6-2.0 cm)
-501;Coarse gravel (2-6 cm)
-502;Stones (6-20 cm)
-503;Boulders (20-60 cm)
-504;Large boulders (60-200 cm)
-505;No evidence of erosion
-506;Water erosion or deposition
-507;Sheet erosion
-508;Rill erosion
-509;Gully erosion
-510;Tunnel erosion
-511;Deposition by water
-512;Wind and water erosion
-513;Mass movement (landslides and similar phenomena)
-514;Not known
-515;Wind (aeolian) erosion or deposition
-516;Wind deposition
-517;Wind erosion and deposition
-518;Shifting sands
-519;Salt deposition
-520;0%
-521;0%-5%
-522;5%-10%
-523;10%-25%
-524;25%-50%
-525;> 50%
-526;Slight
-527;Moderate
-528;Severe
-529;Extreme
-530;Active at present
-531;Active in recent past (previous 50-100 years)
-532;Active in historical times
-533;Period of activity not known
-534;Accelerated and natural erosion not distinguished
-536;Thin (< 2 mm)
-537;Medium (2-5 mm)
-538;Thick (5-20 mm)
-539;Very thick (> 20 mm)
-540;Slightly hard
-541;Hard
-542;Very hard
-543;Extremely hard
-544;Fine (< 1 cm)
-545;Medium (1-2  cm)
-546;Wide (2-5 mm)
-547;Very wide (5-10 cm)
-548;Extremely wide (> 10 cm)
-549;Very closely spaced (< 0.2 m)
-550;Closely space (0.2-0.5 m)
-551;Moderately widely spaced (0.5-2.0 m)
-552;Widely spaced (2-5 m)
-553;Very widely spaced (> 5 m)
-554;Surface (< 2 cm)
-555;Medium (2-10 cm)
-556;Very deep (> 20 cm)
-557;None (0-2%)
-558;Low (2-15%)
-559;Moderate (15-40%)
-560;High (40-80%)
-561;Dominant (> 80%)
-562;No vegetation
-563;Grassland (grasses, subordinate forbs, no woody species)
-564;Forbland (herbaceous plants predominant)
-565;Savanna (grasses with a discontinuous layer of trees or shrubs))
-566;Closed forest (continuous tree layer, crowns overlapping, large number of tree and shrub species in distinct layers)
-567;Evergreen broad-leaved forest
-568;Coniferous forest
-569;Semi-deciduous forest
-570;Deciduous forest
-571;Xeromorphic forest
-572;Woodland (continuous tree layer, crowns usually not touching, understorey may be present)
-573;Evergreen woodland
-574;Semi-deciduous woodland
-575;Deciduous woodland
-576;Xeromorphic woodland
-577;Shrub
-578;Evergreen shrub
-579;Semi-deciduous shrub
-580;Deciduous shrub
-581;Xeromorphic shrub
-582;Evergreen dwarf shrub
-583;Semi-deciduous dwarf shrub
-584;Deciduous dwarf shrub
-585;Xermomorphic dwarf shrub
-586;Tundra
-587;Herbaceous
-588;Tall grassland
-589;Medium grassland
-590;Short grassland
-591;Forb
-592;Rainwater-fed moor peat
-593;Groundwater-fed bog peat
-594;Crest (summit) in undulating to mountainous terrain
-595;Upper slope (shoulder) in undulating to mountainous terrain
-596;Middle slope (back slope) in undulating to mountainous terrain
-597;Lower slope (foot slope) in undulating to mountainous terrain
-598;Toe slope in undulating to mountainous terrain
-600;Higher part (rise) in flat or almost flat terrain
-601;Intermediate part (talf) in flat or almost flat terrain
-602;lower part (and dip) in flat or almost flat terrain
-603;Bottom (drainage line) in flat or almost flat terrain
-655;Abundant (40-80%)
-604;Level land
-658;Fine gravel (2-6 mm)
-605;Plain
-606;Plateau
-607;Depression
-608;Valley floor
-609;Sloping land
-610;Medium-gradient escarpment zone
-611;Medium-gradient hill
-612;Medium-gradient mountain
-613;Dissected plain
-614;Medium-gradient valley
-615;Steep land
-616;High-gradient escarpment zone
-617;High-gradient hill
-618;High-gradient mountain
-619;High-gradient valley
-620;Abrupt (0-2 cm)
-621;Clear (2-5 cm)
-622;Gradual (5-15 cm)
-623;Diffuse (> 15 cm)
-624;"Smooth; nearly plane surface"
-625;"Wavy; pockets less deep than wide"
-626;"Irregular; pockets more deep than wide"
-627;"Broken; discontinuous"
-628;Sand (unspecified)
-629;Loamy sand
-630;Sandy loam
-631;Sandy clay loam
-632;Silt loam
-633;Silty clay loam
-634;Clay loam
-635;Loam
-636;Silt
-637;Sandy clay
-638;Silty clay
-639;Clay
-640;Heavy clay
-641;Very fine sand
-642;Fine sand
-643;Medium sand
-644;Coarse sand
-645;Loamy very fine sand
-646;Loamy fine sand
-647;Loamy coarse sand
-648;Fine sandy loam
-649;Coarse sandy loam
-650;None (0%)
-651;Very few (0-2%)
-652;Few (2-5%)
-653;Common (5-15%)
-654;Many (15-40%)
-656;Dominant (> 80%)
-657;Stone line (any content, but concentrated at a distinct depth of a horizon)
-659;Fine and medium gravel 2-20 mm)
-660;Medium gravel (6-20 mm)
-661;Medium and coarse gravel (6-60 mm)
-662;Coarse gravel (20-60 mm)
-663;Coarse gravel and stones (20-200 mm)
-664;Stones (60-200 mm)
-665;Stones and boulders (60-600 mm)
-666;Boulders (200-600 mm)
-667;Boulders and large boulders (> 200 mm)
-668;Large boulders (> 600 mm)
-669;Very fine artefacts (< 2 mm)
-670;Very fine and fine artefacts (< 6 mm)
-671;Fine artefacts (2-6 mm)
-672;Fine and medium artefacts (2-20 mm)
-673;Medium artefacts (6-20 mm)
-674;Medium and coarse artefacts (> 6 mm)
-675;Coarse artefacts (> 20 mm)
-676;Flat
-677;Angular
-678;Subrounded
-679;Rounded
-680;Fresh or slightly weathered
-681;Weathered
-682;Strongly weathered
-683;Igneous rock
-684;Acid igneous rock
-685;Acid igneous rock: granite
-686;Acid igneous rock: grano-diorite
-687;Acid igneous rock: quartz-diorite
-688;Acid igneous rock: rhyiolite
-689;Intermediate igneous rock
-690;Intermediate igneous rock: andesite, trachyte, phonolite
-691;Intermediate igneous rock: diorite-syenite
-692;Basic igneous rock
-693;Intermediate igneous rock: gabbro
-694;Intermediate igneous rock: basalt
-695;Intermediate igneous rock: dolerite
-696;Ultrabasic igneous rock
-697;Ultrabasic igneous rock: peridotite
-698;Ultrabasic igneous rock: pyroxenite
-699;Ultrabasic igneous rock: ilmenite, magnetite, ironstone, serpentine
-700;Metamorphic rock
-701;Acid metamorphic rock
-702;Acid metamorphic rock: quartzite
-703;Acid metamorphic rock: gneiss, migmatite
-704;Acid metamorphic rock: slate, phyllite, (pellitic rocks)
-705;Acid metamorphic rock: schist
-706;Basic metamorphic rock
-707;Basic metamorphic rock: slate, phyllite (pelitic rocks)
-708;Basic metamorphic rock: schist
-709;Basic metamorphic rock: gneiss rich in ferro-magnesian minerals
-710;Basic metamorphic rock: metamorphic limestone (marble)
-711;Sedimentary rock
-712;Clastic sediments
-713;Clastic sediments: conglomerate, breccia
-714;Clastic sediments: sandstone, greywacke, arkose
-715;Clastic sediments: siltstone, mudstone, claystone
-716;Clastic sediments: shale
-717;Clastic sediments: ironstone
-2251;Sandy loam
-718;Sedimentary organic rock
-719;Sedimentary organic rock: limestone, other carbonate rocks
-720;Sedimentary organic rock: marl and other mixtures
-721;Sedimentary organic rock: coals, bitumen & related rocks
-722;Evaporites
-723;Evaporites: anhydrite, gypsum
-724;Evaporites: halite
-725;Unconsolidated rock
-726;Unconsolidated rock: fluvial
-727;Unconsolidated rock: lacustrine
-728;Unconsolidated rock: marine
-729;Unconsolidated rock: colluvial
-730;Unconsolidated rock: eolian
-731;Unconsolidated rock: glacial
-732;Unconsolidated rock: pyroclastic
-733;Unconsolidated rock: organic
-734;Primary mineral fragments: quartz
-735;Primary mineral fragments: quartzite
-736;Primary mineral fragments: chert
-737;Primary mineral fragments: mica
-738;Primary mineral fragments: feldspar
-739;Primary mineral fragments: granite
-740;Fibric, degree of decomposition/humification is very low
-741;Fibric, degree of decomposition/humification is low
-742;Fibric, degree of decomposition/humification is moderate
-743;Hemic, degree of decomposition/humification is strong
-744;Medium (2–5 mm)
-745;Hemic, degree of decomposition/humification is moderately strong
-746;Sapric, degree of decomposition/humification is very strong
-789;Moderate
-747;Raw humus (aerpmorphic mor
-748;Reddish brown
-749;Moder (duff mull)
-750;Mull
-751;None (0%)
-752;Very few (0-2%)
-753;Few (2-5%)
-754;Common (5-15%)
-755;Many (15-40%)
-756;Abundant (> 40%)
-757;Very fine (< 2 mm)
-758;Fine (2-6 mm)
-759;Medium (6-20 mm)
-2261;January
-761;Faint
-762;Distinct
-763;Prominent
-764;Sharp (< 0.5 mm)
-765;Clear (0.5-2 mm)
-766;Diffuse (> 2 mm)
-767;Non-calcareous (0%)
-768;Slightly calcareous (0–2%)
-769;Moderately calcareous (2–10%)
-770;Strongly calcareous (10–25%)
-771;Extremely calcareous (> 25%)
-772;Soft concretions
-773;Hard concretions
-774;Hard hollow concretions
-775;Disperse powdery lime
-776;Pseudomycelia (carbonate infillings in pores, resembling mycelia)
-777;Marl layer
-778;Hard cemented layer or layers of carbonates (less than 10 cm thick)
-779;Non-gypsiric (0%)
-780;Slightly gypsiric (0–5%)
-781;Moderately gypsiric (5–15%)
-782;Strongly gypsiric (15–60%)
-783;Extremely gypsiric (> 60%)
-784;Soft concretions
-785;Disperse powdery gypsum
-786;“Gazha” (clayey water-saturated layer with high gypsum content)
-787;Hard cemented layer or layers of gypsum (less than 10 cm thick)
-788;Weak
-790;Strong
-791;Slightly hard
-792;Hard
-793;Very hard
-794;Weak to moderate
-888;Planes
-795;Moderate to strong
-851;friable to firm
-852;firm to very firm
-853;Non-sticky
-854;Slightly sticky
-855;Sticky
-856;Very sticky
-857;slightly sticky to sticky
-858;sticky to very sticky
-859;Non-plastic
-860;Slightly plastic
-861;Plastic
-862;Very plastic
-863;slightly plastic to plastic
-864;plastic to very plastic
-865;Very dry
-866;Dry
-867;Slightly moist
-868;Moist
-869;Wet
-870;Very wet
-871;Soils fingers, is cohesive (sticky), is formable, has a high plasticity and has a shiny surface after squeezing between fingers.
-872;Soils fingers, is non-sticky, only weakly formable, has a rough and ripped surface after squeezing between fingers and feels very floury (like talcum powder).
-873;Cannot be formed, does not soil fingers and feels very grainy.
-874;Very low (< 2%)
-875;Low (2-5%)
-876;Medium (5-15%)
-877;High (15-40%)
-878;Very high (> 40%)
-879;Interstitial
-880;Primary breaking to secondary structure
-881;Both structures present
-882;One structure merging into the other
-883;Vesicular
-884;Discontinuous
-885;Vughs
-886;Coarse (> 5 mm)
-887;Channels
-889;Very fine (< 0.5 mm)
-890;Fine (0.5-2 mm)
-891;Medium (2-5 mm)
-892;Coarse (5-20 mm)
-893;Very coarse (20-50 mm)
-894;None
-895;Very few
-896;Few
-897;Common
-898;Many
-899;Fine and medium (0.5-5 mm)
-900;Fine and very fine (< 2 mm)
-901;Medium and coarse (2-20 mm)
-902;Faint
-903;Distinct
-904;Prominent
-905;Clay
-906;Sesquioxides
-907;Humus
-908;Clay and sesquioxides
-909;Clay and humus (organic matter)
-910;Calcium carbonate
-911;Gibbsite
-912;Hypodermic coatings
-913;Jarosite
-914;Manganese
-915;Silica (opal)
-916;Sand coatings
-917;Silt coatings
-918;Shiny faces (as in nitic horizon)
-919;Pressure faces
-920;Slickensides, predominantly intersecting
-921;Slickensides, partly intersecting
-922;Slickensides, non intersecting
-923;Continuous
-924;Continuous irregular (non-uniform, heterogeneous)
-925;Discontinuous irregular
-926;Dendroidal
-927;Discontinuous circular
-928;Other
-929;Pedfaces
-930;Vertical pedfaces
-931;Horizontal pedfaces
-932;Coarse fragments
-933;Lamellae (clay bands)
-934;Voids
-935;Bridges between sand grains
-936;No specific location
-937;Broken
-938;Continuous
-1001;Brown
-939;Platy
-940;Vesicular
-942;Nodular
-943;Carbonates
-944;Silica
-945;Carbonates–silica
-946;Iron
-947;Iron–manganese (sesquioxides)
-948;Iron–organic matter
-949;Ice
-950;Gypsum
-951;Clay
-952;Clay–sesquioxides
-953;Mechanical
-954;Ploughing
-955;Not known
-956;Non-cemented and non-compacted
-957;Compacted but non-cemented
-958;Weakly cemented
-959;Moderately cemented
-960;Cemented
-961;Indurated
-962;Crystal
-963;Concretion
-964;Soft concretion
-965;Soft segregation (or soft accumulation)
-966;Nodule
-967;Pore infillings
-968;Crack infillings
-969;Residual rock fragment
-970;Other
-971;Very fine (< 2 mm)
-972;Fine (2–6 mm)
-973;Medium (6–20 mm)
-974; Coarse (> 20 mm)
-975;Rounded (spherical)
-976;Elongated
-977;Flat
-978;Irregular
-979;Angular
-980;Hard
-981;Soft
-982;Both hard and soft
-983;Carbonates (calcareous)
-984;Carbonates–silica
-985;Clay (argillaceous)
-986;Clay–sesquioxides
-987;Gypsum (gypsiferous)
-988;Salt (saline)
-989;Gibbsite
-990;Jarosite
-991;Sulphur (sulphurous)
-992;Silica (siliceous)
-993;Iron (ferruginous)
-994;Iron–manganese (sesquioxides)
-995;Manganese (manganiferous)
-996;Not known
-997;White
-998;Red
-999;Reddish
-1002;Yellowish brown
-1003;Yellow
-1004;Reddish yellow
-1005;Greenish, green
-1006;Grey
-1007;Greyish
-1008;Blue
-1009;Bluish-black
-1010;Black
-1011;Multicoloured
-1012;Very fine (< 0.5 mm)
-1013;Fine (0.5–2 mm)
-1014;Very fine and fine (< 2 mm)
-1015;Fine and medium (0.5–5 mm)
-1016;Medium and coarse (> 2 mm)
-1017;None
-1018;Very few
-1019;Few
-1020;Common
-1021;Many
-1022;None
-1023;Few
-1024;Common
-1025;Many
-1026;Artefacts
-1027;Burrows (unspecified)
-1028;Open large burrows
-1029;Infilled large burrows
-1030;Charcoal
-1031;Earthworm channels
-1032;Pedotubules
-1033;Termite or ant channels and nests
-1034;Other insect activity
-1035;Artesanal natural material
-1036;Industrial dust
-1037;Mixed material
-1038;Organic garbage
-1039;Pavements and paving stones
-1040;Synthetic liquid
-1041;Synthetic solid
-1042;Waste liquid
-1043;None
-1044;Cuesta-shaped
-1045;Ridged
-1046;Inselberg covered (occupying > 1% of level land)
-1047;With intermontane plains (occupying > 15%)
-1048;With wetlands (occupying > 15%)
-1049;Dome-shaped
-1050;Terraced
-1051;Dune-shaped
-1052;Strong karst
-1053;None
-1054;Petrochemical
-1055;Sulphurous
-1056;Positive indication for andic characteristics
-1057;No indication for andic characteristics
-1058;Level land
-1059;Plain (gradient < 8%, relief intensity < 100 m/km)
-1129;Ultrabasic igneous rock: ilmenite, magnetite, ironstone, serpentine
-1130;Metamorphic rock
-1131;Acid metamorphic rock
-1060;Plateau (gradient < 8%, relief intensity < 100 m/km)
-1061;Major depression (gradient > 8%)
-1062;Depression (gradient < 8%, relief intensity < 100 m/km)
-1063;Low-gradient footslope (gradient < 8%, relief intensity < 100 m/km)
-1064;Valley floor (gradient < 8%, relief intensity < 100 m/km)
-1065;Very low level (plain etc.): < 300 m for level lands and sloping lands with a relief intensity < 50 m/slope unit
-1066;No visible evidence of erosion
-1067;Sloping land
-1068;Medium-gradient mountain (gradient 15-30%, relief intensity > 600 m/2 km)
-1069;Medium-gradient hill (gradient 8-30%, relief intensity > 50 m/slope unit)
-1070;Medium-gradient escarpment zone (gradient 15-30%, relief intensity < 600 m/2 km)
-1071;Ridges (gradient 8-30%, relief intensity > 50 m/slope unit)
-1072;Mountainous highland (gradient 15-30%, relief intensity > 600 m/2 km)
-1073;Dissected plain (gradient 8-30%, relief intensity < 50 m/slope unit)
-1074;Steep land
-1117;Acid igneous rock: quartz-diorite
-1118;Acid igneous rock: rhyiolite
-1075;High-gradient mountain (gradient > 30%, relief intensity > 600 m/2 km)
-1076;High-gradient hill (gradient > 30%, relief intensity < 600 m/2 km)
-1077;High-gradient escarpment zone (gradient > 30%, relief intensity > 600 m/2 km)
-1078;High-gradient valleys (gradient > 30%)
-1132;Acid metamorphic rock: quartzite
-1134;Acid metamorphic rock: slate, phyllite, (pellitic rocks)
-1135;Acid metamorphic rock: schist
-1079;Land with composite landforms (gradient > 8%)
-1080;Valley (gradient > 8%)
-1081;Narrow plateau (gradient > 8%)
-1082;Flat, wet, with a dominant slope of 0-2%. Wet is defined as < 90% permanent water surface > 50%  (simple landform).
-1083;Flat, with a dominant slope of 0-2% (simple landform).
-1084;Gently undulating, with a dominant slope of 0-2% (simple landform).
-1085;Undulating, with a dominant slope of 5-8% (simple landform).
-1086;Rolling, with a dominant slope of 8-15% (simple landform).
-1087;Moderately steep, with a dominant slope of 15-30% (simple landform).
-1088;Steep, with a dominant slope of 30-60% (simple landform).
-1089;Very steep, with a dominant slope ≥ 60% (simple landform).
-1090;Cuesta-shaped (complex landform).
-1091;Dome-shaped (complex landform).
-1092;Ridged (complex landform).
-1093;Terraced (complex landform).
-1094;Inselberg covered (Complex landform, covering at least 1% of level land).
-1095;Dune-shaped (complex landform).
-1096;With intermontane plains (Complex landform, occupying at least 15%).
-1097;With wetlands (complex landform, occupying at least 15%).
-1098;Strong karst (complex landform).
-1099;Low level: 300-600 m for level lands and sloping lands with a relief intensity < 50 m/slope unit
-1100;Medium level: 600-1500 m for level lands and sloping lands with a relief intensity < 50 m/slope unit
-1101;High level: 1500-3000 m for level lands and sloping lands with a relief intensity < 50 m/slope unit
-1102;Very high level: ≥ 3000 m for level lands and sloping lands with a relief intensity < 50 m/slope unit
-1103;Low (hills etc.): < 200 m for sloping lands with a relief intensity > 50 m/slope unit
-1104;Medium: 200-400 m for sloping lands with a relief intensity > 50 m/slope unit
-1105;High: ≥ 400 m for sloping lands with a relief intensity > 50 m/slope unit
-1106;Low (mountains etc.): 600-1500 m for steep and sloping lands with a relief intensity > 600 m/2 km
-1107;Medium: 1500-3000 m for steep and sloping lands with a relief intensity > 600 m/2 km
-1108;High: 3000-5000 m for steep and sloping lands with a relief intensity > 600 m/2 km
-1109;Very high: ≥ 5000 m for steep and sloping lands with a relief intensity > 600 m/2 km
-1110;Slightly dissected: < 10 km/km²
-1111;Dissected: 10-25 km/km²
-1112;Strongly dissected: ≥ 25 km/km²
-1113;Igneous rock
-1114;Acid igneous rock
-1115;Acid igneous rock: granite
-1116;Acid igneous rock: grano-diorite
-1119;Intermediate igneous rock
-1120;Intermediate igneous rock: andesite, trachyte, phonolite
-1121;Intermediate igneous rock: diorite-syenite
-1122;Basic igneous rock
-1123;Intermediate igneous rock: gabbro
-1124;Intermediate igneous rock: basalt
-1125;Intermediate igneous rock: dolerite
-1126;Ultrabasic igneous rock
-1127;Ultrabasic igneous rock: peridotite
-1128;Ultrabasic igneous rock: pyroxenite
-1286;massive (no structure)
-1133;Acid metamorphic rock: gneiss, migmatite
-1136;Basic metamorphic rock
-1137;Basic metamorphic rock: slate, phyllite (pelitic rocks)
-1138;Basic metamorphic rock: schist
-1139;Basic metamorphic rock: gneiss rich in ferro-magnesian minerals
-1140;Basic metamorphic rock: metamorphic limestone (marble)
-1141;Sedimentary rock
-1142;Clastic sediments
-1143;Clastic sediments: conglomerate, breccia
-1144;Clastic sediments: sandstone, greywacke, arkose
-1145;Clastic sediments: siltstone, mudstone, claystone
-1146;Clastic sediments: shale
-1147;Clastic sediments: ironstone
-1148;Sedimentary organic rock
-1149;Sedimentary organic rock: limestone, other carbonate rocks
-1150;Sedimentary organic rock: marl and other mixtures
-1151;Sedimentary organic rock: coals, bitumen & related rocks
-1152;Evaporites
-1153;Evaporites: anhydrite, gypsum
-1154;Evaporites: halite
-1155;Unconsolidated rock
-1156;Unconsolidated rock: fluvial
-1157;Unconsolidated rock: lacustrine
-1158;Unconsolidated rock: marine
-1159;Unconsolidated rock: colluvial
-1160;Unconsolidated rock: eolian
-1161;Unconsolidated rock: glacial
-1162;Unconsolidated rock: pyroclastic
-1163;Unconsolidated rock: organic
-1164;Sheet erosion
-1165;Rill erosion
-1166;Gully erosion
-1167;Tunnel erosion
-1168;Deposition by water
-1169;Wind and water erosion
-1170;Wind erosion and deposition
-1171;Wind deposition
-1172;Shifting sand
-1173;Salt deposition
-1174;Type of erosion unknown
-1175;Very shallow (< 30 cm)
-1176;Shallow (30-50 cm)
-1177;Moderately deep (50-100 cm)
-1178;Deep (100-150 cm)
-1179;Very deep (≥ 150 cm)
-1180;Uniform slope.
-1181;Concave, lower slope with decreasing gradient downslope.
-1182;Convex, upper slope with decreasing gradient upslope.
-1183;Irregular slope.
-1369;light brownish grey
-1184;hummocky
-1185;mounded
-1186;towered
-1187;ridged
-1188;terraced
-1189;gullied
-1285;crumb (spheroidical or polyhedral, porous)
-1190;strongly dissected
-1191;dissected
-1192;slightly dissected
-1193;very clayey - more than 60 % clay.
-1194;clayey - sandy clay, silty clay and clay texture classes.
-1195;loamy - loam, sandy clay loam, clay loam, silt, silt loam and silty clay loam texture classes
-1196;sandy - loamy sand and sandy loam texture classes
-1197;extremely sandy - sand texture classes.
-1198;Extremely slow
-1199;Brackish
-1200;Slow
-1201;Well
-1202;Rapid
-1203;Very rapid
-1204;high
-1205;middle
-1206;low
-1207;lowest
-1208;all
-1209;none
-1210;weak
-1211;moderate
-1212;strong
-1213;very slow (< 0.1 cm/h)
-1214;slow (0.1- 0.5 cm/h)
-1215;moderately slow (0.5- 2.0 cm/h)
-1216;moderate (2.0- 6.0 cm/h)
-1217;rapid (6.0-12.5 cm/h)
-1218;very rapid (12.5-25.0 cm/h)
-1219;extremely rapid ((≥ 25  cm/h)
-1220;fibric
-1221;hemic
-1222;sapric
-1223;histic
-1370;pale brown
-1371;light yellowish brown
-1224;mollic
-1225;fimic
-1256;permafrost
-1279;prismatic (prisms without rounded upper end)
-1226;umbric
-1284;granular (spheroidical or polyhedral, relatively non-porous)
-1227;ochric
-1228;argic
-1229;natric
-1230;cambic
-1231;spodic
-1232;ferralic
-1233;nitic properties
-1271;moderate
-1372;brownish yellow
-1234;calcic
-1235;petrocalcic
-1280;columnar (prisms with rounded caps)
-1281;Lithic
-1236;gypsic
-1237;petrogypsic
-1238;sulphuric
-1239;albic
-1240;abrupt textural change
-1241;strongly humic
-1242;Tropical rainforest - humid***
-1243;Fresh
-1244;andic properties
-1245;calcareous
-1246;calcaric
-1247;continuous hard rock
-1248;ferralic properties
-1249;ferric properties
-1272;strong
-1373;brownish yellow
-1250;fluvic properties
-1251;geric properties
-1252;gleyic and stagnic properties
-1253;gypsiferous
-1254;interfingering
-1283;subangular blocky (mixed rounded and plane faces with vertices mostly rounded)
-1255;organic soil materials
-1257;plinthite
-1258;salic properties
-1259;slickensides
-1260;smeary consistence
-1261;sodic properties
-1262;soft lime
-1263;Histosol
-1264;Kastanozem
-1265;sulphidic materials
-1266;tonguing
-1267;vertic properties
-1268;weatherable minerals
-1269;structureless
-1270;weak
-1273;very fine
-1274;fine
-1275;medium
-1276;coarse
-1277;very coarse
-1278;platy (particles arranged around a generally horizontal plane)
-1282;angular blocky (bounded by plains intersecting at largely sharp angles)
-1287;single grain (no structure, individual grains)
-1288;wedge shaped (structure in horizons with slickensides)
-1289;allophane
-1290;chloritic
-1291;illitic
-1292;interstratified or mixed
-1293;kaolinitic
-1294;montmorillonitic
-1295;sesquioxidic
-1296;vermiculitic
-1297;Tropical rainforest  - wet
-1298;Leptosol
-1299;Luvisol
-1300;Lixisol
-1301;Nitisol
-1302;Tropical Savanna, dry summer
-1303;Tropical  Savanna, dry winter
-1304;Steppe climate - dry, hot
-1305;Steppe climate - dry, cold
-1368;(light) grey
-1306;Desert climate - dry, hot
-1307;Petrocalcic
-1308;Duripan
-1309;Petroferric
-1310;dark reddish grey
-1311;weak red
-1312;weak red
-1313;weak red
-1314;red
-1315;red
-1316;reddish grey
-1317;weak red
-1318;weak red
-1319;weak red
-1320;red
-1321;red
-1322;reddish grey
-1323;pale red
-1324;pale red
-1325;pale red
-1326;light red
-1327;light red
-1328;olive
-1329;grey
-1330;olive grey
-1331;grey
-1332;olive grey
-1333;- blank -
-1334;grey
-1335;olive grey
-1336;- blank -
-1337;- blank -
-1338;- blank -
-1339;light grey
-1340;light grey
-1341;- blank -
-1342;- blank -
-1343;- blank -
-1344;light grey
-1345;- blank -
-1346;light grey
-1347;- blank -
-1348;- blank -
-1349;- blank -
-1350;black
-1351;very dark brown
-1352;very dark grey
-1353;very dark greyish brown
-1354;dark brown
-1355;dark yellowish brown
-1356;dark yellowish brown
-1357;dark grey
-1358;dark greyish brown
-1359;(dark) brown
-1360;dark yellowish brown
-1361;dark yellowish brown
-1362;grey
-1363;greyish brown
-1364;brown
-1365;yellowish brown
-1366;yellowish brown
-1367;yellowish brown
-1374;light grey
-1375;light grey
-1376;very pale brown
-1377;very pale brown
-1378;yellow
-1379;yellow
-1380;white
-1381;white
-1382;very pale brown
-1383;very pale brown
-1384;yellow
-1385;yellow
-1386;black
-1387;very dark grey
-1388;very dark greyish brown
-1389;dark grey
-1390;dark greyish brown
-1391;olive brown
-1392;grey
-1393;greyish brown
-1394;light olive brown
-1395;light olive brown
-1396;(light) grey
-1397;light brownish grey
-1398;light yellowish brown
-1399;olive yellow
-1400;olive yellow
-1401;light grey
-1402;light grey
-1403;pale yellow
-1404;yellow
-1405;yellow
-1406;white
-1407;white
-1408;pale yellow
-1409;yellow
-1410;yellow
-1411;black
-1412;very dusky red
-1413;dark reddish brown
-1414;very dark grey
-1415;dusky red
-1416;dark reddish brown
-1417;dark red
-1418;dark grey
-1419;weak red
-1420;reddish brown
-1421;red
-1422;red
-1423;grey
-1424;weak red
-1425;reddish brown
-1426;red
-1427;red
-1428;gray
-1429;pale red
-1430;light reddish brown
-1431;light red
-1432;light red
-1433;dark bluish grey
-1434;bluish grey
-1435;bluish grey
-1436;light bluish grey
-1437;dark greenish grey
-1438;greenish grey
-1439;greenish grey
-1440;light greenish grey
-1441;dark greenish grey
-1442;greyish green
-1443;greenish grey
-1444;greyish green
-1445;greenish grey
-1446;pale green
-1447;light greenish grey
-1448;pale green
-1449;dark greenish grey
-1450;greenish grey
-1451;greenish grey
-1452;light greenish grey
-1453;reddish black
-1454;very dusky red
-1455;very dusky red
-1456;very dusky red
-1457;dark red
-1458;dark reddish grey
-1459;dusky red
-1460;dusky red
-1461;dusky red
-1462;dark red
-1463;dark red
-1464;dark reddish grey
-1465;weak red
-1466;weak red
-1467;weak red
-1468;red
-1469;red
-1470;reddish grey
-1471;weak red
-1472;weak red
-1473;weak red
-1474;red
-1475;red
-1476;reddish grey
-1477;pale red
-1478;pale red
-1479;pale red
-1480;light red
-1481;light red
-1482;black
-1483;black
-1484;very dark grey
-1485;dark olive grey
-1486;dark grey
-1487;olive grey
-1488;olive
-1489;olive
-1490;grey
-1491;olive grey
-1492;olive
-1493;olive
-1494;olive
-1495;(light) grey
-1496;light olive grey
-1497;pale olive
-1498;pale olive
-1499;olive yellow
-1500;olive yellow
-1501;light grey
-1502;light grey
-1503;pale yellow
-1504;pale yellow
-1505;yellow
-1506;yellow
-1507;white
-1508;white
-1509;pale yellow
-1510;pale yellow
-1511;yellow
-1512;yellow
-1513;black
-1514;dark reddish brown
-1515;very dark grey
-1516;dark reddish brown
-1517;dark reddish brown
-1518;dark reddish brown
-1519;dark grey
-1520;dark reddish grey
-1521;reddish brown
-1522;reddish brown
-1523;yellowish red
-1524;grey
-1525;reddish grey
-1526;Petrogypsic
-1527;Petric
-1528;Phreatic
-1529;Sodic
-1679;Non calcareous sandstone
-1621;Ultrabasic metamorphic rock: serpentinite, greenstone
-1622;Sedimentary rock
-1530;Desert climate - dry, cold
-1531;Warm temperate - moist all seasons, hot summer
-1532;Phaeozem
-1533;Planosol
-1534;Plinthosol
-1535;Podzol
-1536;Regosol
-1537;Solonchak
-1538;Solonetz
-1539;Warm temperate - moist all seasons, warm summer
-1540;Warm temperate - moist all seasons,  with cool short summer
-1541;Warm Temperate - dry summer, hot
-1542;Warm Temperate - dry summer, warm
-1608;Acid metamorphic rock
-1543;Warm Temperate - dry summer, cool short summer
-1564;Snow climates - moist all seasons, very cold winter
-1566;Snow climates - dry winter, warm summer
-1544;Warm temperate - dry winter, hot summer
-1545;Stony
-1546;Fragipan
-1547;Saline
-1548;Albeluvisol
-1549;Acrisol
-1550;Alisol
-1551;Andosol
-1552;Warm Temperate - dry winter, warm summer
-1553;Stagnosol
-1554;Technosol
-1555;Umbrisol
-1556;Vertisol
-1557;Igneous rock
-1558;Acid igneous rock
-1559;Oxygenated
-1560;Warm Temperate - dry winter, cool short summer
-1561;Snow climates - moist all seasons, hot summer
-1562;Snow climates - moist all seasons, warm summer
-1609;Acid metamorphic rock: quartzite
-1610;Acid metamorphic rock: gneiss, migmatite
-1611;Acid metamorphic rock: slate, phyllite, (pellitic rocks)
-1563;Snow climates - moist all seasons, cool short summer
-1623;Clastic sediments
-1624;Clastic sediments: conglomerate, breccia
-1565;Snow climates - dry winter, hot summer
-1567;Snow climates - dry winter, cool short summer
-1568;Snow climates - dry winter, very cold winter
-1569;Frost climates
-1570;Tundra climates
-1571;Mountain/Highland climates, undiff.
-1572;Cerrado
-1573;Snow climates - dry summer, warm
-1574;Snow climates - dry summer,  cool short summer
-1575;Snow climates  -dry summer,  very cold winter
-1576;Arenosol
-1577;Anthrosol
-1578;Chernozem
-1579;Calcisol
-1580;Cambisol
-1581;Cryosol
-1582;Durisol
-1583;Fluvisol
-1584;Ferralsol
-1585;Gleysol
-1586;Gypsisol
-1587;Acid igneous rock: diorite
-1588;Acid igneous rock: grano-diorite
-1589;Acid igneous rock: quartz-diorite
-1590;Acid igneous rock: rhyiolite
-1591;Intermediate igneous rock
-1592;Intermediate igneous rock: andesite, trachyte, phonolite
-1593;Intermediate igneous rock: diorite-syenite
-1594;Basic igneous rock
-1595;Basic igneous rock: gabbro
-1596;Basic igneous rock: basalt
-1597;Basic igneous rock: dolerite
-1598;Ultrabasic igneous rock
-1599;Ultrabasic igneous rock: peridotite
-1600;Ultrabasic igneous rock: pyroxenite
-1601;Ultrabasic igneous rock: ilmenite, magnetite, ironstone, serpentine
-1602;Pyroclastic rock
-1603;Pyroclastic rock: tuff, tuffite
-1604;Pyroclastic rock: volcanic scoria/breccia
-1605;Pyroclastic rock: volcanic ash
-1606;Pyroclastic rock: ignimbrite
-1607;Metamorphic rock
-1612;Acid metamorphic rock: schist
-1613;Basic metamorphic rock
-1614;Basic metamorphic rock: slate, phyllite (pelitic rocks)
-1615;Basic metamorphic rock: (green) schist
-1616;Basic metamorphic rock: gneiss rich in ferro-magnesian minerals
-1617;Basic metamorphic rock: metamorphic limestone (marble)
-1618;Basic metamorphic rock: amphibolite
-1619;Basic metamorphic rock: eclogite
-1620;Ultrabasic metamorphic rock
-1625;Clastic sediments: sandstone, greywacke, arkose
-1626;Clastic sediments: siltstone, mudstone, claystone
-1627;Clastic sediments: shale
-1628;Clastic sediments: ironstone
-1629;Sedimentary organic or carbonatic rock
-1630;Sedimentary organic or carbonatic rock: limestone, other carbonate rocks
-1631;Dolerite
-1632;Sedimentary organic or carbonatic rock: marl and other mixtures
-1633;Sedimentary organic or carbonatic rock: coals, bitumen and related rocks
-1634;Evaporites
-1635;Evaporites: anhydrite, gypsum
-1636;Evaporites: halite
-1637;Unconsolidated rock
-1638;Weathered residuum
-1639;Weathered residuum: bauxite, laterite
-1640;Unconsolidated rock: fluvial
-1641;Unconsolidated fluvial rock: sand and gravel
-1642;Unconsolidated fluvial rock: clay, silt and loam
-1643;Unconsolidated rock: lacustrine
-1644;Unconsolidated lacustrine rock: sand
-1645;Unconsolidated lacustrine rock: silt and clay
-1646;Unconsolidated rock: marine
-1647;Unconsolidated marine rock: sand
-1648;Unconsolidated marine rock: clay and silt
-1649;Unconsolidated rock: colluvial
-1650;Unconsolidated colluvial rock: slope deposits
-1651;Unconsolidated colluvial rock: lahar
-1652;Unconsolidated rock: eolian
-1653;Unconsolidated rock: eolian rock: loess
-1654;Unconsolidated rock: eolian rock: sand
-1655;Unconsolidated rock: glacial
-1656;Unconsolidated glacial rock: moraine
-1657;Unconsolidated glacial rock: glacio-fluvial sands
-1658;Unconsolidated kryogenic rock
-1659;Unconsolidated kryogenic rock: periglacial rock debris
-1660;Unconsolidated kryogenic rock: periglacial solifluction layer
-1661;Unconsolidated rock: pyroclastic
-1662;Unconsolidated rock: organic
-1663;Unconsolidated organic rock: rainwater-fed moor peat
-1664;Unconsolidated organic rock: groundwater-fed bog peat
-1665;Unconsolidated anthropogenic/technogenic rock
-1666;Unconsolidated anthropogenic/technogenic rock: redeposited natural material
-1667;Unconsolidated anthropogenic/technogenic rock: industrial/artisanal deposits
-1668;Unconsolidated and unspecified deposits
-1669;Unconsolidated and unspecified deposits: clay
-1670;Unconsolidated and unspecified deposits: loam and silt
-1671;Unconsolidated and unspecified deposits: sand
-1672;Unconsolidated and unspecified deposits: gravelly sand
-1673;Unconsolidated and unspecified deposits: gravel, broken rock
-1674;Derived from GPS measurements
-1675;Converted from DMS data, available up to seconds
-1676;Converted from DMS data, available only up to minutes
-1677;Converted from other sources (location description, etc)
-1678;Sandstone
-1680;Arkosic sandstone
-1681;Graywacke
-1682;Calcareous sandstone
-1683;Acid igneous/metamorphic rock
-1684;Andesite
-1685;Interbedded sedimentary rock
-1686;Limestone/sandstone/shales
-1687;Limestone/sandstone
-1688;Limestone/shale
-1689;Limestone/siltstone
-1690;Sandstone/shale
-1691;Sandstone/siltstone
-1692;Shale/siltstone
-1693;Basic igneous/metamorphic rock
-1694;Basalt
-1695;Conglomerate
-1696;Conglomerate, non calcareous
-1697;Conclomerate, calcareous
-1698;Conglomerate
-1699;Diorite
-1700;Dolomite
-1701;Unconsolidated pyroclastic rocks
-1702;Ejecta ash
-1703;Acidic ash
-1704;Basic ash
-1705;Lapilli
-1706;Acidic lapilli
-1707;Basic lapilli
-1708;Volcanic bombs
-1709;Evaporite
-1710;Gabbro
-1711;Granite/gneiss
-1712;Gneiss
-1713;Granite
-1714;Gypsum rock
-1715;Shale
-1716;Non calcareous shale
-1717;Calcareous shale
-1718;Igneous rock
-1719;Coarse-grained igneous rock
-1720;Coarse-grained basic igneous
-1721;Coarse-grained intermediate igneous
-1722;Coarse-grained acid igneous
-1723;Fine-grained igneous rock
-1724;Fine-grained basic igneous
-1725;Fine-grained intermediate igneous
-1726;Fine-grained acid igneous
-1727;Fine-grained ultrabasic igneous
-1728;Organic material
-1729;Mossy material
-1730;Herbaceous material
-1731;Woody material
-1732;Wood fragments, small
-1733;Wood fragments, large
-1734;Charcoal
-1735;Limestone
-1736;Chalk
-1737;Marble
-1738;Dolomitic limestone
-1739;Phosphatic limestone
-1740;Arenaceous limestone
-1741;Argillaceous limestone
-1742;Cherty limestone
-1743;Limestone
-1744;Metamorphic rock
-1745;Gneiss
-1746;Acidic gneiss
-1747;Basic gneiss
-1748;Serpentinite
-1749;Schist
-1750;Acidic schist
-1751;Basic schist
-1752;Slate
-1753;Quartzite
-1755;Not known
-1756;Pyroclastic, consolidated
-1757;Tuff
-1758;Acidic tuff
-1759;Basic tuff
-1760;Volcanic breccia
-1761;Acidic volcanic breccia
-1762;Basic volcanic breccia
-1763;Tuff breccia
-1764;Scoria/cinders
-1765;Pumice
-1766;Pyroclastic rock
-1767;Quartzitic sandstone
-1768;Quartzite
-1769;Sedimentary rock
-1770;Marl
-1771;Glauconite
-1772;Sandstone
-1773;Schist
-1774;Sedimentary rock
-1775;Shale
-1776;Siltstone
-1777;Siltstone
-1778;Non calcareous siltstone
-1779;Calcareous siltstone
-1780;Travertine
-1781;Tuff
-1782;Claystone
-1783;Non calcareous claystone
-1784;Calcareous claystone
-1785;Ultar basic rock
-1786;Volcanic rock
-1787;Highly weathered material
-1788;Lateritic material
-1789;Bauxitic material
-1790;Non calcareous or acid
-1791;Calcareous
-1792;Mixed lithology
-1793;Igneous/metamorphic/sediment.
-1794;Igneous and metamorphic
-1795;Igneous and sedimentary
-1796;Metamorphic/sedimentary
-1797;Mixed lithology and composition
-1798;Alluvium
-1799;Eolian mixed / undifferentiated
-1800;Eolean loess
-1801;Eolian sand
-1802;Ejecta ash
-1803;Lacustrine sediments
-1804;Estuarine sediments
-1805;Marine sediments
-1806;Colluvium
-1807;Slope wash
-1808;Fluvio-glacial sediments
-1809;Ice-pushed materials
-1810;Glacial outwash
-1811;Glacial till
-1812;Glacial drift
-1813;Organic sediments
-1814;Residual material
-1815;Unconsolidated, unspecified
-1816;Solid rock
-1817;Man-made
-1818;Sandy
-1819;Sandy clay
-1820;Silty
-1821;Loamy
-1822;Clayey
-1823;Gravelly
-1824;Stony
-1825;Mixed
-2115;Micro
-1826;Organic
-1827;Slight
-1828;Partial / moderate
-1829;High
-1830;Very high
-1831;High
-1832;Moderate
-1833;Low
-1834;south
-1835;south-south-east
-1836;south-east
-1837;east-south-east
-1838;east
-1839;east-north-east
-1840;north-east
-1841;north-north-east
-1842;north
-1843;north-north-west
-1844;north-west
-1845;west-north-west
-1846;west
-1847;west-south-west
-1848;south-west
-1849;south-south-west
-1850;Convex
-1851;Concave
-1852;Straight
-1853;Complex
-1854;Undulating
-1855;Crest
-1856;Upper slope
-1857;Middle slope
-1858;Lower slope
-1859;Slope unspecified
-1860;Flat
-1861;Open depression
-1862;Depression (closed)
-1863;None
-1864;Daily
-1865;Monthly
-1866;Yearly
-1867;Irregular
-1868;Ponded
-1869;Very slow
-1870;Slow
-1871;Medium
-1872;Rapid
-1873;Very rapid
-1874;Saline
-1875;Stillor stagnant
-1876;Sheet
-1877;Rill
-1878;Gully
-1879;Wind
-1880;None
-1881;Slight
-1882;Moderate
-1883;Severe
-1884;None
-1885;Little rocky
-1886;Fairly rocky
-1887;Rocky
-1888;Extremely rocky
-1889;Very rocky
-1890;Outcrop
-1891;None
-1892;Very few stones.
-1893;Fairly stony
-1894;Stony
-1895;Very stony
-1896;Exceedingly stony
-1897;Rubble land
-1898;(Sub)rounded
-1899;Angular blocky
-1900;Angular irregular
-1901;Platy, flat
-1902;reddish black
-1903;very dusky red
-1904;dark reddish grey
-1905;dusky red
-1906;dusky red
-1907;dusky red
-1908;dark red
-1909;reddish brown
-1910;reddish brown
-1911;yellowish red
-1912;yellowish red
-1913;(light) grey
-1914;pinkish grey
-1915;light reddish brown
-1916;light reddish brown
-1917;reddish yellow
-1918;reddish yellow
-1919;light grey
-1920;pinkish grey
-1921;pink
-1922;pink
-1923;reddish yellow
-1924;reddish yellow
-1925;white
-1926;pinkish white
-1927;pink
-1928;pink
-1929;- blank -
-1930;- blank -
-1931;- blank -
-1932;- blank -
-1933;- blank -
-1934;- blank -
-1935;- blank -
-1936;- blank -
-1937;- blank -
-1938;- blank -
-1939;- blank -
-1940;- blank -
-1941;- blank -
-1942;- blank -
-1943;- blank -
-1944;- blank -
-1945;- blank -
-1946;- blank -
-1947;- blank -
-1948;- blank -
-1949;- blank -
-1950;- blank -
-1951;- blank -
-1952;- blank -
-1953;- blank -
-1954;- blank -
-1955;- blank -
-1956;black
-1957;very dusky red
-1958;very dusky red
-1959;very dark grey
-1960;dusky red
-1961;dusky red
-1962;dark red
-1963;dark red
-1964;dark grey
-1965;weak red
-1966;weak red
-1967;red
-1968;red
-1969;grey
-1970;weak red
-1971;weak red
-1972;red
-1973;red
-1974;grey
-1975;pale red
-1976;pale red
-1977;light red
-1978;light red
-1979;- blank -
-1980;- blank -
-1981;olive black
-1982;- blank -
-1983;greyish olive
-1984;- blank -
-1985;greyish olive
-1986;- blank -
-1987;- blank -
-1988;greyish olive
-1989;- blank -
-1990;- blank -
-1991;- blank -
-1992;- blank -
-1993;light grey
-1994;- blank -
-1995;- blank -
-1996;- blank -
-1997;- blank -
-1998;- blank -
-1999;light grey
-2000;- blank -
-2001;- blank -
-2002;- blank -
-2003;black
-2004;very dark brown
-2005;very dark brown
-2006;very dark grey
-2007;dark brown
-2008;dark brown
-2009;dark grey
-2010;(dark) brown
-2011;(dark) brown
-2012;strong brown
-2013;grey
-2014;brown
-2015;brown
-2016;strong brown
-2017;strong brown
-2018;(light) grey
-2019;pinkish grey
-2020;light brown
-2021;reddish yellow
-2022;reddish yellow
-2023;light grey
-2024;pinkish grey
-2025;pink
-2026;reddish yellow
-2027;reddish yellow
-2028;white
-2029;pinkish white
-2030;pink
-2031;reddish yellow
-2032;black
-2033;black
-2034;very dark grey
-2035;dark grey
-2036;grey
-2037;(light) grey
-2038;light grey
-2039;white
-2040;Very fine (0.1-1 mm)
-2041;Fine (1-2 mm)
-2042;Fine (< 5 mm)
-2043;Fine to medium (< 15 mm)
-2044;Medium (5-15 mm)
-2045;Medium to coarse (> 5 mm)
-2046;Coarse (> 15 mm)
-2047;Heterogeneous
-2071;very fine
-2072;very fine and fine
-2073;fine
-2074;fine and medium
-2075;medium
-2076;medium and coarse
-2077;coarse
-2078;coarse and very coarse
-2079;very coarse
-2080;Structureless
-2081;Structureless and weakly coherent
-2082;Structureless and moderately coherent
-2083;Structureless and strongly coherent
-2084;None
-2085;Few (1-50 per square decimetre)
-2086;Few to common (1-200 per square decimetre)
-2087;Common (50-200 per square decimetre)
-2088;Common to many (> 50 per square decimetre)
-2089;Many (> 200 per square decimetre)
-2090;Micro (< 0.1 mm)
-2091;Medium (2-5 mm)
-2092;Coarse (5-10 mm)
-2093;Very coarse (> 10 mm)
-2094;Coarse (5-10 mm) and very coarse (> 10 mm)
-2095;Medium (2-5 mm) and coarse (5-10 mm)
-2096;Fine (1-2 mm) to coarse (5-10 mm)
-2097;Micro (< 0.1 mm) to very coarse (> 10 mm)
-2098;Very fine (0.1-1 mm) and fine (1-2 mm)
-2099;Fine (1-2 mm) and medium (1-5 mm)
-2100;Micro (< 0.1 mm) to fine (1-2 mm)
-2101;Micro (< 0.1 mm) to coarse (5-10 mm)
-2102;Micro (< 0.1 mm) and very fine (0.1-1 mm)
-2103;Micro (< 0.1 mm) to medium (2-5 mm)
-2104;Very fine (0.1-1 mm) to medium (1-5 mm)
-2105;Very fine (0.1-1 mm) to coarse (5-10 mm)
-2106;Continuous
-2107;Vesicular
-2108;Discontinuous
-2109;Interstitial
-2110;Tubular
-2111;None
-2112;Few
-2113;Common
-2114;Many
-2116;Very fine (diameter < 1 mm)
-2117;Very fine (diameter < 1 mm) and fine (diameter 1-2 mm)
-2118;Fine (diameter 1-2 mm)
-2119;Fine (diameter 1-2 mm) and medium (diameter 2-5 mm)
-2120;Medium (diameter 2-5 mm)
-2121;Medium (diameter 2-5 mm) and coarse (diameter > 5 mm)
-2122;Coarse (diameter > 5 mm)
-2123;"All; from very fine (diameter < 1 mm) to coarse (diameter > 5 mm)"
-2124;Moderate
-2125;Structureless
-2126;Strong
-2127;Weak
-2128;Angular blocky
-2129;Crumb
-2130;Columnar
-2131;Granular
-2132;Massive
-2133;Single grain
-2134;Platy
-2135;Prismatic
-2136;Subangular blocky
-2137;Wedge shaped
-2138;Igneous rock
-2139;Acid igneous rock
-2140;Acid igneous rock: granite
-2141;Acid igneous rock: quartz-diorite/grano-diorite
-2142;Acid igneous rock: syenite
-2143;Acid igneous rock: rhyiolite,dacite
-2144;Intermediate igneous rock
-2145;Intermediate igneous rock: andesite, trachyte, phonolite
-2146;Intermediate igneous rock: diorite, diorite-syenite
-2147;Basic igneous rock
-2148;Basic igneous rock: gabbro
-2149;Basic igneous rock: basalt
-2150;Basic igneous rock: dolerite/diabase
-2151;Ultrabasic igneous rock
-2152;Ultrabasic igneous rock: peridotite
-2153;Ultrabasic igneous rock: pyroxenite
-2154;Ultrabasic igneous rock: ilmenite, magnetite, ironstone
-2155;Pyroclastic igneous rock
-2156;Pyroclastic igneous rock: tuff, tuffite
-2157;Pyroclastic igneous rock: volcanic scoria/breccia
-2158;Pyroclastic igneous rock: volcanic ash
-2159;Pyroclastic igneous rock: ignimbrite
-2160;Metamorphic rock
-2161;Acid metamorphic rock
-2162;Acid metamorphic rock: quartzite
-2163;Acid metamorphic rock: gneiss, migmatite, granulite
-2164;Acid metamorphic rock: slate, phyllite
-2165;Acid metamorphic rock: schist
-2166;Basic metamorphic rock
-2167;Basic metamorphic rock: slate, phyllite
-2168;Basic metamorphic rock: (green) schist
-2169;Basic metamorphic rock: gneiss rich in ferro-magnesian minerals
-2170;Basic metamorphic rock: metamorphic limestone (marble)
-2171;Basic metamorphic rock: amphibolite
-2172;Basic metamorphic rock: eclogite
-2173;Ultrabasic metamorphic rock
-2174;Ultrabasic metamorphic rock: serpentine, greenstone
-2175;Sedimentary rock
-2176;Clastic sediments
-2177;Clastic sediments: conglomerate, breccia
-2178;Clastic sediments: sandstone, greywacke, arkose, arenite
-2179;Clastic sediments: siltstone, mudstone, claystone
-2180;Clastic sediments: shale
-2181;Clastic sediments: ironstone
-2182;Organic (sedimentary rock)
-2183;Organic (sedimentary rock): limestone, other carbonate rocks
-2184;Organic (sedimentary rock): marl and other mixtures
-2185;Organic (sedimentary rock): coals, bitumen & related rocks
-2186;Evaporites
-2187;Evaporites: anhydrite. gypsum
-2188;Evaporites: halite
-2189;Sedimentary rock (unconsolidated)
-2190;Weathered residuum
-2191;Weathered residuum: bauxite, laterite
-2192;Sedimentary rock (unconsolidated): fluvial
-2193;Sedimentary rock (unconsolidated): fluvial - sand and gravel
-2194;Sedimentary rock (unconsolidated): fluvial - clay, silta, and loam
-2195;Lacustrine unconsolidated rock
-2196;Lacustrine unconsolidated rock - sand
-2197;Lacustrine unconsolidated rock - silt and clay
-2198;Marine and estuarine unconsolidated rock
-2199;Marine and estuarine unconsolidated rock - sand
-2200;Marine and estuarine unconsolidated rock - clay and silt
-2201;Colluvial unconsolidated rock
-2202;Colluvial unconsolidated rock - slope deposits
-2203;Colluvial unconsolidated rock - lahar
-2204;Eolian unconsolidated rock
-2205;Eolian unconsolidated rock - loess
-2206;Eolian unconsolidated rock - sands
-2207;Glacial unconsolidated rock
-2208;Glacial unconsolidated rock - morainic deposits
-2209;Glacial unconsolidated rock - glaciofluvial sands
-2210;Glacial unconsolidated rock - glaciofluvial gravel
-2211;Kryogenic unconsolidated rock
-2212;Kryogenic unconsolidated rock - periglacial rock debris
-2213;Kryogenic unconsolidated rock - periglacial rock solifluction materials
-2214;Organic unconsolidated rock
-2215;Organic unconsolidated rock - raineater-fed moor peat
-2216;Organic unconsolidated rock - groundwater-fed bog peat
-2217;Anthropogenic sedimentary rock
-2218;Anthropogenic sedimentary rock - redeposited natural materials
-2219;Anthropogenic sedimentary rock - industrial/artisanal deposits
-2220;Sedimentary rock (unconsolidated) - unspecified
-2221;Sedimentary rock (unconsolidated) - unspecified sediments
-2222;Hypergelic
-2223;Subgelic
-2224;Snow climates - dry summer, hot
-2243;Crumbs, lumps and clods
-2244;Granular
-2225;Mild temperate rainy climate - winter dry
-2226;Unconsolidated rock: hardened laterite and ferruginous materials
-2227;Unconsolidated rock: soft laterite and ferruginous materials
-2228;Mild temperate rainy climate - no distinct dry season
-2229;Mild temperate rainy climate - summer dry
-2230;Cold snow-forest climate - humid winters
-2231;Cold snow-forest climate - summer dry
-2232;Weak
-2233;Moderate
-2234;Strong
-2235;Weak to moderate
-2236;Moderate to strong
-2237;Sand, unsorted
-760;Coarse (> 20 mm)
-2240;Bottom (flat) in undulating to mountainous terrain
-2241;Coarse (> 20 mm)
-2242;Blocky
-2245;Platy
-2246;Prismatic
-2247;Rock structure
-941;Pisolithic
-2252;Sandy clay loam
-2253;Silty loam
-2254;Silty clay loam
-2255;Clay loam
-2256;Loam
-2257;Silt
-2258;Sandy clay
-2259;Silty clay
-2260;Clay
+DomainValueId	Description
+1	Flat
+2	Level
+3	Nearly level
+4	Very gently sloping
+5	Gently sloping
+6	Sloping
+7	Strongly sloping
+8	Moderately steep
+9	Steep
+10	Very steep
+11	Barley
+12	Maize
+13	Millet
+14	Rice (flooded)
+15	Rice (upland)
+16	Sorghum
+17	Wheat
+18	Coconut
+19	Groundnut
+20	Oilpalm
+21	Soyabean
+22	Sunflower
+23	Cassava
+24	Potato
+25	Yams
+26	Cotton
+27	Vegetables
+28	Beans
+29	Peas
+30	Cocoa
+31	Coffee
+32	Tea
+33	Tobacco
+34	Sugar cane
+35	Rubber
+36	Mountain
+37	Hill
+38	Upland
+39	Plain
+40	Plateau
+41	Basin
+42	Valley
+43	Alluvial plain
+44	Coastal plain
+45	Lacustrine plain
+46	Glacial plain
+47	Peneplane
+48	Pediment
+49	Volcano
+50	Dunefield
+51	Delta
+52	Tidal flat
+53	Playa
+54	Interfluve
+55	Valley
+56	Valley floor
+57	Channel
+58	Levee
+59	Terrace
+60	Floodplain
+61	Lagoon
+62	Pan
+63	Coral reef
+64	Caldera
+65	Depression
+66	Dune
+67	Longitudinal dune
+68	Interdunal depression
+69	Slope
+70	Ridge
+71	Beachridge
+72	Cashew
+73	Cowpea
+74	Fruit trees
+75	Rice
+76	Sweet potato
+77	Aeolian deposits (uspecified)
+78	Aeolian sand
+79	Littoral deposits
+80	Lagoon deposits
+81	Marine deposits
+82	Lacustrine deposits
+83	Fluvial deposits
+84	Alluvial deposits
+85	Volcanic ash
+86	Loess
+87	Pyroclastic deposits
+88	Glacial deposits
+89	Organic deposits
+90	Colluvial deposits
+91	In situ weathered
+92	Saprolite
+93	Unconsolidated (unspecified)
+94	Anthraquic
+95	Duripan
+96	Fragipan
+97	Gelundic
+98	Gilgai
+99	Inundic
+100	Lithic
+101	Petroferric
+102	Phreatic
+103	Placic
+104	Rudic
+105	Salic
+106	Skeletic
+107	Sodic
+108	Takyric
+109	Yermic
+110	Flat (0%-0.5%)
+111	Almost flat (0.5%-2%)
+112	Gently undulating (2%-5%)
+113	Undulating (5%-10%)
+114	Rolling (10%-15%)
+115	Hilly (15%-30%)
+116	Steeply dissected (> 30%, moderate range of elevation)
+117	Mountainous (> 30%, great range of elevation (> 300 m))
+118	No micro-relief - surface is (nearly) level
+119	Gilgai (unspecified)
+120	Low gilgai - height difference (within 10 m) < 20 cm
+121	Medium gilgai - height difference (within 10 m) 20-40 cm
+122	High gilgai - height difference (within 10 m) > 40 cm
+123	Termite or ant mounds
+124	Animal tracks
+125	Animal burrows
+126	Hummocks (unspecified)
+127	Low hummocks - height difference < 20 cm
+128	Medium hummocks - height difference 20-40 cm
+129	High hummocks - height difference > 40 cm
+130	Shifting sands
+131	Terracettes
+132	Ripples
+133	No cover
+134	0%-15%
+135	15%-40%
+136	40%-80%
+137	> 80%
+138	Acid igneous/metamorphic rock
+139	Granite
+140	Gneiss
+141	Granite/gneiss
+142	Quartzite
+143	Schist
+144	Andesite
+145	Diorite
+146	Basic igneous/metamorphic rock
+147	Ultra basic rock
+148	Gabbro
+149	Basalt
+150	Dolerite
+151	Volcanic rock
+152	Sedimentary rock
+153	Limestone
+154	Dolomite
+155	Sandstone
+156	Quartzitic sandstone
+157	Shale
+158	Marl
+159	Travertine
+160	Conglomerate
+161	Siltstone
+162	Tuff
+163	Pyroclastic rock
+164	Evaporite
+165	Gypsum rock
+166	Not known
+167	Very shallow (< 30 cm)
+168	Shallow (30-50 cm)
+169	Moderately deep (50-100 cm)
+170	Deep (100-150 cm)
+171	Very deep (> 150 cm)
+172	Excessively well drained
+173	Somewhat excessively well drained
+174	Well drained
+175	Moderately well drained
+176	Imperfectly drained
+177	Poorly drained
+178	Very poorly drained
+179	Less than 1 day
+180	1-15 days
+181	15-30 days
+182	30-90 days
+183	90-180 days
+184	180-360 days
+185	Continuously
+186	None
+187	Daily
+188	Weekly
+189	Monthly
+190	Annually
+191	Biennually
+192	Once every 2-4 years
+193	Once every 5-10 years
+194	Rare (less than once in every 10 years)
+195	Unknown
+196	Never saturated (well drained)
+197	Rarely saturated (a few days in some years)
+198	Saturated for short periods in most years (up to 30 days)
+199	Saturated for long periods every year
+200	Always saturated (very poorly drained)
+201	Not known
+202	Extremely slow (< 0.06 cm/h)
+203	Very slow (0.06 - 0.2 cm/h)
+204	Slow (0.2 - 0.6 cm/h)
+205	Moderately slow (0.6 - 2.0 cm/h)
+206	Moderately rapid (2.0 - 6.0 cm/h)
+207	Rapid (6 - 20 cm/h)
+208	Very rapid (> 20 cm/h)
+209	Ponded (run-on site)
+210	Neither receiving nor shedding water
+211	Slow run-off
+212	Moderately rapid run-off
+213	Rapid run-off
+214	Very shallow (0-25 cm)
+215	Shallow (25-50 cm)
+216	Moderately deep (50-100 cm)
+217	Deep (100-150 cm)
+218	Very deep (> 150 cm)
+219	Very shallow (0-25 cm)
+220	Shallow (25-50 cm)
+221	Moderately deep (50-100 cm)
+222	Deep (100-150 cm)
+223	Very deep (> 150 cm)
+224	Not observed
+225	Shallow phreatic water (2-3 m)
+226	Moderately deep phreatic water (3-5 m)
+227	Deep phreatic water (5-8 m)
+228	Extremely deep phreatic water (> 8 m)
+229	Not known
+230	Saline
+231	Brackish
+232	Fresh
+233	Polluted
+234	Oxygenated
+235	Stagnating
+236	Dry
+237	Slightly moist
+238	Moist
+239	Wet
+240	Very fine
+241	Tree and shrub cropping
+242	Fine
+243	Medium
+244	Coarse
+245	Very coarse
+246	Fine and very fine
+247	Fine and medium
+248	Fine to coarse
+249	Medium and coarse
+250	Medium to very coarse
+251	Coarse and very coarse
+252	Clay
+253	Clay and sesquioxides
+254	Clay and humus (organic matter)
+255	Pressure faces
+256	Slickensides, non intersecting
+257	Slickensides, partly intersecting
+258	Slickensides, predominantly intersecting
+259	Shiny faces (as in nitic properties)
+260	No evidence of erosion
+261	Wind erosion or deposition
+262	Wind (aeolian) erosion or deposition
+263	Mass movement (landslides and similar phenomena)
+264	Not known
+265	Sheet erosion
+266	Rill erosion
+267	Gully erosion
+268	Tunnel erosion
+269	Deposition by water
+270	Water and wind erosion
+271	Wind deposition
+272	Wind erosion and deposition
+273	Shifting sands
+274	Salt deposition
+275	Very fine sand
+276	Fine sand
+277	Coarse sand
+278	Medium sand
+279	Unsorted sand
+280	sunny/clear
+281	partly cloudy
+282	overcast
+283	rain
+284	sleet
+285	snow
+286	no rain in the last month
+287	no rain in the last week
+288	no rain in the last 24 hours
+289	rainy without heavy rain in the last 24 hours
+290	heavier rain for some days or rainstorms in the last 24 hours
+291	extremely rainy time or snow melting
+292	Pergelic
+293	Cryic
+294	Frigid
+295	Isofrigid
+296	Melons
+297	Mesic
+298	Isomesic
+299	Thermic
+300	Isothermic
+301	Hyperthermic
+302	Isohyperthermic
+303	Aquic
+304	Peraquic
+305	Udic
+306	Perudic
+307	Ustic
+308	Xeric
+309	Aridic
+310	Torric
+311	Reference profile description
+312	Reference profile description
+313	Routine profile description
+314	Routine profile description
+315	Not used and not managed
+316	Cereals
+317	Barley
+318	Brownish
+319	Incomplete description
+320	Incomplete description
+321	Soil augering description
+322	Soil augering description
+323	Other descriptions
+324	Crop agriculture (cropping)
+325	Annual field cropping
+326	Shifting cultivation
+327	Fallow system cultivation
+328	Ley system cultivation
+329	Rainfed arable cultivation
+330	Wet rice cultivation
+331	Irrigated cultivation
+332	Perennial field cropping
+333	Non-irrigated cultivation
+334	Irrigated cultivation
+335	Non-irrigated tree crop cultivation
+336	Irrigated tree crop cultivation
+337	Non-irrigated shrub crop cultivation
+338	Irrigated shrub crop cultivation
+339	Traditional rainfed arable cultivation
+340	Improved traditional rainfed arable cultivation
+341	Mechanized traditional rainfed arable cultivation
+342	Commercial rainfed arable cultivation
+343	Unspecified rainfed arable cultivation
+344	Mixed farming
+345	Agroforestry
+346	Agropastoralism
+347	Animal husbandry
+348	Extensive grazing
+349	Nomadism
+350	Semi-nomadism
+351	Ranching
+352	Intensive grazing
+353	Animal production
+354	Dairying
+355	Forestry
+356	Natural forest and woodland
+357	Selective felling
+358	Clear felling
+359	Plantation forestry
+360	Nature protection
+361	Nature and game preservation
+362	Reserves
+363	Parks
+364	Wildlife management
+365	Degradation control
+366	Without interference
+367	With interference
+368	Settlement, industry
+369	Residential use
+370	Industrial use
+371	Transport
+372	Recreational use
+373	Excavations
+374	Disposal sites
+375	Military area
+376	Other land uses
+377	Maize (cereal)
+378	Millet
+379	Oats
+380	Rice, paddy
+381	Rice, dry
+382	Rye
+383	Sorghum
+384	Wheat
+385	Oilcrops
+386	Coconuts
+387	Groundnuts
+388	Linseed
+389	Olives
+390	Oil-palm
+391	Rape
+392	Sesame
+393	Soybeans
+394	Sunflower
+395	Fodder plants
+396	Alfalfa
+397	Clover
+398	Grasses
+399	Hay
+400	Leguminous
+401	Maize (fodder plant)
+402	Pumpkins
+403	Roots and tubers
+404	Cassava
+405	Potatoes
+406	Sugar beets
+407	Yams
+408	Fruits and melons
+409	Apples
+410	Bananas
+411	Citrus
+412	Grapes, Wine, Raisins
+413	Mangoes
+414	Fibre crops
+415	Cotton
+416	Jute
+417	Vegetables
+418	Pulses
+419	Beans
+420	Lentils
+421	Peas
+422	Semi-luxury foods and tobacco
+423	Cocoa
+424	Coffee
+425	Tea
+426	Tobacco
+427	Other crops
+428	Sugar cane
+429	Rubber
+430	Palm (fibres, kernels)
+431	No influence
+432	Not known
+433	Vegetation slightly disturbed
+434	Vegetation moderately disturbed
+435	Vegetation strongly disturbed
+436	Vegetation disturbed (not specified)
+437	Sprinkler irrigation
+438	Furrow irrigation
+439	Drip irrigation
+440	Flood irrigation
+441	Border irrigation
+442	Irrigation (not specified)
+443	Artificial drainage
+444	Application of fertilizers
+445	Landfill (also sanitary)
+446	Levelling
+447	Archaeological (burial mound, midden)
+448	Impact crater
+449	Bunding
+450	Burning
+451	Terracing
+452	Ploughing
+453	Plaggen
+454	Dwarf shrub
+455	Raised beds (agricultural purposes)
+456	Raised beds (engineering purposes)
+457	Sand additions
+458	Mineral additions (not specified)
+459	Organic additions (not specified)
+460	Pollution
+461	Clearing
+462	Surface compaction
+463	Scalped area
+464	Borrow pit
+465	Dump (not specified)
+466	Mine (surface, including openpit, gravel and quarries)
+467	Very young (1–10 years) natural: with loss by erosion or deposition of materials such as on tidal flats, of coastal dunes, in river valleys, landslides or desert areas.
+468	Very young (1–10 years) anthropogeomorphic: with complete disturbance of natural surfaces (and soils) such as in urban, industrial and mining areas with very early soil development from fresh natural or technogenic or mixed materials.
+469	Young (10–100 years) natural: with loss by erosion or deposition of materials such as on tidal flats, of coastal dunes, river valleys, landslides or desert areas.
+470	Young (10–100 years) anthropogeomorphic: with complete disturbance of any natural surfaces (and soils) such as in urban, industrial and mining areas with early soil development from fresh natural, technogenic or a mixture of materials, or restriction of flooding by dykes.
+471	Holocene (100–10 000 years) natural: with loss by erosion or deposition of materials such as on tidal flats, of coastal dunes, in river valleys, landslides or desert areas.
+472	Holocene (100–10 000 years) anthropogeomorphic: human-made relief modifications, such as terracing of forming hills or walls by early civilizations or during the Middle Ages or earlier, restriction of flooding by dykes, or surface raising.
+473	Late Pleistocene, ice covered, commonly recent soil formation on fresh materials.
+474	Late Pleistocene, periglacial, commonly recent soil formation on preweathered materials.
+475	Late Pleistocene, without periglacial influence.
+476	Older Pleistocene, ice covered, commonly the recent soil formation on younger over older, preweathered materials.
+477	Older Pleistocene, with periglacial influence, commonly the recent soil formation on younger over older, preweathered materials.
+478	Older Pleistocene, without periglacial influence.
+479	Deep (10-20 cm)
+480	Tertiary land surfaces, commonly high planes, terraces or peneplains, except incised valleys, frequent occurrence of palaeosoils.
+481	Older, pre-Tertiary land surfaces, commonly high planes, terraces or peneplains, except incised valleys, frequent occurrence of palaeosoils.
+482	Straight
+483	Concave
+484	Convex
+485	Terraced
+486	Complex (Irregular)
+487	None (0%)
+488	Very few (0%-2%)
+489	Few (2%-5%)
+490	Common (5%-15%)
+491	Many (15%-40%)
+492	Abundant (40%-80%)
+493	Dominant (> 80%)
+494	> 50 m
+495	20-50 m
+496	5-20 m
+497	2-5 m
+498	< 2 m
+499	Fine gravel (0.2-0.6 cm)
+500	Medium gravel (0.6-2.0 cm)
+501	Coarse gravel (2-6 cm)
+502	Stones (6-20 cm)
+503	Boulders (20-60 cm)
+504	Large boulders (60-200 cm)
+505	No evidence of erosion
+506	Water erosion or deposition
+507	Sheet erosion
+508	Rill erosion
+509	Gully erosion
+510	Tunnel erosion
+511	Deposition by water
+512	Wind and water erosion
+513	Mass movement (landslides and similar phenomena)
+514	Not known
+515	Wind (aeolian) erosion or deposition
+516	Wind deposition
+517	Wind erosion and deposition
+518	Shifting sands
+519	Salt deposition
+520	0%
+521	0%-5%
+522	5%-10%
+523	10%-25%
+524	25%-50%
+525	> 50%
+526	Slight
+527	Moderate
+528	Severe
+529	Extreme
+530	Active at present
+531	Active in recent past (previous 50-100 years)
+532	Active in historical times
+533	Period of activity not known
+534	Accelerated and natural erosion not distinguished
+535	None
+536	Thin (< 2 mm)
+537	Medium (2-5 mm)
+538	Thick (5-20 mm)
+539	Very thick (> 20 mm)
+540	Slightly hard
+541	Hard
+542	Very hard
+543	Extremely hard
+544	Fine (< 1 cm)
+545	Medium (1-2  cm)
+546	Wide (2-5 mm)
+547	Very wide (5-10 cm)
+548	Extremely wide (> 10 cm)
+549	Very closely spaced (< 0.2 m)
+550	Closely space (0.2-0.5 m)
+551	Moderately widely spaced (0.5-2.0 m)
+552	Widely spaced (2-5 m)
+553	Very widely spaced (> 5 m)
+554	Surface (< 2 cm)
+555	Medium (2-10 cm)
+556	Very deep (> 20 cm)
+557	None (0-2%)
+558	Low (2-15%)
+559	Moderate (15-40%)
+560	High (40-80%)
+561	Dominant (> 80%)
+562	No vegetation
+563	Grassland (grasses, subordinate forbs, no woody species)
+564	Forbland (herbaceous plants predominant)
+565	Savanna (grasses with a discontinuous layer of trees or shrubs))
+566	Closed forest (continuous tree layer, crowns overlapping, large number of tree and shrub species in distinct layers)
+567	Evergreen broad-leaved forest
+568	Coniferous forest
+569	Semi-deciduous forest
+570	Deciduous forest
+571	Xeromorphic forest
+572	Woodland (continuous tree layer, crowns usually not touching, understorey may be present)
+573	Evergreen woodland
+574	Semi-deciduous woodland
+575	Deciduous woodland
+576	Xeromorphic woodland
+577	Shrub
+578	Evergreen shrub
+579	Semi-deciduous shrub
+580	Deciduous shrub
+581	Xeromorphic shrub
+582	Evergreen dwarf shrub
+583	Semi-deciduous dwarf shrub
+584	Deciduous dwarf shrub
+585	Xermomorphic dwarf shrub
+586	Tundra
+587	Herbaceous
+588	Tall grassland
+589	Medium grassland
+590	Short grassland
+591	Forb
+592	Rainwater-fed moor peat
+593	Groundwater-fed bog peat
+594	Crest (summit) in undulating to mountainous terrain
+595	Upper slope (shoulder) in undulating to mountainous terrain
+596	Middle slope (back slope) in undulating to mountainous terrain
+597	Lower slope (foot slope) in undulating to mountainous terrain
+598	Toe slope in undulating to mountainous terrain
+600	Higher part (rise) in flat or almost flat terrain
+601	Intermediate part (talf) in flat or almost flat terrain
+602	lower part (and dip) in flat or almost flat terrain
+603	Bottom (drainage line) in flat or almost flat terrain
+604	Level land
+605	Plain
+606	Plateau
+607	Depression
+608	Valley floor
+609	Sloping land
+610	Medium-gradient escarpment zone
+611	Medium-gradient hill
+612	Medium-gradient mountain
+613	Dissected plain
+614	Medium-gradient valley
+615	Steep land
+616	High-gradient escarpment zone
+617	High-gradient hill
+618	High-gradient mountain
+619	High-gradient valley
+620	Abrupt (0-2 cm)
+621	Clear (2-5 cm)
+622	Gradual (5-15 cm)
+623	Diffuse (> 15 cm)
+624	Smooth; nearly plane surface
+625	Wavy; pockets less deep than wide
+626	Irregular; pockets more deep than wide
+627	Broken; discontinuous
+628	Sand (unspecified)
+629	Loamy sand
+630	Sandy loam
+631	Sandy clay loam
+632	Silt loam
+633	Silty clay loam
+634	Clay loam
+635	Loam
+636	Silt
+637	Sandy clay
+638	Silty clay
+639	Clay
+640	Heavy clay
+641	Very fine sand
+642	Fine sand
+643	Medium sand
+644	Coarse sand
+645	Loamy very fine sand
+646	Loamy fine sand
+647	Loamy coarse sand
+648	Fine sandy loam
+649	Coarse sandy loam
+650	None (0%)
+651	Very few (0-2%)
+652	Few (2-5%)
+653	Common (5-15%)
+654	Many (15-40%)
+655	Abundant (40-80%)
+656	Dominant (> 80%)
+657	Stone line (any content, but concentrated at a distinct depth of a horizon)
+658	Fine gravel (2-6 mm)
+659	Fine and medium gravel 2-20 mm)
+660	Medium gravel (6-20 mm)
+661	Medium and coarse gravel (6-60 mm)
+662	Coarse gravel (20-60 mm)
+663	Coarse gravel and stones (20-200 mm)
+664	Stones (60-200 mm)
+665	Stones and boulders (60-600 mm)
+666	Boulders (200-600 mm)
+667	Boulders and large boulders (> 200 mm)
+668	Large boulders (> 600 mm)
+669	Very fine artefacts (< 2 mm)
+670	Very fine and fine artefacts (< 6 mm)
+671	Fine artefacts (2-6 mm)
+672	Fine and medium artefacts (2-20 mm)
+673	Medium artefacts (6-20 mm)
+674	Medium and coarse artefacts (> 6 mm)
+675	Coarse artefacts (> 20 mm)
+676	Flat
+677	Angular
+678	Subrounded
+679	Rounded
+680	Fresh or slightly weathered
+681	Weathered
+682	Strongly weathered
+683	Igneous rock
+684	Acid igneous rock
+685	Acid igneous rock: granite
+686	Acid igneous rock: grano-diorite
+687	Acid igneous rock: quartz-diorite
+688	Acid igneous rock: rhyiolite
+689	Intermediate igneous rock
+690	Intermediate igneous rock: andesite, trachyte, phonolite
+691	Intermediate igneous rock: diorite-syenite
+692	Basic igneous rock
+693	Intermediate igneous rock: gabbro
+694	Intermediate igneous rock: basalt
+695	Intermediate igneous rock: dolerite
+696	Ultrabasic igneous rock
+697	Ultrabasic igneous rock: peridotite
+698	Ultrabasic igneous rock: pyroxenite
+699	Ultrabasic igneous rock: ilmenite, magnetite, ironstone, serpentine
+700	Metamorphic rock
+701	Acid metamorphic rock
+702	Acid metamorphic rock: quartzite
+703	Acid metamorphic rock: gneiss, migmatite
+704	Acid metamorphic rock: slate, phyllite, (pellitic rocks)
+705	Acid metamorphic rock: schist
+706	Basic metamorphic rock
+707	Basic metamorphic rock: slate, phyllite (pelitic rocks)
+708	Basic metamorphic rock: schist
+709	Basic metamorphic rock: gneiss rich in ferro-magnesian minerals
+710	Basic metamorphic rock: metamorphic limestone (marble)
+711	Sedimentary rock
+712	Clastic sediments
+713	Clastic sediments: conglomerate, breccia
+714	Clastic sediments: sandstone, greywacke, arkose
+715	Clastic sediments: siltstone, mudstone, claystone
+716	Clastic sediments: shale
+717	Clastic sediments: ironstone
+718	Sedimentary organic rock
+719	Sedimentary organic rock: limestone, other carbonate rocks
+720	Sedimentary organic rock: marl and other mixtures
+721	Sedimentary organic rock: coals, bitumen & related rocks
+722	Evaporites
+723	Evaporites: anhydrite, gypsum
+724	Evaporites: halite
+725	Unconsolidated rock
+726	Unconsolidated rock: fluvial
+727	Unconsolidated rock: lacustrine
+728	Unconsolidated rock: marine
+729	Unconsolidated rock: colluvial
+730	Unconsolidated rock: eolian
+731	Unconsolidated rock: glacial
+732	Unconsolidated rock: pyroclastic
+733	Unconsolidated rock: organic
+734	Primary mineral fragments: quartz
+735	Primary mineral fragments: quartzite
+736	Primary mineral fragments: chert
+737	Primary mineral fragments: mica
+738	Primary mineral fragments: feldspar
+739	Primary mineral fragments: granite
+740	Fibric, degree of decomposition/humification is very low
+741	Fibric, degree of decomposition/humification is low
+742	Fibric, degree of decomposition/humification is moderate
+743	Hemic, degree of decomposition/humification is strong
+744	Medium (2–5 mm)
+745	Hemic, degree of decomposition/humification is moderately strong
+746	Sapric, degree of decomposition/humification is very strong
+747	Raw humus (aerpmorphic mor
+748	Reddish brown
+749	Moder (duff mull)
+750	Mull
+751	None (0%)
+752	Very few (0-2%)
+753	Few (2-5%)
+754	Common (5-15%)
+755	Many (15-40%)
+756	Abundant (> 40%)
+757	Very fine (< 2 mm)
+758	Fine (2-6 mm)
+759	Medium (6-20 mm)
+760	Coarse (> 20 mm)
+761	Faint
+762	Distinct
+763	Prominent
+764	Sharp (< 0.5 mm)
+765	Clear (0.5-2 mm)
+766	Diffuse (> 2 mm)
+767	Non-calcareous (0%)
+768	Slightly calcareous (0–2%)
+769	Moderately calcareous (2–10%)
+770	Strongly calcareous (10–25%)
+771	Extremely calcareous (> 25%)
+772	Soft concretions
+773	Hard concretions
+774	Hard hollow concretions
+775	Disperse powdery lime
+776	Pseudomycelia (carbonate infillings in pores, resembling mycelia)
+777	Marl layer
+778	Hard cemented layer or layers of carbonates (less than 10 cm thick)
+779	Non-gypsiric (0%)
+780	Slightly gypsiric (0–5%)
+781	Moderately gypsiric (5–15%)
+782	Strongly gypsiric (15–60%)
+783	Extremely gypsiric (> 60%)
+784	Soft concretions
+785	Disperse powdery gypsum
+786	“Gazha” (clayey water-saturated layer with high gypsum content)
+787	Hard cemented layer or layers of gypsum (less than 10 cm thick)
+788	Weak
+789	Moderate
+790	Strong
+791	Slightly hard
+792	Hard
+793	Very hard
+794	Weak to moderate
+795	Moderate to strong
+802	Rock structure
+803	Stratified structure
+804	Single grain
+805	Massive
+806	Porous massive
+807	Blocky
+808	Angular blocky
+809	Angular blocky (parallelepiped)
+810	Angular and subangular blocky
+811	Angular blocky (wedge-shaped)
+812	Subangular and angular blocky
+813	Subangular blocky
+814	Nutty subangular blocky
+815	Prismatic
+816	Subangular prismatic
+817	Wedge-shaped
+818	Columnar
+819	Granular
+820	Worm casts
+821	Platy
+822	Cloddy
+823	Crumbly
+824	Lumpy
+825	Very fine / thin
+826	Fine/thin
+827	Medium
+828	Coarse / thick
+829	Very coarse / thick
+830	Extremely coarse
+831	Very fine and fine
+832	Very fine to medium
+833	Fine and medium
+834	Fine to coarse
+835	Medium and coarse
+836	Medium to very coarse
+837	Coarse and very coarse
+838	Loose
+839	Soft
+840	Extremely hard
+841	soft to slightly hard
+842	slightly hard to hard
+843	hard to very hard
+844	Loose
+845	Very friable
+846	Friable
+847	Firm
+848	Very firm
+849	Extremely firm
+850	very friable to friable
+851	friable to firm
+852	firm to very firm
+853	Non-sticky
+854	Slightly sticky
+855	Sticky
+856	Very sticky
+857	slightly sticky to sticky
+858	sticky to very sticky
+859	Non-plastic
+860	Slightly plastic
+861	Plastic
+862	Very plastic
+863	slightly plastic to plastic
+864	plastic to very plastic
+865	Very dry
+866	Dry
+867	Slightly moist
+868	Moist
+869	Wet
+870	Very wet
+871	Soils fingers, is cohesive (sticky), is formable, has a high plasticity and has a shiny surface after squeezing between fingers.
+872	Soils fingers, is non-sticky, only weakly formable, has a rough and ripped surface after squeezing between fingers and feels very floury (like talcum powder).
+873	Cannot be formed, does not soil fingers and feels very grainy.
+874	Very low (< 2%)
+875	Low (2-5%)
+876	Medium (5-15%)
+877	High (15-40%)
+878	Very high (> 40%)
+879	Interstitial
+880	Primary breaking to secondary structure
+881	Both structures present
+882	One structure merging into the other
+883	Vesicular
+884	Discontinuous
+885	Vughs
+886	Coarse (> 5 mm)
+887	Channels
+888	Planes
+889	Very fine (< 0.5 mm)
+890	Fine (0.5-2 mm)
+891	Medium (2-5 mm)
+892	Coarse (5-20 mm)
+893	Very coarse (20-50 mm)
+894	None
+895	Very few
+896	Few
+897	Common
+898	Many
+899	Fine and medium (0.5-5 mm)
+900	Fine and very fine (< 2 mm)
+901	Medium and coarse (2-20 mm)
+902	Faint
+903	Distinct
+904	Prominent
+905	Clay
+906	Sesquioxides
+907	Humus
+908	Clay and sesquioxides
+909	Clay and humus (organic matter)
+910	Calcium carbonate
+911	Gibbsite
+912	Hypodermic coatings
+913	Jarosite
+914	Manganese
+915	Silica (opal)
+916	Sand coatings
+917	Silt coatings
+918	Shiny faces (as in nitic horizon)
+919	Pressure faces
+920	Slickensides, predominantly intersecting
+921	Slickensides, partly intersecting
+922	Slickensides, non intersecting
+923	Continuous
+924	Continuous irregular (non-uniform, heterogeneous)
+925	Discontinuous irregular
+926	Dendroidal
+927	Discontinuous circular
+928	Other
+929	Pedfaces
+930	Vertical pedfaces
+931	Horizontal pedfaces
+932	Coarse fragments
+933	Lamellae (clay bands)
+934	Voids
+935	Bridges between sand grains
+936	No specific location
+937	Broken
+938	Continuous
+939	Platy
+940	Vesicular
+941	Pisolithic
+942	Nodular
+943	Carbonates
+944	Silica
+945	Carbonates–silica
+946	Iron
+947	Iron–manganese (sesquioxides)
+948	Iron–organic matter
+949	Ice
+950	Gypsum
+951	Clay
+952	Clay–sesquioxides
+953	Mechanical
+954	Ploughing
+955	Not known
+956	Non-cemented and non-compacted
+957	Compacted but non-cemented
+958	Weakly cemented
+959	Moderately cemented
+960	Cemented
+961	Indurated
+962	Crystal
+963	Concretion
+964	Soft concretion
+965	Soft segregation (or soft accumulation)
+966	Nodule
+967	Pore infillings
+968	Crack infillings
+969	Residual rock fragment
+970	Other
+971	Very fine (< 2 mm)
+972	Fine (2–6 mm)
+973	Medium (6–20 mm)
+974	 Coarse (> 20 mm)
+975	Rounded (spherical)
+976	Elongated
+977	Flat
+978	Irregular
+979	Angular
+980	Hard
+981	Soft
+982	Both hard and soft
+983	Carbonates (calcareous)
+984	Carbonates–silica
+985	Clay (argillaceous)
+986	Clay–sesquioxides
+987	Gypsum (gypsiferous)
+988	Salt (saline)
+989	Gibbsite
+990	Jarosite
+991	Sulphur (sulphurous)
+992	Silica (siliceous)
+993	Iron (ferruginous)
+994	Iron–manganese (sesquioxides)
+995	Manganese (manganiferous)
+996	Not known
+997	White
+998	Red
+999	Reddish
+1000	Yellowish red
+1001	Brown
+1002	Yellowish brown
+1003	Yellow
+1004	Reddish yellow
+1005	Greenish, green
+1006	Grey
+1007	Greyish
+1008	Blue
+1009	Bluish-black
+1010	Black
+1011	Multicoloured
+1012	Very fine (< 0.5 mm)
+1013	Fine (0.5–2 mm)
+1014	Very fine and fine (< 2 mm)
+1015	Fine and medium (0.5–5 mm)
+1016	Medium and coarse (> 2 mm)
+1017	None
+1018	Very few
+1019	Few
+1020	Common
+1021	Many
+1022	None
+1023	Few
+1024	Common
+1025	Many
+1026	Artefacts
+1027	Burrows (unspecified)
+1028	Open large burrows
+1029	Infilled large burrows
+1030	Charcoal
+1031	Earthworm channels
+1032	Pedotubules
+1033	Termite or ant channels and nests
+1034	Other insect activity
+1035	Artesanal natural material
+1036	Industrial dust
+1037	Mixed material
+1038	Organic garbage
+1039	Pavements and paving stones
+1040	Synthetic liquid
+1041	Synthetic solid
+1042	Waste liquid
+1043	None
+1044	Cuesta-shaped
+1045	Ridged
+1046	Inselberg covered (occupying > 1% of level land)
+1047	With intermontane plains (occupying > 15%)
+1048	With wetlands (occupying > 15%)
+1049	Dome-shaped
+1050	Terraced
+1051	Dune-shaped
+1052	Strong karst
+1053	None
+1054	Petrochemical
+1055	Sulphurous
+1056	Positive indication for andic characteristics
+1057	No indication for andic characteristics
+1058	Level land
+1059	Plain (gradient < 8%, relief intensity < 100 m/km)
+1060	Plateau (gradient < 8%, relief intensity < 100 m/km)
+1061	Major depression (gradient > 8%)
+1062	Depression (gradient < 8%, relief intensity < 100 m/km)
+1063	Low-gradient footslope (gradient < 8%, relief intensity < 100 m/km)
+1064	Valley floor (gradient < 8%, relief intensity < 100 m/km)
+1065	Very low level (plain etc.): < 300 m for level lands and sloping lands with a relief intensity < 50 m/slope unit
+1066	No visible evidence of erosion
+1067	Sloping land
+1068	Medium-gradient mountain (gradient 15-30%, relief intensity > 600 m/2 km)
+1069	Medium-gradient hill (gradient 8-30%, relief intensity > 50 m/slope unit)
+1070	Medium-gradient escarpment zone (gradient 15-30%, relief intensity < 600 m/2 km)
+1071	Ridges (gradient 8-30%, relief intensity > 50 m/slope unit)
+1072	Mountainous highland (gradient 15-30%, relief intensity > 600 m/2 km)
+1073	Dissected plain (gradient 8-30%, relief intensity < 50 m/slope unit)
+1074	Steep land
+1075	High-gradient mountain (gradient > 30%, relief intensity > 600 m/2 km)
+1076	High-gradient hill (gradient > 30%, relief intensity < 600 m/2 km)
+1077	High-gradient escarpment zone (gradient > 30%, relief intensity > 600 m/2 km)
+1078	High-gradient valleys (gradient > 30%)
+1079	Land with composite landforms (gradient > 8%)
+1080	Valley (gradient > 8%)
+1081	Narrow plateau (gradient > 8%)
+1082	Flat, wet, with a dominant slope of 0-2%. Wet is defined as < 90% permanent water surface > 50%  (simple landform).
+1083	Flat, with a dominant slope of 0-2% (simple landform).
+1084	Gently undulating, with a dominant slope of 0-2% (simple landform).
+1085	Undulating, with a dominant slope of 5-8% (simple landform).
+1086	Rolling, with a dominant slope of 8-15% (simple landform).
+1087	Moderately steep, with a dominant slope of 15-30% (simple landform).
+1088	Steep, with a dominant slope of 30-60% (simple landform).
+1089	Very steep, with a dominant slope ≥ 60% (simple landform).
+1090	Cuesta-shaped (complex landform).
+1091	Dome-shaped (complex landform).
+1092	Ridged (complex landform).
+1093	Terraced (complex landform).
+1094	Inselberg covered (Complex landform, covering at least 1% of level land).
+1095	Dune-shaped (complex landform).
+1096	With intermontane plains (Complex landform, occupying at least 15%).
+1097	With wetlands (complex landform, occupying at least 15%).
+1098	Strong karst (complex landform).
+1099	Low level: 300-600 m for level lands and sloping lands with a relief intensity < 50 m/slope unit
+1100	Medium level: 600-1500 m for level lands and sloping lands with a relief intensity < 50 m/slope unit
+1101	High level: 1500-3000 m for level lands and sloping lands with a relief intensity < 50 m/slope unit
+1102	Very high level: ≥ 3000 m for level lands and sloping lands with a relief intensity < 50 m/slope unit
+1103	Low (hills etc.): < 200 m for sloping lands with a relief intensity > 50 m/slope unit
+1104	Medium: 200-400 m for sloping lands with a relief intensity > 50 m/slope unit
+1105	High: ≥ 400 m for sloping lands with a relief intensity > 50 m/slope unit
+1106	Low (mountains etc.): 600-1500 m for steep and sloping lands with a relief intensity > 600 m/2 km
+1107	Medium: 1500-3000 m for steep and sloping lands with a relief intensity > 600 m/2 km
+1108	High: 3000-5000 m for steep and sloping lands with a relief intensity > 600 m/2 km
+1109	Very high: ≥ 5000 m for steep and sloping lands with a relief intensity > 600 m/2 km
+1110	Slightly dissected: < 10 km/km²
+1111	Dissected: 10-25 km/km²
+1112	Strongly dissected: ≥ 25 km/km²
+1113	Igneous rock
+1114	Acid igneous rock
+1115	Acid igneous rock: granite
+1116	Acid igneous rock: grano-diorite
+1117	Acid igneous rock: quartz-diorite
+1118	Acid igneous rock: rhyiolite
+1119	Intermediate igneous rock
+1120	Intermediate igneous rock: andesite, trachyte, phonolite
+1121	Intermediate igneous rock: diorite-syenite
+1122	Basic igneous rock
+1123	Intermediate igneous rock: gabbro
+1124	Intermediate igneous rock: basalt
+1125	Intermediate igneous rock: dolerite
+1126	Ultrabasic igneous rock
+1127	Ultrabasic igneous rock: peridotite
+1128	Ultrabasic igneous rock: pyroxenite
+1129	Ultrabasic igneous rock: ilmenite, magnetite, ironstone, serpentine
+1130	Metamorphic rock
+1131	Acid metamorphic rock
+1132	Acid metamorphic rock: quartzite
+1133	Acid metamorphic rock: gneiss, migmatite
+1134	Acid metamorphic rock: slate, phyllite, (pellitic rocks)
+1135	Acid metamorphic rock: schist
+1136	Basic metamorphic rock
+1137	Basic metamorphic rock: slate, phyllite (pelitic rocks)
+1138	Basic metamorphic rock: schist
+1139	Basic metamorphic rock: gneiss rich in ferro-magnesian minerals
+1140	Basic metamorphic rock: metamorphic limestone (marble)
+1141	Sedimentary rock
+1142	Clastic sediments
+1143	Clastic sediments: conglomerate, breccia
+1144	Clastic sediments: sandstone, greywacke, arkose
+1145	Clastic sediments: siltstone, mudstone, claystone
+1146	Clastic sediments: shale
+1147	Clastic sediments: ironstone
+1148	Sedimentary organic rock
+1149	Sedimentary organic rock: limestone, other carbonate rocks
+1150	Sedimentary organic rock: marl and other mixtures
+1151	Sedimentary organic rock: coals, bitumen & related rocks
+1152	Evaporites
+1153	Evaporites: anhydrite, gypsum
+1154	Evaporites: halite
+1155	Unconsolidated rock
+1156	Unconsolidated rock: fluvial
+1157	Unconsolidated rock: lacustrine
+1158	Unconsolidated rock: marine
+1159	Unconsolidated rock: colluvial
+1160	Unconsolidated rock: eolian
+1161	Unconsolidated rock: glacial
+1162	Unconsolidated rock: pyroclastic
+1163	Unconsolidated rock: organic
+1164	Sheet erosion
+1165	Rill erosion
+1166	Gully erosion
+1167	Tunnel erosion
+1168	Deposition by water
+1169	Wind and water erosion
+1170	Wind erosion and deposition
+1171	Wind deposition
+1172	Shifting sand
+1173	Salt deposition
+1174	Type of erosion unknown
+1175	Very shallow (< 30 cm)
+1176	Shallow (30-50 cm)
+1177	Moderately deep (50-100 cm)
+1178	Deep (100-150 cm)
+1179	Very deep (≥ 150 cm)
+1180	Uniform slope.
+1181	Concave, lower slope with decreasing gradient downslope.
+1182	Convex, upper slope with decreasing gradient upslope.
+1183	Irregular slope.
+1184	hummocky
+1185	mounded
+1186	towered
+1187	ridged
+1188	terraced
+1189	gullied
+1190	strongly dissected
+1191	dissected
+1192	slightly dissected
+1193	very clayey - more than 60 % clay.
+1194	clayey - sandy clay, silty clay and clay texture classes.
+1195	loamy - loam, sandy clay loam, clay loam, silt, silt loam and silty clay loam texture classes
+1196	sandy - loamy sand and sandy loam texture classes
+1197	extremely sandy - sand texture classes.
+1198	Extremely slow
+1199	Brackish
+1200	Slow
+1201	Well
+1202	Rapid
+1203	Very rapid
+1204	high
+1205	middle
+1206	low
+1207	lowest
+1208	all
+1209	none
+1210	weak
+1211	moderate
+1212	strong
+1213	very slow (< 0.1 cm/h)
+1214	slow (0.1- 0.5 cm/h)
+1215	moderately slow (0.5- 2.0 cm/h)
+1216	moderate (2.0- 6.0 cm/h)
+1217	rapid (6.0-12.5 cm/h)
+1218	very rapid (12.5-25.0 cm/h)
+1219	extremely rapid ((≥ 25  cm/h)
+1220	fibric
+1221	hemic
+1222	sapric
+1223	histic
+1224	mollic
+1225	fimic
+1226	umbric
+1227	ochric
+1228	argic
+1229	natric
+1230	cambic
+1231	spodic
+1232	ferralic
+1233	nitic properties
+1234	calcic
+1235	petrocalcic
+1236	gypsic
+1237	petrogypsic
+1238	sulphuric
+1239	albic
+1240	abrupt textural change
+1241	strongly humic
+1242	Tropical rainforest - humid***
+1243	Fresh
+1244	andic properties
+1245	calcareous
+1246	calcaric
+1247	continuous hard rock
+1248	ferralic properties
+1249	ferric properties
+1250	fluvic properties
+1251	geric properties
+1252	gleyic and stagnic properties
+1253	gypsiferous
+1254	interfingering
+1255	organic soil materials
+1256	permafrost
+1257	plinthite
+1258	salic properties
+1259	slickensides
+1260	smeary consistence
+1261	sodic properties
+1262	soft lime
+1263	Histosol
+1264	Kastanozem
+1265	sulphidic materials
+1266	tonguing
+1267	vertic properties
+1268	weatherable minerals
+1269	structureless
+1270	weak
+1271	moderate
+1272	strong
+1273	very fine
+1274	fine
+1275	medium
+1276	coarse
+1277	very coarse
+1278	platy (particles arranged around a generally horizontal plane)
+1279	prismatic (prisms without rounded upper end)
+1280	columnar (prisms with rounded caps)
+1281	Lithic
+1282	angular blocky (bounded by plains intersecting at largely sharp angles)
+1283	subangular blocky (mixed rounded and plane faces with vertices mostly rounded)
+1284	granular (spheroidical or polyhedral, relatively non-porous)
+1285	crumb (spheroidical or polyhedral, porous)
+1286	massive (no structure)
+1287	single grain (no structure, individual grains)
+1288	wedge shaped (structure in horizons with slickensides)
+1289	allophane
+1290	chloritic
+1291	illitic
+1292	interstratified or mixed
+1293	kaolinitic
+1294	montmorillonitic
+1295	sesquioxidic
+1296	vermiculitic
+1297	Tropical rainforest  - wet
+1298	Leptosol
+1299	Luvisol
+1300	Lixisol
+1301	Nitisol
+1302	Tropical Savanna, dry summer
+1303	Tropical  Savanna, dry winter
+1304	Steppe climate - dry, hot
+1305	Steppe climate - dry, cold
+1306	Desert climate - dry, hot
+1307	Petrocalcic
+1308	Duripan
+1309	Petroferric
+1310	dark reddish grey
+1311	weak red
+1312	weak red
+1313	weak red
+1314	red
+1315	red
+1316	reddish grey
+1317	weak red
+1318	weak red
+1319	weak red
+1320	red
+1321	red
+1322	reddish grey
+1323	pale red
+1324	pale red
+1325	pale red
+1326	light red
+1327	light red
+1328	olive
+1329	grey
+1330	olive grey
+1331	grey
+1332	olive grey
+1333	- blank -
+1334	grey
+1335	olive grey
+1336	- blank -
+1337	- blank -
+1338	- blank -
+1339	light grey
+1340	light grey
+1341	- blank -
+1342	- blank -
+1343	- blank -
+1344	light grey
+1345	- blank -
+1346	light grey
+1347	- blank -
+1348	- blank -
+1349	- blank -
+1350	black
+1351	very dark brown
+1352	very dark grey
+1353	very dark greyish brown
+1354	dark brown
+1355	dark yellowish brown
+1356	dark yellowish brown
+1357	dark grey
+1358	dark greyish brown
+1359	(dark) brown
+1360	dark yellowish brown
+1361	dark yellowish brown
+1362	grey
+1363	greyish brown
+1364	brown
+1365	yellowish brown
+1366	yellowish brown
+1367	yellowish brown
+1368	(light) grey
+1369	light brownish grey
+1370	pale brown
+1371	light yellowish brown
+1372	brownish yellow
+1373	brownish yellow
+1374	light grey
+1375	light grey
+1376	very pale brown
+1377	very pale brown
+1378	yellow
+1379	yellow
+1380	white
+1381	white
+1382	very pale brown
+1383	very pale brown
+1384	yellow
+1385	yellow
+1386	black
+1387	very dark grey
+1388	very dark greyish brown
+1389	dark grey
+1390	dark greyish brown
+1391	olive brown
+1392	grey
+1393	greyish brown
+1394	light olive brown
+1395	light olive brown
+1396	(light) grey
+1397	light brownish grey
+1398	light yellowish brown
+1399	olive yellow
+1400	olive yellow
+1401	light grey
+1402	light grey
+1403	pale yellow
+1404	yellow
+1405	yellow
+1406	white
+1407	white
+1408	pale yellow
+1409	yellow
+1410	yellow
+1411	black
+1412	very dusky red
+1413	dark reddish brown
+1414	very dark grey
+1415	dusky red
+1416	dark reddish brown
+1417	dark red
+1418	dark grey
+1419	weak red
+1420	reddish brown
+1421	red
+1422	red
+1423	grey
+1424	weak red
+1425	reddish brown
+1426	red
+1427	red
+1428	gray
+1429	pale red
+1430	light reddish brown
+1431	light red
+1432	light red
+1433	dark bluish grey
+1434	bluish grey
+1435	bluish grey
+1436	light bluish grey
+1437	dark greenish grey
+1438	greenish grey
+1439	greenish grey
+1440	light greenish grey
+1441	dark greenish grey
+1442	greyish green
+1443	greenish grey
+1444	greyish green
+1445	greenish grey
+1446	pale green
+1447	light greenish grey
+1448	pale green
+1449	dark greenish grey
+1450	greenish grey
+1451	greenish grey
+1452	light greenish grey
+1453	reddish black
+1454	very dusky red
+1455	very dusky red
+1456	very dusky red
+1457	dark red
+1458	dark reddish grey
+1459	dusky red
+1460	dusky red
+1461	dusky red
+1462	dark red
+1463	dark red
+1464	dark reddish grey
+1465	weak red
+1466	weak red
+1467	weak red
+1468	red
+1469	red
+1470	reddish grey
+1471	weak red
+1472	weak red
+1473	weak red
+1474	red
+1475	red
+1476	reddish grey
+1477	pale red
+1478	pale red
+1479	pale red
+1480	light red
+1481	light red
+1482	black
+1483	black
+1484	very dark grey
+1485	dark olive grey
+1486	dark grey
+1487	olive grey
+1488	olive
+1489	olive
+1490	grey
+1491	olive grey
+1492	olive
+1493	olive
+1494	olive
+1495	(light) grey
+1496	light olive grey
+1497	pale olive
+1498	pale olive
+1499	olive yellow
+1500	olive yellow
+1501	light grey
+1502	light grey
+1503	pale yellow
+1504	pale yellow
+1505	yellow
+1506	yellow
+1507	white
+1508	white
+1509	pale yellow
+1510	pale yellow
+1511	yellow
+1512	yellow
+1513	black
+1514	dark reddish brown
+1515	very dark grey
+1516	dark reddish brown
+1517	dark reddish brown
+1518	dark reddish brown
+1519	dark grey
+1520	dark reddish grey
+1521	reddish brown
+1522	reddish brown
+1523	yellowish red
+1524	grey
+1525	reddish grey
+1526	Petrogypsic
+1527	Petric
+1528	Phreatic
+1529	Sodic
+1530	Desert climate - dry, cold
+1531	Warm temperate - moist all seasons, hot summer
+1532	Phaeozem
+1533	Planosol
+1534	Plinthosol
+1535	Podzol
+1536	Regosol
+1537	Solonchak
+1538	Solonetz
+1539	Warm temperate - moist all seasons, warm summer
+1540	Warm temperate - moist all seasons,  with cool short summer
+1541	Warm Temperate - dry summer, hot
+1542	Warm Temperate - dry summer, warm
+1543	Warm Temperate - dry summer, cool short summer
+1544	Warm temperate - dry winter, hot summer
+1545	Stony
+1546	Fragipan
+1547	Saline
+1548	Albeluvisol
+1549	Acrisol
+1550	Alisol
+1551	Andosol
+1552	Warm Temperate - dry winter, warm summer
+1553	Stagnosol
+1554	Technosol
+1555	Umbrisol
+1556	Vertisol
+1557	Igneous rock
+1558	Acid igneous rock
+1559	Oxygenated
+1560	Warm Temperate - dry winter, cool short summer
+1561	Snow climates - moist all seasons, hot summer
+1562	Snow climates - moist all seasons, warm summer
+1563	Snow climates - moist all seasons, cool short summer
+1564	Snow climates - moist all seasons, very cold winter
+1565	Snow climates - dry winter, hot summer
+1566	Snow climates - dry winter, warm summer
+1567	Snow climates - dry winter, cool short summer
+1568	Snow climates - dry winter, very cold winter
+1569	Frost climates
+1570	Tundra climates
+1571	Mountain/Highland climates, undiff.
+1572	Cerrado
+1573	Snow climates - dry summer, warm
+1574	Snow climates - dry summer,  cool short summer
+1575	Snow climates  -dry summer,  very cold winter
+1576	Arenosol
+1577	Anthrosol
+1578	Chernozem
+1579	Calcisol
+1580	Cambisol
+1581	Cryosol
+1582	Durisol
+1583	Fluvisol
+1584	Ferralsol
+1585	Gleysol
+1586	Gypsisol
+1587	Acid igneous rock: diorite
+1588	Acid igneous rock: grano-diorite
+1589	Acid igneous rock: quartz-diorite
+1590	Acid igneous rock: rhyiolite
+1591	Intermediate igneous rock
+1592	Intermediate igneous rock: andesite, trachyte, phonolite
+1593	Intermediate igneous rock: diorite-syenite
+1594	Basic igneous rock
+1595	Basic igneous rock: gabbro
+1596	Basic igneous rock: basalt
+1597	Basic igneous rock: dolerite
+1598	Ultrabasic igneous rock
+1599	Ultrabasic igneous rock: peridotite
+1600	Ultrabasic igneous rock: pyroxenite
+1601	Ultrabasic igneous rock: ilmenite, magnetite, ironstone, serpentine
+1602	Pyroclastic rock
+1603	Pyroclastic rock: tuff, tuffite
+1604	Pyroclastic rock: volcanic scoria/breccia
+1605	Pyroclastic rock: volcanic ash
+1606	Pyroclastic rock: ignimbrite
+1607	Metamorphic rock
+1608	Acid metamorphic rock
+1609	Acid metamorphic rock: quartzite
+1610	Acid metamorphic rock: gneiss, migmatite
+1611	Acid metamorphic rock: slate, phyllite, (pellitic rocks)
+1612	Acid metamorphic rock: schist
+1613	Basic metamorphic rock
+1614	Basic metamorphic rock: slate, phyllite (pelitic rocks)
+1615	Basic metamorphic rock: (green) schist
+1616	Basic metamorphic rock: gneiss rich in ferro-magnesian minerals
+1617	Basic metamorphic rock: metamorphic limestone (marble)
+1618	Basic metamorphic rock: amphibolite
+1619	Basic metamorphic rock: eclogite
+1620	Ultrabasic metamorphic rock
+1621	Ultrabasic metamorphic rock: serpentinite, greenstone
+1622	Sedimentary rock
+1623	Clastic sediments
+1624	Clastic sediments: conglomerate, breccia
+1625	Clastic sediments: sandstone, greywacke, arkose
+1626	Clastic sediments: siltstone, mudstone, claystone
+1627	Clastic sediments: shale
+1628	Clastic sediments: ironstone
+1629	Sedimentary organic or carbonatic rock
+1630	Sedimentary organic or carbonatic rock: limestone, other carbonate rocks
+1631	Dolerite
+1632	Sedimentary organic or carbonatic rock: marl and other mixtures
+1633	Sedimentary organic or carbonatic rock: coals, bitumen and related rocks
+1634	Evaporites
+1635	Evaporites: anhydrite, gypsum
+1636	Evaporites: halite
+1637	Unconsolidated rock
+1638	Weathered residuum
+1639	Weathered residuum: bauxite, laterite
+1640	Unconsolidated rock: fluvial
+1641	Unconsolidated fluvial rock: sand and gravel
+1642	Unconsolidated fluvial rock: clay, silt and loam
+1643	Unconsolidated rock: lacustrine
+1644	Unconsolidated lacustrine rock: sand
+1645	Unconsolidated lacustrine rock: silt and clay
+1646	Unconsolidated rock: marine
+1647	Unconsolidated marine rock: sand
+1648	Unconsolidated marine rock: clay and silt
+1649	Unconsolidated rock: colluvial
+1650	Unconsolidated colluvial rock: slope deposits
+1651	Unconsolidated colluvial rock: lahar
+1652	Unconsolidated rock: eolian
+1653	Unconsolidated rock: eolian rock: loess
+1654	Unconsolidated rock: eolian rock: sand
+1655	Unconsolidated rock: glacial
+1656	Unconsolidated glacial rock: moraine
+1657	Unconsolidated glacial rock: glacio-fluvial sands
+1658	Unconsolidated kryogenic rock
+1659	Unconsolidated kryogenic rock: periglacial rock debris
+1660	Unconsolidated kryogenic rock: periglacial solifluction layer
+1661	Unconsolidated rock: pyroclastic
+1662	Unconsolidated rock: organic
+1663	Unconsolidated organic rock: rainwater-fed moor peat
+1664	Unconsolidated organic rock: groundwater-fed bog peat
+1665	Unconsolidated anthropogenic/technogenic rock
+1666	Unconsolidated anthropogenic/technogenic rock: redeposited natural material
+1667	Unconsolidated anthropogenic/technogenic rock: industrial/artisanal deposits
+1668	Unconsolidated and unspecified deposits
+1669	Unconsolidated and unspecified deposits: clay
+1670	Unconsolidated and unspecified deposits: loam and silt
+1671	Unconsolidated and unspecified deposits: sand
+1672	Unconsolidated and unspecified deposits: gravelly sand
+1673	Unconsolidated and unspecified deposits: gravel, broken rock
+1674	Derived from GPS measurements
+1675	Converted from DMS data, available up to seconds
+1676	Converted from DMS data, available only up to minutes
+1677	Converted from other sources (location description, etc)
+1678	Sandstone
+1679	Non calcareous sandstone
+1680	Arkosic sandstone
+1681	Graywacke
+1682	Calcareous sandstone
+1683	Acid igneous/metamorphic rock
+1684	Andesite
+1685	Interbedded sedimentary rock
+1686	Limestone/sandstone/shales
+1687	Limestone/sandstone
+1688	Limestone/shale
+1689	Limestone/siltstone
+1690	Sandstone/shale
+1691	Sandstone/siltstone
+1692	Shale/siltstone
+1693	Basic igneous/metamorphic rock
+1694	Basalt
+1695	Conglomerate
+1696	Conglomerate, non calcareous
+1697	Conclomerate, calcareous
+1698	Conglomerate
+1699	Diorite
+1700	Dolomite
+1701	Unconsolidated pyroclastic rocks
+1702	Ejecta ash
+1703	Acidic ash
+1704	Basic ash
+1705	Lapilli
+1706	Acidic lapilli
+1707	Basic lapilli
+1708	Volcanic bombs
+1709	Evaporite
+1710	Gabbro
+1711	Granite/gneiss
+1712	Gneiss
+1713	Granite
+1714	Gypsum rock
+1715	Shale
+1716	Non calcareous shale
+1717	Calcareous shale
+1718	Igneous rock
+1719	Coarse-grained igneous rock
+1720	Coarse-grained basic igneous
+1721	Coarse-grained intermediate igneous
+1722	Coarse-grained acid igneous
+1723	Fine-grained igneous rock
+1724	Fine-grained basic igneous
+1725	Fine-grained intermediate igneous
+1726	Fine-grained acid igneous
+1727	Fine-grained ultrabasic igneous
+1728	Organic material
+1729	Mossy material
+1730	Herbaceous material
+1731	Woody material
+1732	Wood fragments, small
+1733	Wood fragments, large
+1734	Charcoal
+1735	Limestone
+1736	Chalk
+1737	Marble
+1738	Dolomitic limestone
+1739	Phosphatic limestone
+1740	Arenaceous limestone
+1741	Argillaceous limestone
+1742	Cherty limestone
+1743	Limestone
+1744	Metamorphic rock
+1745	Gneiss
+1746	Acidic gneiss
+1747	Basic gneiss
+1748	Serpentinite
+1749	Schist
+1750	Acidic schist
+1751	Basic schist
+1752	Slate
+1753	Quartzite
+1754	Marl
+1755	Not known
+1756	Pyroclastic, consolidated
+1757	Tuff
+1758	Acidic tuff
+1759	Basic tuff
+1760	Volcanic breccia
+1761	Acidic volcanic breccia
+1762	Basic volcanic breccia
+1763	Tuff breccia
+1764	Scoria/cinders
+1765	Pumice
+1766	Pyroclastic rock
+1767	Quartzitic sandstone
+1768	Quartzite
+1769	Sedimentary rock
+1770	Marl
+1771	Glauconite
+1772	Sandstone
+1773	Schist
+1774	Sedimentary rock
+1775	Shale
+1776	Siltstone
+1777	Siltstone
+1778	Non calcareous siltstone
+1779	Calcareous siltstone
+1780	Travertine
+1781	Tuff
+1782	Claystone
+1783	Non calcareous claystone
+1784	Calcareous claystone
+1785	Ultar basic rock
+1786	Volcanic rock
+1787	Highly weathered material
+1788	Lateritic material
+1789	Bauxitic material
+1790	Non calcareous or acid
+1791	Calcareous
+1792	Mixed lithology
+1793	Igneous/metamorphic/sediment.
+1794	Igneous and metamorphic
+1795	Igneous and sedimentary
+1796	Metamorphic/sedimentary
+1797	Mixed lithology and composition
+1798	Alluvium
+1799	Eolian mixed / undifferentiated
+1800	Eolean loess
+1801	Eolian sand
+1802	Ejecta ash
+1803	Lacustrine sediments
+1804	Estuarine sediments
+1805	Marine sediments
+1806	Colluvium
+1807	Slope wash
+1808	Fluvio-glacial sediments
+1809	Ice-pushed materials
+1810	Glacial outwash
+1811	Glacial till
+1812	Glacial drift
+1813	Organic sediments
+1814	Residual material
+1815	Unconsolidated, unspecified
+1816	Solid rock
+1817	Man-made
+1818	Sandy
+1819	Sandy clay
+1820	Silty
+1821	Loamy
+1822	Clayey
+1823	Gravelly
+1824	Stony
+1825	Mixed
+1826	Organic
+1827	Slight
+1828	Partial / moderate
+1829	High
+1830	Very high
+1831	High
+1832	Moderate
+1833	Low
+1834	south
+1835	south-south-east
+1836	south-east
+1837	east-south-east
+1838	east
+1839	east-north-east
+1840	north-east
+1841	north-north-east
+1842	north
+1843	north-north-west
+1844	north-west
+1845	west-north-west
+1846	west
+1847	west-south-west
+1848	south-west
+1849	south-south-west
+1850	Convex
+1851	Concave
+1852	Straight
+1853	Complex
+1854	Undulating
+1855	Crest
+1856	Upper slope
+1857	Middle slope
+1858	Lower slope
+1859	Slope unspecified
+1860	Flat
+1861	Open depression
+1862	Depression (closed)
+1863	None
+1864	Daily
+1865	Monthly
+1866	Yearly
+1867	Irregular
+1868	Ponded
+1869	Very slow
+1870	Slow
+1871	Medium
+1872	Rapid
+1873	Very rapid
+1874	Saline
+1875	Stillor stagnant
+1876	Sheet
+1877	Rill
+1878	Gully
+1879	Wind
+1880	None
+1881	Slight
+1882	Moderate
+1883	Severe
+1884	None
+1885	Little rocky
+1886	Fairly rocky
+1887	Rocky
+1888	Extremely rocky
+1889	Very rocky
+1890	Outcrop
+1891	None
+1892	Very few stones.
+1893	Fairly stony
+1894	Stony
+1895	Very stony
+1896	Exceedingly stony
+1897	Rubble land
+1898	(Sub)rounded
+1899	Angular blocky
+1900	Angular irregular
+1901	Platy, flat
+1902	reddish black
+1903	very dusky red
+1904	dark reddish grey
+1905	dusky red
+1906	dusky red
+1907	dusky red
+1908	dark red
+1909	reddish brown
+1910	reddish brown
+1911	yellowish red
+1912	yellowish red
+1913	(light) grey
+1914	pinkish grey
+1915	light reddish brown
+1916	light reddish brown
+1917	reddish yellow
+1918	reddish yellow
+1919	light grey
+1920	pinkish grey
+1921	pink
+1922	pink
+1923	reddish yellow
+1924	reddish yellow
+1925	white
+1926	pinkish white
+1927	pink
+1928	pink
+1929	- blank -
+1930	- blank -
+1931	- blank -
+1932	- blank -
+1933	- blank -
+1934	- blank -
+1935	- blank -
+1936	- blank -
+1937	- blank -
+1938	- blank -
+1939	- blank -
+1940	- blank -
+1941	- blank -
+1942	- blank -
+1943	- blank -
+1944	- blank -
+1945	- blank -
+1946	- blank -
+1947	- blank -
+1948	- blank -
+1949	- blank -
+1950	- blank -
+1951	- blank -
+1952	- blank -
+1953	- blank -
+1954	- blank -
+1955	- blank -
+1956	black
+1957	very dusky red
+1958	very dusky red
+1959	very dark grey
+1960	dusky red
+1961	dusky red
+1962	dark red
+1963	dark red
+1964	dark grey
+1965	weak red
+1966	weak red
+1967	red
+1968	red
+1969	grey
+1970	weak red
+1971	weak red
+1972	red
+1973	red
+1974	grey
+1975	pale red
+1976	pale red
+1977	light red
+1978	light red
+1979	- blank -
+1980	- blank -
+1981	olive black
+1982	- blank -
+1983	greyish olive
+1984	- blank -
+1985	greyish olive
+1986	- blank -
+1987	- blank -
+1988	greyish olive
+1989	- blank -
+1990	- blank -
+1991	- blank -
+1992	- blank -
+1993	light grey
+1994	- blank -
+1995	- blank -
+1996	- blank -
+1997	- blank -
+1998	- blank -
+1999	light grey
+2000	- blank -
+2001	- blank -
+2002	- blank -
+2003	black
+2004	very dark brown
+2005	very dark brown
+2006	very dark grey
+2007	dark brown
+2008	dark brown
+2009	dark grey
+2010	(dark) brown
+2011	(dark) brown
+2012	strong brown
+2013	grey
+2014	brown
+2015	brown
+2016	strong brown
+2017	strong brown
+2018	(light) grey
+2019	pinkish grey
+2020	light brown
+2021	reddish yellow
+2022	reddish yellow
+2023	light grey
+2024	pinkish grey
+2025	pink
+2026	reddish yellow
+2027	reddish yellow
+2028	white
+2029	pinkish white
+2030	pink
+2031	reddish yellow
+2032	black
+2033	black
+2034	very dark grey
+2035	dark grey
+2036	grey
+2037	(light) grey
+2038	light grey
+2039	white
+2040	Very fine (0.1-1 mm)
+2041	Fine (1-2 mm)
+2042	Fine (< 5 mm)
+2043	Fine to medium (< 15 mm)
+2044	Medium (5-15 mm)
+2045	Medium to coarse (> 5 mm)
+2046	Coarse (> 15 mm)
+2047	Heterogeneous
+2071	very fine
+2072	very fine and fine
+2073	fine
+2074	fine and medium
+2075	medium
+2076	medium and coarse
+2077	coarse
+2078	coarse and very coarse
+2079	very coarse
+2080	Structureless
+2081	Structureless and weakly coherent
+2082	Structureless and moderately coherent
+2083	Structureless and strongly coherent
+2084	None
+2085	Few (1-50 per square decimetre)
+2086	Few to common (1-200 per square decimetre)
+2087	Common (50-200 per square decimetre)
+2088	Common to many (> 50 per square decimetre)
+2089	Many (> 200 per square decimetre)
+2090	Micro (< 0.1 mm)
+2091	Medium (2-5 mm)
+2092	Coarse (5-10 mm)
+2093	Very coarse (> 10 mm)
+2094	Coarse (5-10 mm) and very coarse (> 10 mm)
+2095	Medium (2-5 mm) and coarse (5-10 mm)
+2096	Fine (1-2 mm) to coarse (5-10 mm)
+2097	Micro (< 0.1 mm) to very coarse (> 10 mm)
+2098	Very fine (0.1-1 mm) and fine (1-2 mm)
+2099	Fine (1-2 mm) and medium (1-5 mm)
+2100	Micro (< 0.1 mm) to fine (1-2 mm)
+2101	Micro (< 0.1 mm) to coarse (5-10 mm)
+2102	Micro (< 0.1 mm) and very fine (0.1-1 mm)
+2103	Micro (< 0.1 mm) to medium (2-5 mm)
+2104	Very fine (0.1-1 mm) to medium (1-5 mm)
+2105	Very fine (0.1-1 mm) to coarse (5-10 mm)
+2106	Continuous
+2107	Vesicular
+2108	Discontinuous
+2109	Interstitial
+2110	Tubular
+2111	None
+2112	Few
+2113	Common
+2114	Many
+2115	Micro
+2116	Very fine (diameter < 1 mm)
+2117	Very fine (diameter < 1 mm) and fine (diameter 1-2 mm)
+2118	Fine (diameter 1-2 mm)
+2119	Fine (diameter 1-2 mm) and medium (diameter 2-5 mm)
+2120	Medium (diameter 2-5 mm)
+2121	Medium (diameter 2-5 mm) and coarse (diameter > 5 mm)
+2122	Coarse (diameter > 5 mm)
+2123	All; from very fine (diameter < 1 mm) to coarse (diameter > 5 mm)
+2124	Moderate
+2125	Structureless
+2126	Strong
+2127	Weak
+2128	Angular blocky
+2129	Crumb
+2130	Columnar
+2131	Granular
+2132	Massive
+2133	Single grain
+2134	Platy
+2135	Prismatic
+2136	Subangular blocky
+2137	Wedge shaped
+2138	Igneous rock
+2139	Acid igneous rock
+2140	Acid igneous rock: granite
+2141	Acid igneous rock: quartz-diorite/grano-diorite
+2142	Acid igneous rock: syenite
+2143	Acid igneous rock: rhyiolite,dacite
+2144	Intermediate igneous rock
+2145	Intermediate igneous rock: andesite, trachyte, phonolite
+2146	Intermediate igneous rock: diorite, diorite-syenite
+2147	Basic igneous rock
+2148	Basic igneous rock: gabbro
+2149	Basic igneous rock: basalt
+2150	Basic igneous rock: dolerite/diabase
+2151	Ultrabasic igneous rock
+2152	Ultrabasic igneous rock: peridotite
+2153	Ultrabasic igneous rock: pyroxenite
+2154	Ultrabasic igneous rock: ilmenite, magnetite, ironstone
+2155	Pyroclastic igneous rock
+2156	Pyroclastic igneous rock: tuff, tuffite
+2157	Pyroclastic igneous rock: volcanic scoria/breccia
+2158	Pyroclastic igneous rock: volcanic ash
+2159	Pyroclastic igneous rock: ignimbrite
+2160	Metamorphic rock
+2161	Acid metamorphic rock
+2162	Acid metamorphic rock: quartzite
+2163	Acid metamorphic rock: gneiss, migmatite, granulite
+2164	Acid metamorphic rock: slate, phyllite
+2165	Acid metamorphic rock: schist
+2166	Basic metamorphic rock
+2167	Basic metamorphic rock: slate, phyllite
+2168	Basic metamorphic rock: (green) schist
+2169	Basic metamorphic rock: gneiss rich in ferro-magnesian minerals
+2170	Basic metamorphic rock: metamorphic limestone (marble)
+2171	Basic metamorphic rock: amphibolite
+2172	Basic metamorphic rock: eclogite
+2173	Ultrabasic metamorphic rock
+2174	Ultrabasic metamorphic rock: serpentine, greenstone
+2175	Sedimentary rock
+2176	Clastic sediments
+2177	Clastic sediments: conglomerate, breccia
+2178	Clastic sediments: sandstone, greywacke, arkose, arenite
+2179	Clastic sediments: siltstone, mudstone, claystone
+2180	Clastic sediments: shale
+2181	Clastic sediments: ironstone
+2182	Organic (sedimentary rock)
+2183	Organic (sedimentary rock): limestone, other carbonate rocks
+2184	Organic (sedimentary rock): marl and other mixtures
+2185	Organic (sedimentary rock): coals, bitumen & related rocks
+2186	Evaporites
+2187	Evaporites: anhydrite. gypsum
+2188	Evaporites: halite
+2189	Sedimentary rock (unconsolidated)
+2190	Weathered residuum
+2191	Weathered residuum: bauxite, laterite
+2192	Sedimentary rock (unconsolidated): fluvial
+2193	Sedimentary rock (unconsolidated): fluvial - sand and gravel
+2194	Sedimentary rock (unconsolidated): fluvial - clay, silta, and loam
+2195	Lacustrine unconsolidated rock
+2196	Lacustrine unconsolidated rock - sand
+2197	Lacustrine unconsolidated rock - silt and clay
+2198	Marine and estuarine unconsolidated rock
+2199	Marine and estuarine unconsolidated rock - sand
+2200	Marine and estuarine unconsolidated rock - clay and silt
+2201	Colluvial unconsolidated rock
+2202	Colluvial unconsolidated rock - slope deposits
+2203	Colluvial unconsolidated rock - lahar
+2204	Eolian unconsolidated rock
+2205	Eolian unconsolidated rock - loess
+2206	Eolian unconsolidated rock - sands
+2207	Glacial unconsolidated rock
+2208	Glacial unconsolidated rock - morainic deposits
+2209	Glacial unconsolidated rock - glaciofluvial sands
+2210	Glacial unconsolidated rock - glaciofluvial gravel
+2211	Kryogenic unconsolidated rock
+2212	Kryogenic unconsolidated rock - periglacial rock debris
+2213	Kryogenic unconsolidated rock - periglacial rock solifluction materials
+2214	Organic unconsolidated rock
+2215	Organic unconsolidated rock - raineater-fed moor peat
+2216	Organic unconsolidated rock - groundwater-fed bog peat
+2217	Anthropogenic sedimentary rock
+2218	Anthropogenic sedimentary rock - redeposited natural materials
+2219	Anthropogenic sedimentary rock - industrial/artisanal deposits
+2220	Sedimentary rock (unconsolidated) - unspecified
+2221	Sedimentary rock (unconsolidated) - unspecified sediments
+2222	Hypergelic
+2223	Subgelic
+2224	Snow climates - dry summer, hot
+2225	Mild temperate rainy climate - winter dry
+2226	Unconsolidated rock: hardened laterite and ferruginous materials
+2227	Unconsolidated rock: soft laterite and ferruginous materials
+2228	Mild temperate rainy climate - no distinct dry season
+2229	Mild temperate rainy climate - summer dry
+2230	Cold snow-forest climate - humid winters
+2231	Cold snow-forest climate - summer dry
+2232	Weak
+2233	Moderate
+2234	Strong
+2235	Weak to moderate
+2236	Moderate to strong
+2237	Sand, unsorted
+2238	Very weak
+2239	Very strong
+2240	Bottom (flat) in undulating to mountainous terrain
+2241	Coarse (> 20 mm)
+2242	Blocky
+2243	Crumbs, lumps and clods
+2244	Granular
+2245	Platy
+2246	Prismatic
+2247	Rock structure
+2249	Sand
+2250	Loamy sand
+2251	Sandy loam
+2252	Sandy clay loam
+2253	Silty loam
+2254	Silty clay loam
+2255	Clay loam
+2256	Loam
+2257	Silt
+2258	Sandy clay
+2259	Silty clay
+2260	Clay
+2261	January
+2262	February
+2263	March
+2264	April
+2265	May
+2266	June
+2267	July
+2268	August
+2269	September
+2270	October
+2271	November
+2272	December

@@ -1,282 +1,282 @@
-AttributeId;Name
-2;Soil profile description status
-10;Monthly mean temperature
-20;Slope length
-51;Size of artefacts
-217;Silt
-30;Surface cover of coarse fragments
-43;Bleached sand surface cover
-1;Profile number / identification code
-69;Form of secondary gypsum
-89;Form of coatings
-122;Soil Unit
-139;Flooding frequency
-175;Permanent water surface
-191;Number of reference profiles
-192;Position in the terrain component
-193;Type of erosion/deposition
-265;Silt content (generic)
-266;Clay content (generic)
-268;Profile location status
-269;Parent material / Parent rock
-270;Mode of accumulation or deposition
-271;Texture of parent material
-272;Weathering status
-273;Resistance to weathering
-274;Run off
-21;Slope orientation
-22;Land use
-23;Crop
-24;Human influence
-25;Vegetation
-29;Distance between rock outcrops
-33;Area affected by erosion
-4;Author
-6;Elevation
-178;Dominant slope
-32;Main erosion category
-194;Sensitivity to capping
-67;Form of secondary carbonates
-275;Nature of flood water
-26;Parent material
-27;Age of the land surface
-31;Size class of coarse surface fragments
-205;FAO-Unesco soil taxonomic classification
-5;Location
-7;Map sheet number
-8;Major landform
-11;Monthly mean precipitation
-48;Soil textural class
-12;The length of the growing period
-13;Present weather conditions
-14;Former weather conditions
-15;Air temperature
-16;Soil temperature regime
-17;Soil moisture regime
-18;Slope form
-42;Thickness of salt cover at the surface
-19;Slope gradient
-109;Weathering of artefacts
-166;Minimum elevation
-34;Degree of erosion
-35;Period of activity of erosion
-36;Surface crust thickness
-37;Surface crust consistency
-38;Width of surface cracks
-39;Depth of surface cracks
-40;Distance between surface cracks
-41;Cover of salt at the surface
-206;Horizon number
-44;Upper horizon boundary
-45;Lower horizon boundary
-46;Distinctness of the horizon boundary
-47;Topography of the horizon boundary
-49;Abundance of rock fragments, by volume
-52;Shape of rock fragments
-53;State of weathering of coarse fragments
-54;Nature of rock fragments
-55;Degree of decomposition and humification of peat
-56;Aeromorphic organic layer on forest floor
-57;Dry soil colour (matrix)
-58;Moist soil colour (matrix)
-59;Colour of mottles
-60;Abundance of mottles
-61;Size of mottles
-62;Contrast of mottles
-63;Boundary of mottles
-64;Redoximorphic soil characteristics
-195;Rootable depth
-65;Reducing conditions
-50;Size of rock fragments
-66;Carbonate reaction in the soil matrix
-83;Classification of porosity
-68;Content of gypsum
-70;Soil horizon designation
-71;Grade of structure of pedal soil materials
-73;Size class for soil structure types
-74;Compound structure relationship
-75;Consistence when dry
-76;Consistence when moist
-77;Consistence when wet: maximum stickiness
-78;Consistence when wet: maximum plasticity
-79;Soil-water status
-196;Relation with other soil components
-80;Bulk density
-81;Subdivision of the sand fraction
-82;Field estimation of textural classes
-85;Diameter of voids
-86;Abundance of pores
-87;Abundance of coatings
-90;Location of coatings
-92;Structure of the cemented or compacted layer
-93;Nature of cementation or compaction
-94;Degree of cementation or compaction
-95;Abundance of mineral concentrations
-96;Kind of mineral concentrations
-97;Size of mineral concentrations
-98;Shape of mineral concentrations
-99;Hardness of mineral concentrations
-100;Nature of mineral concentrations
-101;Colour of mineral concentrations
-102;Size of roots
-103;Abundance of roots
-104;Abundance of biological activity
-105;Kind of biological features
-106;Abundance of artefacts, by volume
-107;Kind of artefacts
-108;Hardness of artefacts
-110;Colour of artefacts
-111;Complex landform
-112;Grid reference
-113;Type of salt at the surface
-114;Soil odour
-84;Classification of voids (pores)
-115;Andic characteristics
-116;Volcanic glasses
-165;Map_ID
-117;Estimate of organic matter content
-202;Profile_ID
-212;Coarse sand
-118;Readily soluble salts
-119;Landform
-120;Slope gradient class
-121;Unconsolidated parent material
-123;Latitude
-124;Longitude
-128;Phase (1988)
-129;Topography
-130;Land element
-131;Micro-topography
-132;Soil-landscape sequential relationships
-133;Grass cover
-134;Effective soil depth
-188;Depth of groundwater
-247;Clay mineralogy
-135;Drainage class
-136;Saturation
-203;Profile database_ID
-204;Lab_ID
-137;Hydraulic conductivity
-138;External drainage
-140;Flooding duration
-141;Flooding depth
-142;Present depth to the groundwater table
-143;Minimum depth to the groundwater table
-144;Maximum depth to the  groundwater table
-145;Phreatic water
-146;Groundwater quality
-147;Moisture conditions
-148;Clay
-149;Fine silt
-150;Coarse silt
-151;Silt
-152;Very fine sand
-153;Fine sand
-154;Medium sand
-155;Coarse sand
-156;Very coarse sand
-157;Total sand
-158;Field estimate of the percentage of clay
-159;Nature of coatings
-160;Field pH
-161;Erosion main category
-162;Erosion type
-163;SOTER unit_ID
-167;Maximum elevation
-168;Slope gradient
-169;Relief intensity
-224;Soluble Mg++
-190;Soil component number
-170;Major landform
-171;Regional slope
-172;Hypsometry
-210;Size of coarse fragments
-258;pH (H2O)
-282;Clay
-218;Infiltration rate
-221;Electrical conductivity (ECe)
-173;Dissection
-174;General lithology
-176;Terrain component number
-177;Proportion of SOTER unit
-179;Length of slope
-180;Form of slope
-181;Local surface form
-182;Average height
-183;Coverage
-184;Lithology surficial material
-185;Texture of non-consolidated parent material
-186;Depth to bedrock
-187;Surface drainage
-189;Start of flooding
-197;Sampling month
-198;Sampling year
-199;surface organic matter
-200;Classification version
-201;National or local classification
-207;Diagnostic horizon
-208;Diagnostic property
-209;Size of structure elements
-222;Soluble Na+
-280;Silt
-223;Soluble Ca++
-225;Soluble K+
-226;Soluble Cl-
-227;Soluble SO4--
-228;Soluble HCO3-
-229;Soluble CO3--
-230;Exchangeable Ca++
-231;Exchangeable Mg++
-232;Exchangeable Na+
-233;Exchangeable K+
-234;Exchangeable Al+++
-235;Exchangeable acidity
-236;CEC soil
-237;Total carbonate equivalent
-238;Gypsum
-239;Total carbon
-240;Total nitrogen
-241;P2O5 content.
-242;Phosphate retention
-243;Fe, dithionite extractable
-244;Fe, pyrophosphate extractable
-245;Al, dithionite extractable
-246;Al, pyrophosphate extractable
-248;Terrain component data_id
-249;Depth of soil
-250;Phase (1974)
-251;Reference soil group (WRB, 2006)
-252;Edition (year) of USDA Soil Taxonomy
-220;pH (KCl)
-211;Very coarse sand
-216;Total sand
-278;Total sand
-253;Climate
-254;Parent material
-255;Horizon designation
-256;Organic carbon (generic)
-257;Electrical conductivity (generic)
-259;pH (KCl)
-260;pH (CaCl2)
-261;Exchangeable Acidity (H+ and Al+++)
-262;Cation Exchange capacity (CEC)
-263;Base saturation (as percentage of CEC)
-264;Sand content (generic)
-28;Surface cover of rock outcrops
-72;Type of structure
-276;Quantity of pores
-267;Coarse fragments content
-277;Continuity of pores
-219;pH (H2O)
-164;Year of data collection
-279;Total sand
-281;Silt
-283;Clay
-9;Position 
-88;Contrast of coatings
-91;Continuity of cementation or compaction
-3;Date of description
-215;Very fine sand
-214;Fine sand
-213;Medium sand
-284;Multispec
+AttributeId	Name
+1	Profile number / identification code
+2	Soil profile description status
+3	Date of description
+4	Author
+5	Location
+6	Elevation
+7	Map sheet number
+8	Major landform
+9	Position 
+10	Monthly mean temperature
+11	Monthly mean precipitation
+12	The length of the growing period
+13	Present weather conditions
+14	Former weather conditions
+15	Air temperature
+16	Soil temperature regime
+17	Soil moisture regime
+18	Slope form
+19	Slope gradient
+20	Slope length
+21	Slope orientation
+22	Land use
+23	Crop
+24	Human influence
+25	Vegetation
+26	Parent material
+27	Age of the land surface
+28	Surface cover of rock outcrops
+29	Distance between rock outcrops
+30	Surface cover of coarse fragments
+31	Size class of coarse surface fragments
+32	Main erosion category
+33	Area affected by erosion
+34	Degree of erosion
+35	Period of activity of erosion
+36	Surface crust thickness
+37	Surface crust consistency
+38	Width of surface cracks
+39	Depth of surface cracks
+40	Distance between surface cracks
+41	Cover of salt at the surface
+42	Thickness of salt cover at the surface
+43	Bleached sand surface cover
+44	Upper horizon boundary
+45	Lower horizon boundary
+46	Distinctness of the horizon boundary
+47	Topography of the horizon boundary
+48	Soil textural class
+49	Abundance of rock fragments, by volume
+50	Size of rock fragments
+51	Size of artefacts
+52	Shape of rock fragments
+53	State of weathering of coarse fragments
+54	Nature of rock fragments
+55	Degree of decomposition and humification of peat
+56	Aeromorphic organic layer on forest floor
+57	Dry soil colour (matrix)
+58	Moist soil colour (matrix)
+59	Colour of mottles
+60	Abundance of mottles
+61	Size of mottles
+62	Contrast of mottles
+63	Boundary of mottles
+64	Redoximorphic soil characteristics
+65	Reducing conditions
+66	Carbonate reaction in the soil matrix
+67	Form of secondary carbonates
+68	Content of gypsum
+69	Form of secondary gypsum
+70	Soil horizon designation
+71	Grade of structure of pedal soil materials
+72	Type of structure
+73	Size class for soil structure types
+74	Compound structure relationship
+75	Consistence when dry
+76	Consistence when moist
+77	Consistence when wet: maximum stickiness
+78	Consistence when wet: maximum plasticity
+79	Soil-water status
+80	Bulk density
+81	Subdivision of the sand fraction
+82	Field estimation of textural classes
+83	Classification of porosity
+84	Classification of voids (pores)
+85	Diameter of voids
+86	Abundance of pores
+87	Abundance of coatings
+88	Contrast of coatings
+89	Form of coatings
+90	Location of coatings
+91	Continuity of cementation or compaction
+92	Structure of the cemented or compacted layer
+93	Nature of cementation or compaction
+94	Degree of cementation or compaction
+95	Abundance of mineral concentrations
+96	Kind of mineral concentrations
+97	Size of mineral concentrations
+98	Shape of mineral concentrations
+99	Hardness of mineral concentrations
+100	Nature of mineral concentrations
+101	Colour of mineral concentrations
+102	Size of roots
+103	Abundance of roots
+104	Abundance of biological activity
+105	Kind of biological features
+106	Abundance of artefacts, by volume
+107	Kind of artefacts
+108	Hardness of artefacts
+109	Weathering of artefacts
+110	Colour of artefacts
+111	Complex landform
+112	Grid reference
+113	Type of salt at the surface
+114	Soil odour
+115	Andic characteristics
+116	Volcanic glasses
+117	Estimate of organic matter content
+118	Readily soluble salts
+119	Landform
+120	Slope gradient class
+121	Unconsolidated parent material
+122	Soil Unit
+123	Latitude
+124	Longitude
+128	Phase (1988)
+129	Topography
+130	Land element
+131	Micro-topography
+132	Soil-landscape sequential relationships
+133	Grass cover
+134	Effective soil depth
+135	Drainage class
+136	Saturation
+137	Hydraulic conductivity
+138	External drainage
+139	Flooding frequency
+140	Flooding duration
+141	Flooding depth
+142	Present depth to the groundwater table
+143	Minimum depth to the groundwater table
+144	Maximum depth to the  groundwater table
+145	Phreatic water
+146	Groundwater quality
+147	Moisture conditions
+148	Clay
+149	Fine silt
+150	Coarse silt
+151	Silt
+152	Very fine sand
+153	Fine sand
+154	Medium sand
+155	Coarse sand
+156	Very coarse sand
+157	Total sand
+158	Field estimate of the percentage of clay
+159	Nature of coatings
+160	Field pH
+161	Erosion main category
+162	Erosion type
+163	SOTER unit_ID
+164	Year of data collection
+165	Map_ID
+166	Minimum elevation
+167	Maximum elevation
+168	Slope gradient
+169	Relief intensity
+170	Major landform
+171	Regional slope
+172	Hypsometry
+173	Dissection
+174	General lithology
+175	Permanent water surface
+176	Terrain component number
+177	Proportion of SOTER unit
+178	Dominant slope
+179	Length of slope
+180	Form of slope
+181	Local surface form
+182	Average height
+183	Coverage
+184	Lithology surficial material
+185	Texture of non-consolidated parent material
+186	Depth to bedrock
+187	Surface drainage
+188	Depth of groundwater
+189	Start of flooding
+190	Soil component number
+191	Number of reference profiles
+192	Position in the terrain component
+193	Type of erosion/deposition
+194	Sensitivity to capping
+195	Rootable depth
+196	Relation with other soil components
+197	Sampling month
+198	Sampling year
+199	surface organic matter
+200	Classification version
+201	National or local classification
+202	Profile_ID
+203	Profile database_ID
+204	Lab_ID
+205	FAO-Unesco soil taxonomic classification
+206	Horizon number
+207	Diagnostic horizon
+208	Diagnostic property
+209	Size of structure elements
+210	Size of coarse fragments
+211	Very coarse sand
+212	Coarse sand
+213	Medium sand
+214	Fine sand
+215	Very fine sand
+216	Total sand
+217	Silt
+218	Infiltration rate
+219	pH (H2O)
+220	pH (KCl)
+221	Electrical conductivity (ECe)
+222	Soluble Na+
+223	Soluble Ca++
+224	Soluble Mg++
+225	Soluble K+
+226	Soluble Cl-
+227	Soluble SO4--
+228	Soluble HCO3-
+229	Soluble CO3--
+230	Exchangeable Ca++
+231	Exchangeable Mg++
+232	Exchangeable Na+
+233	Exchangeable K+
+234	Exchangeable Al+++
+235	Exchangeable acidity
+236	CEC soil
+237	Total carbonate equivalent
+238	Gypsum
+239	Total carbon
+240	Total nitrogen
+241	P2O5 content.
+242	Phosphate retention
+243	Fe, dithionite extractable
+244	Fe, pyrophosphate extractable
+245	Al, dithionite extractable
+246	Al, pyrophosphate extractable
+247	Clay mineralogy
+248	Terrain component data_id
+249	Depth of soil
+250	Phase (1974)
+251	Reference soil group (WRB, 2006)
+252	Edition (year) of USDA Soil Taxonomy
+253	Climate
+254	Parent material
+255	Horizon designation
+256	Organic carbon (generic)
+257	Electrical conductivity (generic)
+258	pH (H2O)
+259	pH (KCl)
+260	pH (CaCl2)
+261	Exchangeable Acidity (H+ and Al+++)
+262	Cation Exchange capacity (CEC)
+263	Base saturation (as percentage of CEC)
+264	Sand content (generic)
+265	Silt content (generic)
+266	Clay content (generic)
+267	Coarse fragments content
+268	Profile location status
+269	Parent material / Parent rock
+270	Mode of accumulation or deposition
+271	Texture of parent material
+272	Weathering status
+273	Resistance to weathering
+274	Run off
+275	Nature of flood water
+276	Quantity of pores
+277	Continuity of pores
+278	Total sand
+279	Total sand
+280	Silt
+281	Silt
+282	Clay
+283	Clay
+284	Multispec
